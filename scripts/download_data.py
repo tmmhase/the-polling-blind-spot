@@ -9,6 +9,7 @@ Usage:
     python3 scripts/download_data.py
     python3 scripts/download_data.py --source fte-historical --force
     python3 scripts/download_data.py --source medsl-senate --force
+    python3 scripts/download_data.py --source wikipedia-2026 --force
 """
 
 from __future__ import annotations
@@ -17,12 +18,16 @@ import argparse
 import csv
 import io
 import json
+import re
 import shutil
 import ssl
 import subprocess
 import sys
+import time
 import urllib.error
+import urllib.parse
 import urllib.request
+from html.parser import HTMLParser
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -52,6 +57,27 @@ MEDSL_DATASET_API_URL = (
 MEDSL_FILE_API = "https://dataverse.harvard.edu/api/access/datafile/{file_id}"
 MEDSL_SENATE_FILENAME = "medsl_us_senate_statewide_returns_1976_2024.csv"
 MEDSL_CODEBOOK_FILENAME = "medsl_us_senate_returns_codebook.md"
+
+WIKIPEDIA_API_URL = "https://en.wikipedia.org/w/api.php"
+WIKIPEDIA_2026_FILENAME = "wikipedia_2026_us_senate_polls.csv"
+WIKIPEDIA_PAGE_PREFIXES = (
+    "2026 United States Senate election",
+    "2026 United States Senate special election",
+)
+WIKIPEDIA_SKIP_TITLES = {
+    "2026 United States Senate election",
+    "2026 United States Senate elections",
+    "2026 United States Senate elections in Alabama",
+}
+META_HEADER_PATTERNS = (
+    "poll source",
+    "pollster",
+    "date",
+    "sample",
+    "margin",
+    "error",
+    "moe",
+)
 
 MIN_CSV_BYTES = 1024
 
