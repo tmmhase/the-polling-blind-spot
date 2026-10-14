@@ -8,6 +8,7 @@ to data/raw/ and are never modified after download.
 Usage:
     python3 scripts/download_data.py
     python3 scripts/download_data.py --source fte-historical --force
+    python3 scripts/download_data.py --source medsl-senate --force
 """
 
 from __future__ import annotations
@@ -15,6 +16,7 @@ from __future__ import annotations
 import argparse
 import csv
 import io
+import json
 import shutil
 import ssl
 import subprocess
@@ -41,6 +43,15 @@ FTE_HISTORICAL_WAYBACK_URL = (
     "https://projects.fivethirtyeight.com/polls-page/data/senate_polls_historical.csv"
 )
 FTE_HISTORICAL_FILENAME = "fivethirtyeight_senate_polls_historical.csv"
+
+MEDSL_DATASET_DOI = "doi:10.7910/DVN/PEJ5QU"
+MEDSL_DATASET_API_URL = (
+    "https://dataverse.harvard.edu/api/datasets/:persistentId/"
+    f"?persistentId={MEDSL_DATASET_DOI}"
+)
+MEDSL_FILE_API = "https://dataverse.harvard.edu/api/access/datafile/{file_id}"
+MEDSL_SENATE_FILENAME = "medsl_us_senate_statewide_returns_1976_2024.csv"
+MEDSL_CODEBOOK_FILENAME = "medsl_us_senate_returns_codebook.md"
 
 MIN_CSV_BYTES = 1024
 
@@ -219,11 +230,82 @@ def download_fte_historical(*, force: bool = False) -> Path:
     raise last_error or DownloadError("No FiveThirtyEight historical poll URL succeeded")
 
 
+def _dataverse_latest_files() -> list[dict]:
+    """Return file records from the latest released MEDSL Senate dataset version."""
+    payload = download_bytes(MEDSL_DATASET_API_URL)
+    try:
+        body = json.loads(payload.decode("utf-8"))
+    except json.JSONDecodeError as exc:
+        raise DownloadError("Harvard Dataverse metadata was not valid JSON") from exc
+    files = (
+        body.get("data", {})
+        .get("latestVersion", {})
+        .get("files", [])
+    )
+    if not files:
+        raise DownloadError("Harvard Dataverse metadata listed no files")
+    return files
+
+
+def _dataverse_file_id(files: list[dict], *, name_contains: str) -> int:
+    needle = name_contains.lower()
+    for record in files:
+        data_file = record.get("dataFile") or {}
+        names = [
+            record.get("label") or "",
+            data_file.get("filename") or "",
+            data_file.get("originalFileName") or "",
+        ]
+        if any(needle in name.lower() for name in names):
+            file_id = data_file.get("id")
+            if file_id is None:
+                raise DownloadError(f"Dataverse file matching {name_contains!r} has no id")
+            return int(file_id)
+    raise DownloadError(f"No Dataverse file matching {name_contains!r}")
+
+
+def download_medsl_senate(*, force: bool = False) -> Path:
+    """Download MIT Election Data + Science Lab U.S. Senate statewide returns."""
+    dest = RAW_DIR / MEDSL_SENATE_FILENAME
+    if dest.exists() and not force:
+        payload = dest.read_bytes()
+        stats = validate_csv_bytes(payload, dest.name)
+        print(
+            f"Using existing {dest} "
+            f"({stats['n_rows']} rows, {stats['n_columns']} columns)"
+        )
+        return dest
+
+    print(f"Resolving MEDSL Senate files from {MEDSL_DATASET_API_URL}")
+    files = _dataverse_latest_files()
+    file_id = _dataverse_file_id(files, name_contains="1976-2024-senate-state")
+    url = f"{MEDSL_FILE_API.format(file_id=file_id)}?format=original"
+    print(f"Downloading MEDSL Senate statewide returns from {url}")
+    payload = download_bytes(url)
+    stats = validate_csv_bytes(payload, MEDSL_SENATE_FILENAME)
+    dest = write_raw_file(MEDSL_SENATE_FILENAME, payload)
+    print(
+        f"Wrote {dest} ({stats['bytes']} bytes, {stats['n_rows']} rows, "
+        f"{stats['n_columns']} columns)"
+    )
+
+    try:
+        codebook_id = _dataverse_file_id(files, name_contains="codebook")
+        codebook_url = MEDSL_FILE_API.format(file_id=codebook_id)
+        codebook = download_bytes(codebook_url)
+        codebook_path = write_raw_file(MEDSL_CODEBOOK_FILENAME, codebook)
+        print(f"Wrote {codebook_path} ({len(codebook)} bytes)")
+    except DownloadError as exc:
+        print(f"Codebook skipped: {exc}")
+
+    return dest
+
+
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--source",
-        choices=["all", "fte-historical"],
+        choices=["all", "fte-historical", "medsl-senate"],
         default="all",
         help="Which dataset to download (default: all implemented sources)",
     )
@@ -240,6 +322,8 @@ def main(argv: list[str] | None = None) -> int:
     try:
         if args.source in {"all", "fte-historical"}:
             download_fte_historical(force=args.force)
+        if args.source in {"all", "medsl-senate"}:
+            download_medsl_senate(force=args.force)
     except DownloadError as exc:
         print(f"ERROR: {exc}", file=sys.stderr)
         return 1
