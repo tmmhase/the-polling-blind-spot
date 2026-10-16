@@ -13,7 +13,12 @@ A data science platform analyzing historical polling errors and uncertainty in t
 ```bash
 python3 scripts/download_data.py
 python3 scripts/download_data.py --source wikipedia-2026 --force
+python3 scripts/preprocess_polls.py
 python3 -m pytest
 ```
 
 Source URLs, licenses, coverage, and limitations are in [docs/data-sources.md](docs/data-sources.md).
+
+## Cleaned polling tables
+
+`scripts/preprocess_polls.py` standardizes state names, dates, pollsters, candidate names, and sample sizes, and writes question-level margins to `data/processed/`. Raw files are left unchanged. Missing percentages and sample sizes stay missing. The margin definition and the rows that are quarantined or held out are in [docs/preprocessing.md](docs/preprocessing.md).
