@@ -22,3 +22,11 @@ Source URLs, licenses, coverage, and limitations are in [docs/data-sources.md](d
 ## Cleaned polling tables
 
 `scripts/preprocess_polls.py` standardizes state names, dates, pollsters, candidate names, and sample sizes, and writes question-level margins to `data/processed/`. Raw files are left unchanged. Missing percentages and sample sizes stay missing. The margin definition and the rows that are quarantined or held out are in [docs/preprocessing.md](docs/preprocessing.md).
+
+## Historical polling error
+
+`scripts/analyze_polling_error.py` joins the cleaned FiveThirtyEight questions to MIT Senate returns for 2018–2024. It scores only polls whose fieldwork ended on or before election day, and it keeps result margins out of the pre-election averages. Definitions, inclusion rules, and the limits of the name match are in [docs/historical-polling-error.md](docs/historical-polling-error.md). Tables and figures are written to `outputs/historical_polling_error/`.
+
+```bash
+python3 scripts/analyze_polling_error.py
+```

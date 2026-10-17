@@ -60,4 +60,4 @@ A poll row is quarantined when its poll-source cell has no pollster name, for ex
 
 ## What this step does not do
 
-It does not join election results, estimate polling error, score pollsters, or impute 2026 outcomes. FiveThirtyEight's pollster grades stay in the raw file. Party labels that Wikipedia omitted stay missing even when the candidate's party is widely known. Louisiana's `Primary election` heading stays `primary`; it is not relabeled as a jungle primary. Senate class and `seat_number` are copied as published and are not treated as a special-election flag.
+It does not join election results, estimate polling error, score pollsters, or impute 2026 outcomes. The historical join is a separate command, documented in [historical-polling-error.md](historical-polling-error.md). FiveThirtyEight's pollster grades stay in the raw file. Party labels that Wikipedia omitted stay missing even when the candidate's party is widely known. Louisiana's `Primary election` heading stays `primary`; it is not relabeled as a jungle primary. Senate class and `seat_number` are copied as published and are not treated as a special-election flag.

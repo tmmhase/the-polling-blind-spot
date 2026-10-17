@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Historical polling error and uncertainty in the 2026 U.S. Senate elections."
 requires-python = ">=3.11"
 readme = "README.md"
-dependencies = ["pandas>=2.2"]
+dependencies = ["pandas>=2.2", "matplotlib>=3.8"]
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
