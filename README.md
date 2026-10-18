@@ -30,3 +30,11 @@ Source URLs, licenses, coverage, and limitations are in [docs/data-sources.md](d
 ```bash
 python3 scripts/analyze_polling_error.py
 ```
+
+## Polling uncertainty
+
+`scripts/run_uncertainty.py` fits a hierarchical model to those signed errors. Sampling variance comes from the published sample size. Separate random effects capture the part a race shares, the part a pollster repeats inside that race, and a cycle-level shift. Monte Carlo draws show how little the interval shrinks when more polls come from the same firm. Leave-one-cycle-out and forward-chain backtests score each cycle without that cycle's results. Assumptions, coverage, and limitations are in [docs/uncertainty-model.md](docs/uncertainty-model.md). Tables and figures are written to `outputs/uncertainty/`.
+
+```bash
+python3 scripts/run_uncertainty.py
+```

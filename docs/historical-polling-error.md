@@ -93,3 +93,5 @@ Eight contests, covering 239 scored polls, have `unofficial=True` on a matched c
 The result is not an input to which polls are averaged, and it is not written back onto the cleaned poll file. Post-election fieldwork is dropped before a result margin is attached. Nothing here imputes a 2026 result or borrows a future election's error.
 
 The two-candidate rescaling does not say how undecided respondents or third-party voters eventually voted. That difference is part of the error. Ranked-choice reallocations are not compared with first-round totals. California's simultaneous ballots are not averaged into one synthetic result. Polls are not weighted by FiveThirtyEight's pollster grade. A simple mean treats every poll as one observation even when one firm fields many waves, which is why the race table exists beside the poll table.
+
+The hierarchical model fitted to these signed errors, and the backtests that hold a cycle's results out of that cycle's fit, are in [uncertainty-model.md](uncertainty-model.md). The variance split in this file is descriptive. It is not that model.

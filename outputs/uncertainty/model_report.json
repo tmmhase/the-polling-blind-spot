@@ -1,0 +1,934 @@
+{
+  "error_definition": "Signed error is poll_margin_two_party minus result_margin_two_party, in percentage points. Positive means the poll average was more Democratic than the two-candidate result.",
+  "model": "error = mu + beta_mid * mid + beta_early * early + cycle + race + pollster_within_race + sampling_noise. Late polls are the baseline. Sampling noise has variance phi times the simple-random-sample variance.",
+  "input": {
+    "file": "poll_errors.csv",
+    "sha256": "1c0116ea496ff6adbd6ef2fc8e44a343180633ef12415b3e40f53d236971ad05",
+    "bytes": 1110062
+  },
+  "preparation": {
+    "n_questions": 3212,
+    "n_questions_kept": 3201,
+    "n_questions_excluded": 11,
+    "exclusions_by_reason": {
+      "missing_sample_size": 10,
+      "shares_exceed_100": 1
+    },
+    "n_polls": 2794,
+    "n_polls_with_multiple_questions": 301,
+    "n_races": 119,
+    "n_pollster_race_groups": 1444,
+    "n_cycles": 4,
+    "cycles": [
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "median_sample_size": 788.0,
+    "median_sampling_variance": 14.460790068847334
+  },
+  "priors": {
+    "mu": "Normal(0, 20.0^2)",
+    "beta_mid": "Normal(0, 5.0^2)",
+    "beta_early": "Normal(0, 5.0^2)",
+    "sd_race": "Half-Cauchy(scale=5.0)",
+    "sd_house": "Half-Cauchy(scale=5.0)",
+    "sd_cycle": "Half-Cauchy(scale=5.0)",
+    "phi": "InvGamma(shape=2.0, scale=1.0), prior mean 1"
+  },
+  "sampler": {
+    "burn_in": 2000,
+    "draws": 2000,
+    "thin": 2,
+    "seed": 20261018,
+    "algorithm": "Gibbs, with a joint draw for the mean and cycle effects and a scale-mixture draw for half-Cauchy standard deviations"
+  },
+  "posterior": [
+    {
+      "parameter": "mu",
+      "mean": 2.408873078115698,
+      "p05": 0.20752187887486123,
+      "p50": 2.3902620060840936,
+      "p95": 4.824696363974626,
+      "ess": 1207.3021070697805
+    },
+    {
+      "parameter": "beta_mid",
+      "mean": 1.7620812402986945,
+      "p05": 1.445237291198908,
+      "p50": 1.7562183865326642,
+      "p95": 2.0997584370529445,
+      "ess": 700.6540381691254
+    },
+    {
+      "parameter": "beta_early",
+      "mean": -0.0020259314415003392,
+      "p05": -0.48689644138055743,
+      "p50": -0.0048077737677809955,
+      "p95": 0.48483688836737815,
+      "ess": 1101.6911498002016
+    },
+    {
+      "parameter": "sd_race",
+      "mean": 4.497705662277309,
+      "p05": 3.895506461049958,
+      "p50": 4.477552533318011,
+      "p95": 5.142733677676759,
+      "ess": 622.5731950694637
+    },
+    {
+      "parameter": "sd_house",
+      "mean": 3.909072167729979,
+      "p05": 3.682437071088695,
+      "p50": 3.9104050007092477,
+      "p95": 4.1342849242821025,
+      "ess": 505.2868369646704
+    },
+    {
+      "parameter": "sd_cycle",
+      "mean": 2.5385783345381285,
+      "p05": 0.889295327935114,
+      "p50": 2.0941936358091766,
+      "p95": 5.598263818958288,
+      "ess": 302.9545105517005
+    },
+    {
+      "parameter": "phi",
+      "mean": 1.1189352220622308,
+      "p05": 1.0510808061473804,
+      "p50": 1.1176766639848799,
+      "p95": 1.1923422276615285,
+      "ess": 860.6878331119036
+    }
+  ],
+  "stylized_sampling_variance": 14.460790068847334,
+  "variance_decomposition": [
+    {
+      "design": "one_late_poll",
+      "estimand": "unweighted",
+      "component": "cycle",
+      "variance": 9.862830140804002,
+      "share": 0.15331234074254732,
+      "sd_if_only_this_component": 3.140514311510776,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "unweighted",
+      "component": "race",
+      "variance": 20.372488788452056,
+      "share": 0.31667927950894187,
+      "sd_if_only_this_component": 4.513589346457214,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "unweighted",
+      "component": "house",
+      "variance": 15.29973146534054,
+      "share": 0.23782602054348564,
+      "sd_if_only_this_component": 3.911487116857288,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "unweighted",
+      "component": "sampling",
+      "variance": 16.180687346880994,
+      "share": 0.25152000151666615,
+      "sd_if_only_this_component": 4.02252251042564,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "unweighted",
+      "component": "mean_parameter",
+      "variance": 2.615875049995905,
+      "share": 0.04066235768835898,
+      "sd_if_only_this_component": 1.6173667023887641,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "pollster_equal",
+      "component": "cycle",
+      "variance": 9.862830140804002,
+      "share": 0.15331234074254732,
+      "sd_if_only_this_component": 3.140514311510776,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "pollster_equal",
+      "component": "race",
+      "variance": 20.372488788452056,
+      "share": 0.31667927950894187,
+      "sd_if_only_this_component": 4.513589346457214,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "pollster_equal",
+      "component": "house",
+      "variance": 15.29973146534054,
+      "share": 0.23782602054348564,
+      "sd_if_only_this_component": 3.911487116857288,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "pollster_equal",
+      "component": "sampling",
+      "variance": 16.180687346880994,
+      "share": 0.25152000151666615,
+      "sd_if_only_this_component": 4.02252251042564,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "one_late_poll",
+      "estimand": "pollster_equal",
+      "component": "mean_parameter",
+      "variance": 2.615875049995905,
+      "share": 0.04066235768835898,
+      "sd_if_only_this_component": 1.6173667023887641,
+      "predictive_sd": 8.020699021374229,
+      "n_polls": 1,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "unweighted",
+      "component": "cycle",
+      "variance": 9.862830140804002,
+      "share": 0.19817218136407527,
+      "sd_if_only_this_component": 3.140514311510776,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "unweighted",
+      "component": "race",
+      "variance": 20.372488788452056,
+      "share": 0.409340978744018,
+      "sd_if_only_this_component": 4.513589346457214,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "unweighted",
+      "component": "house",
+      "variance": 15.29973146534054,
+      "share": 0.30741492203412846,
+      "sd_if_only_this_component": 3.911487116857288,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "unweighted",
+      "component": "sampling",
+      "variance": 1.6180687346880993,
+      "share": 0.032511581987359504,
+      "sd_if_only_this_component": 1.2720333072243428,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "unweighted",
+      "component": "mean_parameter",
+      "variance": 2.615875049995905,
+      "share": 0.052560335870418765,
+      "sd_if_only_this_component": 1.6173667023887641,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "pollster_equal",
+      "component": "cycle",
+      "variance": 9.862830140804002,
+      "share": 0.19817218136407527,
+      "sd_if_only_this_component": 3.140514311510776,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "pollster_equal",
+      "component": "race",
+      "variance": 20.372488788452056,
+      "share": 0.409340978744018,
+      "sd_if_only_this_component": 4.513589346457214,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "pollster_equal",
+      "component": "house",
+      "variance": 15.29973146534054,
+      "share": 0.30741492203412846,
+      "sd_if_only_this_component": 3.911487116857288,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "pollster_equal",
+      "component": "sampling",
+      "variance": 1.6180687346880993,
+      "share": 0.032511581987359504,
+      "sd_if_only_this_component": 1.2720333072243428,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "estimand": "pollster_equal",
+      "component": "mean_parameter",
+      "variance": 2.615875049995905,
+      "share": 0.052560335870418765,
+      "sd_if_only_this_component": 1.6173667023887641,
+      "predictive_sd": 7.05471432300987,
+      "n_polls": 10,
+      "n_pollsters": 1
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "unweighted",
+      "component": "cycle",
+      "variance": 9.862830140804002,
+      "share": 0.27397331929573093,
+      "sd_if_only_this_component": 3.140514311510776,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "unweighted",
+      "component": "race",
+      "variance": 20.372488788452056,
+      "share": 0.5659144785020375,
+      "sd_if_only_this_component": 4.513589346457214,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "unweighted",
+      "component": "house",
+      "variance": 1.5299731465340545,
+      "share": 0.04250015618286806,
+      "sd_if_only_this_component": 1.2369208327674226,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "unweighted",
+      "component": "sampling",
+      "variance": 1.6180687346880993,
+      "share": 0.04494730779729359,
+      "sd_if_only_this_component": 1.2720333072243428,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "unweighted",
+      "component": "mean_parameter",
+      "variance": 2.615875049995905,
+      "share": 0.07266473822206997,
+      "sd_if_only_this_component": 1.6173667023887641,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "pollster_equal",
+      "component": "cycle",
+      "variance": 9.862830140804002,
+      "share": 0.27397331929573093,
+      "sd_if_only_this_component": 3.140514311510776,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "pollster_equal",
+      "component": "race",
+      "variance": 20.372488788452056,
+      "share": 0.5659144785020375,
+      "sd_if_only_this_component": 4.513589346457214,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "pollster_equal",
+      "component": "house",
+      "variance": 1.5299731465340543,
+      "share": 0.04250015618286805,
+      "sd_if_only_this_component": 1.2369208327674226,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "pollster_equal",
+      "component": "sampling",
+      "variance": 1.6180687346880993,
+      "share": 0.04494730779729359,
+      "sd_if_only_this_component": 1.2720333072243428,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "estimand": "pollster_equal",
+      "component": "mean_parameter",
+      "variance": 2.615875049995905,
+      "share": 0.07266473822206997,
+      "sd_if_only_this_component": 1.6173667023887641,
+      "predictive_sd": 5.999936321368263,
+      "n_polls": 10,
+      "n_pollsters": 10
+    }
+  ],
+  "simulation_quantiles": [
+    {
+      "design": "one_late_poll",
+      "n_polls": 1,
+      "n_pollsters": 1,
+      "n_draws": 2000,
+      "mean": 2.3658283398854953,
+      "sd": 8.193743830078972,
+      "p025": -13.146118547540258,
+      "p10": -7.890428991751232,
+      "p25": -3.0922120739112007,
+      "p50": 2.4410274178343654,
+      "p75": 7.668357192490843,
+      "p90": 12.62939113175773,
+      "p975": 18.74976412503313
+    },
+    {
+      "design": "ten_late_polls_one_pollster",
+      "n_polls": 10,
+      "n_pollsters": 1,
+      "n_draws": 2000,
+      "mean": 2.0901172223344933,
+      "sd": 7.298680895557107,
+      "p025": -11.917063525466656,
+      "p10": -6.449018847599193,
+      "p25": -2.3060351729154895,
+      "p50": 2.2298545514827746,
+      "p75": 6.685729983897907,
+      "p90": 11.078643980187536,
+      "p975": 15.31582064705313
+    },
+    {
+      "design": "ten_late_polls_ten_pollsters",
+      "n_polls": 10,
+      "n_pollsters": 10,
+      "n_draws": 2000,
+      "mean": 2.6619058199034824,
+      "sd": 5.767062920146048,
+      "p025": -8.788980884854324,
+      "p10": -4.473655680540467,
+      "p25": -1.084197383208698,
+      "p50": 2.7251457492868454,
+      "p75": 6.346879394584539,
+      "p90": 9.756686170197062,
+      "p975": 14.253012914774102
+    }
+  ],
+  "prior_sensitivity": [
+    {
+      "half_cauchy_scale": 2.5,
+      "parameter": "mu",
+      "p50": 2.4375500712358047,
+      "p05": 0.5410222800892858,
+      "p95": 4.471821510989319,
+      "ess": 785.2257359456167
+    },
+    {
+      "half_cauchy_scale": 2.5,
+      "parameter": "beta_mid",
+      "p50": 1.7543670024290734,
+      "p05": 1.4425094670475231,
+      "p95": 2.0998727355991242,
+      "ess": 679.7276761712735
+    },
+    {
+      "half_cauchy_scale": 2.5,
+      "parameter": "beta_early",
+      "p50": -0.0011230810098637619,
+      "p05": -0.485488027091547,
+      "p95": 0.4919693216288705,
+      "ess": 1063.0618880446539
+    },
+    {
+      "half_cauchy_scale": 2.5,
+      "parameter": "sd_race",
+      "p50": 4.4724329706417985,
+      "p05": 3.8907890507563603,
+      "p95": 5.123308304746169,
+      "ess": 584.436501143128
+    },
+    {
+      "half_cauchy_scale": 2.5,
+      "parameter": "sd_house",
+      "p50": 3.907839892732098,
+      "p05": 3.6802548938889634,
+      "p95": 4.133046799282322,
+      "ess": 502.77395549554484
+    },
+    {
+      "half_cauchy_scale": 2.5,
+      "parameter": "sd_cycle",
+      "p50": 1.7887943106722384,
+      "p05": 0.7212676931347562,
+      "p95": 4.506047054320598,
+      "ess": 266.544425604541
+    },
+    {
+      "half_cauchy_scale": 2.5,
+      "parameter": "phi",
+      "p50": 1.1177835666226392,
+      "p05": 1.051517456935909,
+      "p95": 1.1929838967811264,
+      "ess": 860.7422053509974
+    },
+    {
+      "half_cauchy_scale": 5.0,
+      "parameter": "mu",
+      "p50": 2.3902620060840936,
+      "p05": 0.20752187887486123,
+      "p95": 4.824696363974626,
+      "ess": 1207.3021070697805
+    },
+    {
+      "half_cauchy_scale": 5.0,
+      "parameter": "beta_mid",
+      "p50": 1.7562183865326642,
+      "p05": 1.445237291198908,
+      "p95": 2.0997584370529445,
+      "ess": 700.6540381691254
+    },
+    {
+      "half_cauchy_scale": 5.0,
+      "parameter": "beta_early",
+      "p50": -0.0048077737677809955,
+      "p05": -0.48689644138055743,
+      "p95": 0.48483688836737815,
+      "ess": 1101.6911498002016
+    },
+    {
+      "half_cauchy_scale": 5.0,
+      "parameter": "sd_race",
+      "p50": 4.477552533318011,
+      "p05": 3.895506461049958,
+      "p95": 5.142733677676759,
+      "ess": 622.5731950694637
+    },
+    {
+      "half_cauchy_scale": 5.0,
+      "parameter": "sd_house",
+      "p50": 3.9104050007092477,
+      "p05": 3.682437071088695,
+      "p95": 4.1342849242821025,
+      "ess": 505.2868369646704
+    },
+    {
+      "half_cauchy_scale": 5.0,
+      "parameter": "sd_cycle",
+      "p50": 2.0941936358091766,
+      "p05": 0.889295327935114,
+      "p95": 5.598263818958288,
+      "ess": 302.9545105517005
+    },
+    {
+      "half_cauchy_scale": 5.0,
+      "parameter": "phi",
+      "p50": 1.1176766639848799,
+      "p05": 1.0510808061473804,
+      "p95": 1.1923422276615285,
+      "ess": 860.6878331119036
+    },
+    {
+      "half_cauchy_scale": 10.0,
+      "parameter": "mu",
+      "p50": 2.3965620765023457,
+      "p05": -0.23971822543487611,
+      "p95": 5.118660149643148,
+      "ess": 1497.698018963021
+    },
+    {
+      "half_cauchy_scale": 10.0,
+      "parameter": "beta_mid",
+      "p50": 1.757219297610783,
+      "p05": 1.444029241765783,
+      "p95": 2.098550417218918,
+      "ess": 679.9682584599954
+    },
+    {
+      "half_cauchy_scale": 10.0,
+      "parameter": "beta_early",
+      "p50": -0.005793614566469901,
+      "p05": -0.48658542686110523,
+      "p95": 0.4840393659964514,
+      "ess": 1094.831997541632
+    },
+    {
+      "half_cauchy_scale": 10.0,
+      "parameter": "sd_race",
+      "p50": 4.49240420802493,
+      "p05": 3.9019318621642363,
+      "p95": 5.160697735049871,
+      "ess": 621.4511886906819
+    },
+    {
+      "half_cauchy_scale": 10.0,
+      "parameter": "sd_house",
+      "p50": 3.9124724801348485,
+      "p05": 3.6840242552734397,
+      "p95": 4.1369725218912405,
+      "ess": 503.3896918460103
+    },
+    {
+      "half_cauchy_scale": 10.0,
+      "parameter": "sd_cycle",
+      "p50": 2.330449714900868,
+      "p05": 0.9330048332160205,
+      "p95": 6.9558072947625815,
+      "ess": 347.8679827355793
+    },
+    {
+      "half_cauchy_scale": 10.0,
+      "parameter": "phi",
+      "p50": 1.1173526557005014,
+      "p05": 1.0508283344184701,
+      "p95": 1.1924363565933338,
+      "ess": 860.3940984186507
+    }
+  ],
+  "backtest_coverage": [
+    {
+      "protocol": "forward_chain",
+      "estimand": "pollster_equal",
+      "cycle": "all",
+      "n_races": 88,
+      "coverage_50": 0.6590909090909091,
+      "coverage_80": 0.9431818181818182,
+      "coverage_95": 1.0,
+      "mean_width_95": 42.67000415623555,
+      "median_width_95": 38.17445922191477,
+      "mean_pit": 0.5538011363636364,
+      "mean_actual_error": 4.154792087857852,
+      "mean_predicted_median": 2.728296899739335
+    },
+    {
+      "protocol": "forward_chain",
+      "estimand": "pollster_equal",
+      "cycle": "2020",
+      "n_races": 30,
+      "coverage_50": 0.5666666666666667,
+      "coverage_80": 0.9666666666666667,
+      "coverage_95": 1.0,
+      "mean_width_95": 58.868161723962274,
+      "median_width_95": 59.07877158615605,
+      "mean_pit": 0.6815833333333333,
+      "mean_actual_error": 6.393680032382041,
+      "mean_predicted_median": 1.30351015528664
+    },
+    {
+      "protocol": "forward_chain",
+      "estimand": "pollster_equal",
+      "cycle": "2022",
+      "n_races": 28,
+      "coverage_50": 0.6071428571428571,
+      "coverage_80": 0.8928571428571429,
+      "coverage_95": 1.0,
+      "mean_width_95": 38.37683226692507,
+      "median_width_95": 37.997228039393235,
+      "mean_pit": 0.46212499999999984,
+      "mean_actual_error": 2.341100579234021,
+      "mean_predicted_median": 3.3769464581645217
+    },
+    {
+      "protocol": "forward_chain",
+      "estimand": "pollster_equal",
+      "cycle": "2024",
+      "n_races": 30,
+      "coverage_50": 0.8,
+      "coverage_80": 0.9666666666666667,
+      "coverage_95": 1.0,
+      "mean_width_95": 30.478807018531946,
+      "median_width_95": 29.366051748821775,
+      "mean_pit": 0.5115833333333334,
+      "mean_actual_error": 3.608682884715906,
+      "mean_predicted_median": 3.547677389661855
+    },
+    {
+      "protocol": "forward_chain",
+      "estimand": "unweighted",
+      "cycle": "all",
+      "n_races": 88,
+      "coverage_50": 0.6477272727272727,
+      "coverage_80": 0.9431818181818182,
+      "coverage_95": 0.9886363636363636,
+      "mean_width_95": 42.83409230718865,
+      "median_width_95": 38.287857451211785,
+      "mean_pit": 0.556903409090909,
+      "mean_actual_error": 4.280981214101481,
+      "mean_predicted_median": 2.700559300898635
+    },
+    {
+      "protocol": "forward_chain",
+      "estimand": "unweighted",
+      "cycle": "2020",
+      "n_races": 30,
+      "coverage_50": 0.5666666666666667,
+      "coverage_80": 0.9666666666666667,
+      "coverage_95": 1.0,
+      "mean_width_95": 58.93761086508118,
+      "median_width_95": 58.73303766867197,
+      "mean_pit": 0.6821833333333333,
+      "mean_actual_error": 6.431756830799707,
+      "mean_predicted_median": 1.2880577160312632
+    },
+    {
+      "protocol": "forward_chain",
+      "estimand": "unweighted",
+      "cycle": "2022",
+      "n_races": 28,
+      "coverage_50": 0.6071428571428571,
+      "coverage_80": 0.8928571428571429,
+      "coverage_95": 0.9642857142857143,
+      "mean_width_95": 38.7050383968778,
+      "median_width_95": 38.24118378665253,
+      "mean_pit": 0.47266071428571427,
+      "mean_actual_error": 2.721196102822062,
+      "mean_predicted_median": 3.38386086702146
+    },
+    {
+      "protocol": "forward_chain",
+      "estimand": "unweighted",
+      "cycle": "2024",
+      "n_races": 30,
+      "coverage_50": 0.7666666666666667,
+      "coverage_80": 0.9666666666666667,
+      "coverage_95": 1.0,
+      "mean_width_95": 30.58435739891957,
+      "median_width_95": 29.696351671561462,
+      "mean_pit": 0.51025,
+      "mean_actual_error": 3.5860050345973784,
+      "mean_predicted_median": 3.475312757384705
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "pollster_equal",
+      "cycle": "all",
+      "n_races": 119,
+      "coverage_50": 0.6050420168067226,
+      "coverage_80": 0.8403361344537815,
+      "coverage_95": 0.9747899159663865,
+      "mean_width_95": 27.123462822708266,
+      "median_width_95": 26.833370545758406,
+      "mean_pit": 0.5177058823529411,
+      "mean_actual_error": 3.5143444166900535,
+      "mean_predicted_median": 3.2306837545480445
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "pollster_equal",
+      "cycle": "2018",
+      "n_races": 31,
+      "coverage_50": 0.6129032258064516,
+      "coverage_80": 0.9032258064516129,
+      "coverage_95": 0.967741935483871,
+      "mean_width_95": 26.989592825192577,
+      "median_width_95": 26.82779832887782,
+      "mean_pit": 0.4021774193548387,
+      "mean_actual_error": 1.696299414665333,
+      "mean_predicted_median": 3.850550534188547
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "pollster_equal",
+      "cycle": "2020",
+      "n_races": 30,
+      "coverage_50": 0.43333333333333335,
+      "coverage_80": 0.6666666666666666,
+      "coverage_95": 0.9666666666666667,
+      "mean_width_95": 24.351681528675332,
+      "median_width_95": 22.26372471648065,
+      "mean_pit": 0.6970166666666665,
+      "mean_actual_error": 6.393680032382041,
+      "mean_predicted_median": 2.1716467746592256
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "pollster_equal",
+      "cycle": "2022",
+      "n_races": 28,
+      "coverage_50": 0.5714285714285714,
+      "coverage_80": 0.8214285714285714,
+      "coverage_95": 0.9642857142857143,
+      "mean_width_95": 27.508231599745027,
+      "median_width_95": 26.61623700445962,
+      "mean_pit": 0.44871428571428573,
+      "mean_actual_error": 2.341100579234021,
+      "mean_predicted_median": 3.5700191696407932
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "pollster_equal",
+      "cycle": "2024",
+      "n_races": 30,
+      "coverage_50": 0.8,
+      "coverage_80": 0.9666666666666667,
+      "coverage_95": 1.0,
+      "mean_width_95": 29.67445892227311,
+      "median_width_95": 28.68168145015246,
+      "mean_pit": 0.5221666666666667,
+      "mean_actual_error": 3.608682884715906,
+      "mean_predicted_median": 3.3324786747217776
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "unweighted",
+      "cycle": "all",
+      "n_races": 119,
+      "coverage_50": 0.5798319327731093,
+      "coverage_80": 0.8487394957983193,
+      "coverage_95": 0.9747899159663865,
+      "mean_width_95": 27.142920503307867,
+      "median_width_95": 26.969892509432754,
+      "mean_pit": 0.522890756302521,
+      "mean_actual_error": 3.649238614013109,
+      "mean_predicted_median": 3.211255502441753
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "unweighted",
+      "cycle": "2018",
+      "n_races": 31,
+      "coverage_50": 0.5161290322580645,
+      "coverage_80": 0.9354838709677419,
+      "coverage_95": 0.967741935483871,
+      "mean_width_95": 26.986272758546658,
+      "median_width_95": 26.48013001325552,
+      "mean_pit": 0.41000000000000003,
+      "mean_actual_error": 1.8559047815041816,
+      "mean_predicted_median": 3.7942187904339337
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "unweighted",
+      "cycle": "2020",
+      "n_races": 30,
+      "coverage_50": 0.43333333333333335,
+      "coverage_80": 0.7333333333333333,
+      "coverage_95": 0.9666666666666667,
+      "mean_width_95": 24.354336379810725,
+      "median_width_95": 22.413503745354458,
+      "mean_pit": 0.6969833333333334,
+      "mean_actual_error": 6.431756830799707,
+      "mean_predicted_median": 2.2039748052038766
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "unweighted",
+      "cycle": "2022",
+      "n_races": 28,
+      "coverage_50": 0.5714285714285714,
+      "coverage_80": 0.75,
+      "coverage_95": 0.9642857142857143,
+      "mean_width_95": 27.53379799742371,
+      "median_width_95": 26.300910793939906,
+      "mean_pit": 0.46362499999999995,
+      "mean_actual_error": 2.721196102822062,
+      "mean_predicted_median": 3.506153329443909
+    },
+    {
+      "protocol": "leave_one_cycle_out",
+      "estimand": "unweighted",
+      "cycle": "2024",
+      "n_races": 30,
+      "coverage_50": 0.8,
+      "coverage_80": 0.9666666666666667,
+      "coverage_95": 1.0,
+      "mean_width_95": 29.728554968550135,
+      "median_width_95": 28.41363078033382,
+      "mean_pit": 0.5207666666666667,
+      "mean_actual_error": 3.5860050345973784,
+      "mean_predicted_median": 3.340902830219031
+    }
+  ],
+  "figures": [
+    "variance_components.png",
+    "predictive_error_distributions.png",
+    "backtest_predicted_vs_actual.png",
+    "backtest_coverage.png",
+    "posterior_standard_deviations.png"
+  ],
+  "leakage_controls": [
+    "The likelihood uses signed errors only for contests in the training cycles.",
+    "A leave-one-cycle-out fit drops every contest in the scored cycle.",
+    "The forward chain uses only earlier cycles. 2018 has no earlier cycle in this file.",
+    "Predictive draws are computed from timing bands, sampling variances, and pollster ids. The held-out signed error is attached afterward for scoring.",
+    "Result vote totals are not read by this step.",
+    "2026 results are not imputed."
+  ],
+  "limitations": [
+    "Four election cycles identify the cycle standard deviation weakly. That posterior is sensitive to the half-Cauchy scale.",
+    "Pollster effects are redrawn for each race. A firm's historical bias does not shift the center of a new race's interval.",
+    "The sampling variance is the simple-random-sample delta method. phi is one average inflation factor, not a design effect by mode.",
+    "Random effects are normal. Heavier tails in the historical errors are not given a separate degrees-of-freedom parameter.",
+    "Questions that share a poll id are collapsed to one observation. Their sampling variances are averaged, not divided by the question count.",
+    "The primary estimand is the unweighted mean of those polls. A pollster-equal mean is reported beside it.",
+    "Internal and partisan polls stay in the training set. FiveThirtyEight pollster grades are not used as weights.",
+    "Leave-one-cycle-out for 2018 trains on later cycles, so it is not a real-time score. The forward chain is the real-time score."
+  ]
+}
