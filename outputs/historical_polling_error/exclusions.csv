@@ -1,0 +1,715 @@
+question_id,poll_id,pollster,pollster_key,cycle,state_name,state_po,stage,election_date,end_date,dem_candidate,rep_candidate,margin_status,reason
+163133,81016,SurveyUSA,surveyusa,2022,California,CA,general,2022-11-08,2022-10-10,Alex Padilla,Mark P. Meuser,two_party,ambiguous_duplicate_ballot
+163134,81016,SurveyUSA,surveyusa,2022,California,CA,general,2022-11-08,2022-10-10,Alex Padilla,Mark P. Meuser,two_party,ambiguous_duplicate_ballot
+163687,81144,ActiVote,activote,2022,California,CA,general,2022-11-08,2022-10-20,Alex Padilla,Mark P. Meuser,two_party,ambiguous_duplicate_ballot
+165039,81541,USC Schwarzenegger Institute,usc schwarzenegger institute,2022,California,CA,general,2022-11-08,2022-11-02,Alex Padilla,Mark P. Meuser,two_party,ambiguous_duplicate_ballot
+165129,81582,Research Co.,research co.,2022,California,CA,general,2022-11-08,2022-11-06,Alex Padilla,Mark P. Meuser,two_party,ambiguous_duplicate_ballot
+165130,81582,Research Co.,research co.,2022,California,CA,general,2022-11-08,2022-11-06,Alex Padilla,Mark P. Meuser,two_party,ambiguous_duplicate_ballot
+193896,86240,UC Berkeley,uc berkeley,2024,California,CA,general,2024-11-05,2024-02-26,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+196357,86635,PPIC,ppic,2024,California,CA,general,2024-11-05,2024-03-25,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+200988,87167,PPIC,ppic,2024,California,CA,general,2024-11-05,2024-06-02,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+203404,87452,PPIC,ppic,2024,California,CA,general,2024-11-05,2024-07-02,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+205741,87746,ActiVote,activote,2024,California,CA,general,2024-11-05,2024-08-12,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+206078,87773,UC Berkeley,uc berkeley,2024,California,CA,general,2024-11-05,2024-08-11,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+207952,88063,Emerson,emerson,2024,California,CA,general,2024-11-05,2024-09-05,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+210100,88225,PPIC,ppic,2024,California,CA,general,2024-11-05,2024-09-09,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+210293,88268,ActiVote,activote,2024,California,CA,general,2024-11-05,2024-09-21,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+211098,88422,USC Dornsife/CSU Long Beach/Cal Poly Pomona,usc dornsife/csu long beach/cal poly pomona,2024,California,CA,general,2024-11-05,2024-09-25,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+212356,88514,UC Berkeley,uc berkeley,2024,California,CA,general,2024-11-05,2024-10-01,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+212895,88721,Emerson,emerson,2024,California,CA,general,2024-11-05,2024-10-14,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+213343,88791,ActiVote,activote,2024,California,CA,general,2024-11-05,2024-10-18,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+213986,88908,PPIC,ppic,2024,California,CA,general,2024-11-05,2024-10-15,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+214478,88983,ActiVote,activote,2024,California,CA,general,2024-11-05,2024-10-27,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+214808,89072,YouGov,yougov,2024,California,CA,general,2024-11-05,2024-10-17,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+215484,89184,UC Berkeley,uc berkeley,2024,California,CA,general,2024-11-05,2024-10-29,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+215485,89184,UC Berkeley,uc berkeley,2024,California,CA,general,2024-11-05,2024-10-29,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+215501,89186,Cygnal,cygnal,2024,California,CA,general,2024-11-05,2024-10-30,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+216192,89320,Research Co.,research co.,2024,California,CA,general,2024-11-05,2024-11-03,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+216193,89320,Research Co.,research co.,2024,California,CA,general,2024-11-05,2024-11-03,Adam B. Schiff,Steve Garvey,two_party,ambiguous_duplicate_ballot
+86175,53703,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2018,Arizona,AZ,general,2018-11-06,2018-07-25,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86176,53703,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2018,Arizona,AZ,general,2018-11-06,2018-07-25,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86177,53704,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86179,53704,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86181,53705,Emerson,emerson,2018,Arizona,AZ,general,2018-11-06,2018-06-22,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86182,53705,Emerson,emerson,2018,Arizona,AZ,general,2018-11-06,2018-06-22,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86183,53706,YouGov,yougov,2018,Arizona,AZ,general,2018-11-06,2018-06-22,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86184,53706,YouGov,yougov,2018,Arizona,AZ,general,2018-11-06,2018-06-22,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86186,53707,Marist College,marist college,2018,Arizona,AZ,general,2018-11-06,2018-06-21,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86188,53707,Marist College,marist college,2018,Arizona,AZ,general,2018-11-06,2018-06-21,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86190,53708,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2018,Arizona,AZ,general,2018-11-06,2018-04-11,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86191,53708,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2018,Arizona,AZ,general,2018-11-06,2018-04-11,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86194,53710,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2018,Arizona,AZ,general,2018-11-06,2017-11-09,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86298,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86299,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86301,53758,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-04-23,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86302,53758,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-04-23,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86387,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86388,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86389,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86390,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86391,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Kelli Ward,two_party,hypothetical
+86392,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86393,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86394,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86395,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86396,53757,SurveyMonkey,surveymonkey,2018,Arizona,AZ,general,2018-11-06,2018-07-02,Kyrsten Sinema,Joe Arpaio,two_party,hypothetical
+86851,53928,Data Orbital,data orbital,2018,Arizona,AZ,general,2018-11-06,2018-09-06,Kyrsten Sinema,Martha McSally,two_party,hypothetical
+86533,53735,Mellman,mellman,2018,Mississippi,MS,runoff,2018-11-27,2018-08-07,Mike Espy,Chris McDaniel,two_party,hypothetical
+86536,53834,Mason-Dixon,mason-dixon,2018,Mississippi,MS,runoff,2018-11-27,2018-04-14,Mike Espy,Chris McDaniel,two_party,hypothetical
+86539,53572,Triumph Campaigns,triumph campaigns,2018,Mississippi,MS,runoff,2018-11-27,2018-07-31,Mike Espy,Chris McDaniel,two_party,hypothetical
+86542,53573,Triumph Campaigns,triumph campaigns,2018,Mississippi,MS,runoff,2018-11-27,2018-04-11,Mike Espy,Chris McDaniel,two_party,hypothetical
+83204,52627,Carroll Strategies,carroll strategies,2018,New Mexico,NM,general,2018-11-06,2018-06-16,Martin Heinrich,Mick Rich,two_party,hypothetical
+89524,55872,Marist College,marist college,2018,Ohio,OH,general,2018-11-06,2018-09-20,Sherrod Brown,Jim Renacci,two_party,hypothetical
+89525,55872,Marist College,marist college,2018,Ohio,OH,general,2018-11-06,2018-09-20,Sherrod Brown,Jim Renacci,two_party,hypothetical
+83156,52596,JMC Analytics,jmc analytics,2018,Texas,TX,general,2018-11-06,2018-05-21,Beto O'Rourke,Ted Cruz,two_party,hypothetical
+83170,52636,Monmouth,monmouth,2018,West Virginia,WV,general,2018-11-06,2018-06-19,"Joe Manchin, III",Patrick Morrisey,two_party,hypothetical
+83172,52636,Monmouth,monmouth,2018,West Virginia,WV,general,2018-11-06,2018-06-19,"Joe Manchin, III",Patrick Morrisey,two_party,hypothetical
+83174,52637,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2018,West Virginia,WV,general,2018-11-06,2018-05-22,"Joe Manchin, III",Patrick Morrisey,two_party,hypothetical
+83337,52744,PPP,ppp,2018,West Virginia,WV,general,2018-11-06,2018-06-13,"Joe Manchin, III",Patrick Morrisey,two_party,hypothetical
+84521,52636,Monmouth,monmouth,2018,West Virginia,WV,general,2018-11-06,2018-06-19,"Joe Manchin, III",Patrick Morrisey,two_party,hypothetical
+100829,58956,Patinkin Research Strategies,patinkin research strategies,2020,Alaska,AK,general,2020-11-03,2019-06-04,Forrest Dunbar,Dan Sullivan,two_party,hypothetical
+115116,63171,JMC Analytics,jmc analytics,2020,Alabama,AL,general,2020-11-03,2019-12-18,Gordon Douglas Jones,Jeff Sessions,two_party,hypothetical
+115118,63171,JMC Analytics,jmc analytics,2020,Alabama,AL,general,2020-11-03,2019-12-18,Gordon Douglas Jones,Roy S. Moore,two_party,hypothetical
+115119,63171,JMC Analytics,jmc analytics,2020,Alabama,AL,general,2020-11-03,2019-12-18,Gordon Douglas Jones,Bradley Byrne,two_party,hypothetical
+115120,63171,JMC Analytics,jmc analytics,2020,Alabama,AL,general,2020-11-03,2019-12-18,Gordon Douglas Jones,Arnold Mooney,two_party,hypothetical
+116938,63515,Mason-Dixon,mason-dixon,2020,Alabama,AL,general,2020-11-03,2020-02-06,Gordon Douglas Jones,Jeff Sessions,two_party,hypothetical
+116940,63515,Mason-Dixon,mason-dixon,2020,Alabama,AL,general,2020-11-03,2020-02-06,Gordon Douglas Jones,Bradley Byrne,two_party,hypothetical
+124796,66866,Cygnal,cygnal,2020,Alabama,AL,general,2020-11-03,2020-06-16,Gordon Douglas Jones,Jeff Sessions,two_party,hypothetical
+124797,66866,Cygnal,cygnal,2020,Alabama,AL,general,2020-11-03,2020-06-16,Gordon Douglas Jones,Tommy Tuberville,two_party,hypothetical
+125275,67048,Auburn University at Montgomery,auburn university at montgomery,2020,Alabama,AL,general,2020-11-03,2020-07-09,Gordon Douglas Jones,Jeff Sessions,two_party,hypothetical
+100816,57556,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2020,Arizona,AZ,general,2020-11-03,2019-02-13,Ruben Gallego,Martha McSally,two_party,hypothetical
+125243,67026,Change Research,change research,2020,Arizona,AZ,general,2020-11-03,2020-06-23,Mark Kelly,Daniel McCarthy,two_party,hypothetical
+102775,59585,Fabrizio Ward,fabrizio ward,2020,Colorado,CO,general,2020-11-03,2019-07-31,Mike Johnston,Cory Gardner,two_party,hypothetical
+120901,65227,Battleground Connect,battleground connect,2020,Georgia,GA,runoff,2021-01-05,2020-04-01,Raphael Warnock,Doug Collins,two_party,hypothetical
+123442,66312,Civiqs,civiqs,2020,Georgia,GA,general,2020-11-03,2020-05-18,Sarah Riggs Amico,David A. Perdue,two_party,hypothetical
+123443,66312,Civiqs,civiqs,2020,Georgia,GA,general,2020-11-03,2020-05-18,Teresa Tomlinson,David A. Perdue,two_party,hypothetical
+123446,66312,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-05-18,Matt Lieberman,Kelly Loeffler,two_party,hypothetical
+123447,66312,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-05-18,Ed Tarver,Kelly Loeffler,two_party,hypothetical
+123449,66312,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-05-18,Matt Lieberman,Doug Collins,two_party,hypothetical
+123450,66312,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-05-18,Raphael Warnock,Doug Collins,two_party,hypothetical
+123451,66312,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-05-18,Ed Tarver,Doug Collins,two_party,hypothetical
+124984,66933,PPP,ppp,2020,Georgia,GA,runoff,2021-01-05,2020-06-26,Raphael Warnock,Doug Collins,two_party,hypothetical
+125301,67060,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,Georgia,GA,runoff,2021-01-05,2020-07-02,Matt Lieberman,Kelly Loeffler,two_party,hypothetical
+125302,67060,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,Georgia,GA,runoff,2021-01-05,2020-07-02,Matt Lieberman,Doug Collins,two_party,hypothetical
+125303,67060,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,Georgia,GA,runoff,2021-01-05,2020-07-02,Raphael Warnock,Doug Collins,two_party,hypothetical
+130486,70049,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-09-29,Matt Lieberman,Kelly Loeffler,two_party,hypothetical
+130488,70049,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-09-29,Matt Lieberman,Doug Collins,two_party,hypothetical
+130489,70049,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-09-29,Raphael Warnock,Doug Collins,two_party,hypothetical
+132880,71000,Quinnipiac,quinnipiac,2020,Georgia,GA,runoff,2021-01-05,2020-10-12,Raphael Warnock,Doug Collins,two_party,hypothetical
+132898,71010,Data for Progress,data for progress,2020,Georgia,GA,runoff,2021-01-05,2020-10-11,Matt Lieberman,Kelly Loeffler,two_party,hypothetical
+133780,71435,Emerson,emerson,2020,Georgia,GA,runoff,2021-01-05,2020-10-19,Raphael Warnock,Doug Collins,two_party,hypothetical
+133829,71454,Siena/NYT,siena/nyt,2020,Georgia,GA,runoff,2021-01-05,2020-10-19,Raphael Warnock,Doug Collins,two_party,hypothetical
+135055,72040,Civiqs,civiqs,2020,Georgia,GA,runoff,2021-01-05,2020-10-26,Raphael Warnock,Doug Collins,two_party,hypothetical
+135290,72146,Monmouth,monmouth,2020,Georgia,GA,runoff,2021-01-05,2020-10-27,Raphael Warnock,Doug Collins,two_party,hypothetical
+135323,72146,Monmouth,monmouth,2020,Georgia,GA,runoff,2021-01-05,2020-10-27,Raphael Warnock,Doug Collins,two_party,hypothetical
+100831,58957,Lake Research,lake research,2020,Iowa,IA,general,2020-11-03,2019-04-29,Eddie Mauro,Joni K. Ernst,two_party,hypothetical
+123386,66285,RABA Research,raba research,2020,Iowa,IA,general,2020-11-03,2020-05-09,Eddie Mauro,Joni K. Ernst,two_party,hypothetical
+102805,59599,Tarrance,tarrance,2020,Kansas,KS,general,2020-11-03,2019-06-11,Barry Grissom,Kris W. Kobach,two_party,hypothetical
+116797,63509,DFM Research,dfm research,2020,Kansas,KS,general,2020-11-03,2020-02-06,Barbara Goolsbee Bollier,Kris W. Kobach,two_party,hypothetical
+117927,64094,McLaughlin,mclaughlin,2020,Kansas,KS,general,2020-11-03,2020-02-13,Barbara Goolsbee Bollier,Kris W. Kobach,two_party,hypothetical
+121540,65754,PPP,ppp,2020,Kansas,KS,general,2020-11-03,2020-04-14,Barbara Goolsbee Bollier,Kris W. Kobach,two_party,hypothetical
+124037,66556,NMB Research,nmb research,2020,Kansas,KS,general,2020-11-03,2020-05-19,Barbara Goolsbee Bollier,Kris W. Kobach,two_party,hypothetical
+124410,66701,Civiqs,civiqs,2020,Kansas,KS,general,2020-11-03,2020-06-01,Barbara Goolsbee Bollier,Kris W. Kobach,two_party,hypothetical
+124412,66701,Civiqs,civiqs,2020,Kansas,KS,general,2020-11-03,2020-06-01,Barbara Goolsbee Bollier,Bob Hamilton,two_party,hypothetical
+124747,66846,Civiqs,civiqs,2020,Kentucky,KY,general,2020-11-03,2020-06-15,Charles Booker,Mitch McConnell,two_party,hypothetical
+102048,59461,Change Research,change research,2020,Massachusetts,MA,general,2020-11-03,2019-08-25,Edward J. Markey,Charles D. Baker,two_party,hypothetical
+102049,59461,Change Research,change research,2020,Massachusetts,MA,general,2020-11-03,2019-08-25,Joseph Kennedy III,Charles D. Baker,two_party,hypothetical
+102050,59461,Change Research,change research,2020,Massachusetts,MA,general,2020-11-03,2019-08-25,Shannon Liss-Riordan,Charles D. Baker,two_party,hypothetical
+102051,59461,Change Research,change research,2020,Massachusetts,MA,general,2020-11-03,2019-08-25,Steve Pemberton,Charles D. Baker,two_party,hypothetical
+100835,58565,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,Maine,ME,general,2020-11-03,2019-06-24,Sara I. Gideon,Susan M. Collins,two_party,hypothetical
+124030,66552,Victory Geek,victory geek,2020,Maine,ME,general,2020-11-03,2020-05-18,Betsy Sweet,Susan M. Collins,two_party,hypothetical
+103503,59754,Target Insyght,target insyght,2020,Michigan,MI,general,2020-11-03,2019-04-25,Gary C. Peters,Bill Schuette,two_party,hypothetical
+129596,69561,Siena/NYT,siena/nyt,2020,Montana,MT,general,2020-11-03,2020-09-16,Steve Bullock,Steve Daines,two_party,hypothetical
+132127,70656,Data for Progress,data for progress,2020,Montana,MT,general,2020-11-03,2020-10-05,Steve Bullock,Steve Daines,two_party,hypothetical
+100827,58187,Emerson,emerson,2020,North Carolina,NC,general,2020-11-03,2019-06-03,Erica Danette Smith,Thomas Roland Tillis,two_party,hypothetical
+104335,60059,Meredith College,meredith college,2020,North Carolina,NC,general,2020-11-03,2019-10-07,Erica Danette Smith,Thomas Roland Tillis,two_party,hypothetical
+100818,57574,Emerson,emerson,2020,New Hampshire,NH,general,2020-11-03,2019-02-22,Jeanne Shaheen,Chris Sununu,two_party,hypothetical
+100837,58891,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,New Hampshire,NH,general,2020-11-03,2019-08-06,Jeanne Shaheen,Donald C. Bolduc,two_party,hypothetical
+100838,58891,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,New Hampshire,NH,general,2020-11-03,2019-08-06,Jeanne Shaheen,Bill O'Brien,two_party,hypothetical
+100840,58959,Remington,remington,2020,New Hampshire,NH,general,2020-11-03,2019-08-14,Jeanne Shaheen,Donald C. Bolduc,two_party,hypothetical
+102338,59522,Emerson,emerson,2020,New Hampshire,NH,general,2020-11-03,2019-09-09,Jeanne Shaheen,Corey Lewandowski,two_party,hypothetical
+103376,59715,ARG,arg,2020,New Hampshire,NH,general,2020-11-03,2019-09-24,Jeanne Shaheen,Corey Lewandowski,two_party,hypothetical
+114002,62978,Emerson,emerson,2020,New Hampshire,NH,general,2020-11-03,2019-11-26,Jeanne Shaheen,Corey Lewandowski,two_party,hypothetical
+115039,63148,ARG,arg,2020,New Hampshire,NH,general,2020-11-03,2019-12-16,Jeanne Shaheen,Corey Lewandowski,two_party,hypothetical
+119390,64585,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-02-25,Jeanne Shaheen,Donald C. Bolduc,two_party,hypothetical
+119391,64585,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-02-25,Jeanne Shaheen,Bill O'Brien,two_party,hypothetical
+119933,57557,UMass Amherst/YouGov,umass amherst/yougov,2020,New Hampshire,NH,general,2020-11-03,2019-02-15,Jeanne Shaheen,Kelly Ayotte,two_party,hypothetical
+119934,57557,UMass Amherst/YouGov,umass amherst/yougov,2020,New Hampshire,NH,general,2020-11-03,2019-02-15,Jeanne Shaheen,Chris Sununu,two_party,hypothetical
+126957,67827,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-07-28,Jeanne Shaheen,Donald C. Bolduc,two_party,hypothetical
+126958,67828,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-06-22,Jeanne Shaheen,Donald C. Bolduc,two_party,hypothetical
+126959,67829,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-05-18,Jeanne Shaheen,Donald C. Bolduc,two_party,hypothetical
+128015,68334,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-09-01,Jeanne Shaheen,Donald C. Bolduc,two_party,hypothetical
+121971,65887,Monmouth,monmouth,2020,New Jersey,NJ,general,2020-11-03,2020-04-19,Cory A. Booker,Hirsh Singh,two_party,hypothetical
+115419,63224,Emerson,emerson,2020,New Mexico,NM,general,2020-11-03,2020-01-06,Ben Ray Luján,Gavin Clarkson,two_party,hypothetical
+126708,67677,brilliant corners Research & Strategies,brilliant corners research & strategies,2020,South Carolina,SC,general,2020-11-03,2020-07-19,Jaime Harrison,Lindsey Graham,two_party,hypothetical
+116686,63464,Mason-Dixon,mason-dixon,2020,Tennessee,TN,general,2020-11-03,2020-01-30,James Mackler,Bill Hagerty,two_party,hypothetical
+116687,63464,Mason-Dixon,mason-dixon,2020,Tennessee,TN,general,2020-11-03,2020-01-30,James Mackler,Manny Sethi,two_party,hypothetical
+100814,57419,Atlantic Media and Research,atlantic media and research,2020,Texas,TX,general,2020-11-03,2019-01-11,Beto O'Rourke,John Cornyn,two_party,hypothetical
+100817,57528,PPP,ppp,2020,Texas,TX,general,2020-11-03,2019-02-14,Beto O'Rourke,John Cornyn,two_party,hypothetical
+100819,57601,Quinnipiac,quinnipiac,2020,Texas,TX,general,2020-11-03,2019-02-25,Beto O'Rourke,John Cornyn,two_party,hypothetical
+114141,62992,Beacon Research,beacon research,2020,Texas,TX,general,2020-11-03,2019-11-21,Beto O'Rourke,John Cornyn,two_party,hypothetical
+114142,62992,Beacon Research,beacon research,2020,Texas,TX,general,2020-11-03,2019-11-21,Royce West,John Cornyn,two_party,hypothetical
+114144,62992,Beacon Research,beacon research,2020,Texas,TX,general,2020-11-03,2019-11-21,Chris Bell,John Cornyn,two_party,hypothetical
+114145,62992,Beacon Research,beacon research,2020,Texas,TX,general,2020-11-03,2019-11-21,Sema Hernandez,John Cornyn,two_party,hypothetical
+122511,66043,University of Texas at Tyler,university of texas at tyler,2020,Texas,TX,general,2020-11-03,2020-04-27,Royce West,John Cornyn,two_party,hypothetical
+124960,66919,Beacon/Shaw,beacon/shaw,2020,Texas,TX,general,2020-11-03,2020-06-23,Royce West,John Cornyn,two_party,hypothetical
+125287,67054,University of Texas at Tyler,university of texas at tyler,2020,Texas,TX,general,2020-11-03,2020-07-07,Royce West,John Cornyn,two_party,hypothetical
+125288,67054,University of Texas at Tyler,university of texas at tyler,2020,Texas,TX,general,2020-11-03,2020-07-07,Royce West,John Cornyn,two_party,hypothetical
+125294,67057,YouGov,yougov,2020,Texas,TX,general,2020-11-03,2020-07-10,Royce West,John Cornyn,two_party,hypothetical
+142709,74899,Change Research,change research,2022,Alaska,AK,general,2022-11-08,2021-05-25,Al Gross,Kelly C. Tshibaka,two_party,hypothetical
+142330,74802,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-05-05,Mark Kelly,Kimberly Yee,two_party,hypothetical
+142331,74802,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-05-05,Mark Kelly,John Sidney McCain,two_party,hypothetical
+142332,74802,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-05-05,Mark Kelly,Kari Lake,two_party,hypothetical
+142333,74802,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-05-05,Mark Kelly,Kelli Ward,two_party,hypothetical
+142334,74802,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-05-05,Mark Kelly,Andy Biggs,two_party,hypothetical
+142335,74802,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-05-05,Mark Kelly,Michael T. McGuire,two_party,hypothetical
+142336,74802,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-05-05,Mark Kelly,Mark Brnovich,two_party,hypothetical
+145967,76546,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-09-12,Mark Kelly,Michael T. McGuire,two_party,hypothetical
+145968,76546,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-09-12,Mark Kelly,Mark Brnovich,two_party,hypothetical
+145969,76546,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Arizona,AZ,general,2022-11-08,2021-09-12,Mark Kelly,Jim Lamon,two_party,hypothetical
+152181,78340,Data for Progress,data for progress,2022,Arizona,AZ,general,2022-11-08,2022-01-24,Mark Kelly,Doug Ducey,two_party,hypothetical
+152182,78340,Data for Progress,data for progress,2022,Arizona,AZ,general,2022-11-08,2022-01-24,Mark Kelly,Mark Brnovich,two_party,hypothetical
+155696,78994,Blueprint Polling,blueprint polling,2022,Arizona,AZ,general,2022-11-08,2022-05-16,Mark Kelly,Mark Brnovich,two_party,hypothetical
+155697,78994,Blueprint Polling,blueprint polling,2022,Arizona,AZ,general,2022-11-08,2022-05-16,Mark Kelly,Jim Lamon,two_party,hypothetical
+157604,79288,Change Research,change research,2022,Arizona,AZ,general,2022-11-08,2022-06-27,Mark Kelly,Jim Lamon,two_party,hypothetical
+158931,79520,Beacon Research,beacon research,2022,Arizona,AZ,general,2022-11-08,2022-07-20,Mark Kelly,Mark Brnovich,two_party,hypothetical
+158932,79520,Beacon Research,beacon research,2022,Arizona,AZ,general,2022-11-08,2022-07-20,Mark Kelly,Mark Brnovich,two_party,hypothetical
+158939,79520,Beacon Research,beacon research,2022,Arizona,AZ,general,2022-11-08,2022-07-20,Mark Kelly,Jim Lamon,two_party,hypothetical
+158940,79520,Beacon Research,beacon research,2022,Arizona,AZ,general,2022-11-08,2022-07-20,Mark Kelly,Jim Lamon,two_party,hypothetical
+143033,75035,Global Strategy Group,global strategy group,2022,Colorado,CO,general,2022-11-08,2021-06-23,Michael Bennet,Lauren Boebert,two_party,hypothetical
+145537,76406,co/efficient,co/efficient,2022,Colorado,CO,general,2022-11-08,2021-09-12,Michael Bennet,Eli Bremer,two_party,hypothetical
+148944,77198,Global Strategy Group,global strategy group,2022,Colorado,CO,general,2022-11-08,2021-10-24,Michael Bennet,Eli Bremer,two_party,hypothetical
+148945,77198,Global Strategy Group,global strategy group,2022,Colorado,CO,general,2022-11-08,2021-10-24,Michael Bennet,Ron Hanks,two_party,hypothetical
+154673,78773,Blueprint Polling,blueprint polling,2022,Colorado,CO,general,2022-11-08,2022-04-08,Michael Bennet,Gino Campana,two_party,hypothetical
+156671,79181,Global Strategy Group,global strategy group,2022,Colorado,CO,general,2022-11-08,2022-06-08,Michael Bennet,Ron Hanks,two_party,hypothetical
+155616,78975,Emerson,emerson,2022,Connecticut,CT,general,2022-11-08,2022-05-11,Richard Blumenthal,Themis Klarides,two_party,hypothetical
+155618,78975,Emerson,emerson,2022,Connecticut,CT,general,2022-11-08,2022-05-11,Richard Blumenthal,Peter Lumaj,two_party,hypothetical
+159103,79594,McLaughlin,mclaughlin,2022,Connecticut,CT,general,2022-11-08,2022-07-27,Richard Blumenthal,Themis Klarides,two_party,hypothetical
+144759,75907,Redfield & Wilton Strategies,redfield & wilton strategies,2022,Florida,FL,general,2022-11-08,2021-08-24,Alan Grayson,Marco Rubio,two_party,hypothetical
+144761,75907,Redfield & Wilton Strategies,redfield & wilton strategies,2022,Florida,FL,general,2022-11-08,2021-08-24,Alan Grayson,Marco Rubio,two_party,hypothetical
+146025,76584,VCreek/AMG,vcreek/amg,2022,Florida,FL,general,2022-11-08,2021-09-27,Alan Grayson,Marco Rubio,two_party,hypothetical
+150562,77892,Redfield & Wilton Strategies,redfield & wilton strategies,2022,Florida,FL,general,2022-11-08,2021-11-09,Alan Grayson,Marco Rubio,two_party,hypothetical
+150564,77892,Redfield & Wilton Strategies,redfield & wilton strategies,2022,Florida,FL,general,2022-11-08,2021-11-09,Alan Grayson,Marco Rubio,two_party,hypothetical
+159281,79637,Moore Information,moore information,2022,Florida,FL,general,2022-11-08,2022-03-19,Val Demings,Marco Rubio,two_party,hypothetical
+140159,74487,Trafalgar Group/InsiderAdvantage,trafalgar group/insideradvantage,2022,Georgia,GA,general,2022-11-08,2021-03-09,Raphael Warnock,Doug Collins,two_party,hypothetical
+140161,74487,Trafalgar Group/InsiderAdvantage,trafalgar group/insideradvantage,2022,Georgia,GA,general,2022-11-08,2021-03-09,Raphael Warnock,Kelly Loeffler,two_party,hypothetical
+143945,75459,PPP,ppp,2022,Georgia,GA,general,2022-11-08,2021-08-05,Raphael Warnock,Kelly Loeffler,two_party,hypothetical
+143947,75459,PPP,ppp,2022,Georgia,GA,general,2022-11-08,2021-08-05,Raphael Warnock,Gary W. Black,two_party,hypothetical
+152210,78346,U. Georgia SPIA,u. georgia spia,2022,Georgia,GA,general,2022-11-08,2022-01-24,Raphael Warnock,Gary W. Black,two_party,hypothetical
+145482,76366,Selzer,selzer,2022,Iowa,IA,general,2022-11-08,2021-09-15,Abby Finkenauer,Chuck Grassley,two_party,hypothetical
+146812,77034,Cygnal,cygnal,2022,Iowa,IA,general,2022-11-08,2021-10-19,Abby Finkenauer,Chuck Grassley,two_party,hypothetical
+151182,78103,Data for Progress,data for progress,2022,Iowa,IA,general,2022-11-08,2021-12-13,Abby Finkenauer,Chuck Grassley,two_party,hypothetical
+153092,78514,Cygnal,cygnal,2022,Iowa,IA,general,2022-11-08,2022-02-22,Abby Finkenauer,Chuck Grassley,two_party,hypothetical
+159282,79638,Moore Information,moore information,2022,Iowa,IA,general,2022-11-08,2022-03-13,Abby Finkenauer,Chuck Grassley,two_party,hypothetical
+151847,78283,WPAi,wpai,2022,Maryland,MD,general,2022-11-08,2021-12-01,Chris Van Hollen,Larry Hogan,two_party,hypothetical
+139357,74205,Data for Progress,data for progress,2022,Missouri,MO,general,2022-11-08,2021-01-12,Jason Kander,Roy Blunt,two_party,hypothetical
+140660,74670,Remington,remington,2022,Missouri,MO,general,2022-11-08,2021-04-08,Scott Sifton,Eric Greitens,two_party,hypothetical
+140661,74670,Remington,remington,2022,Missouri,MO,general,2022-11-08,2021-04-08,Scott Sifton,Eric Schmitt,two_party,hypothetical
+140662,74670,Remington,remington,2022,Missouri,MO,general,2022-11-08,2021-04-08,Jay Nixon,Eric Greitens,two_party,hypothetical
+140663,74670,Remington,remington,2022,Missouri,MO,general,2022-11-08,2021-04-08,Jay Nixon,Eric Schmitt,two_party,hypothetical
+146658,76921,Fabrizio,fabrizio,2022,Missouri,MO,general,2022-11-08,2021-10-04,Scott Sifton,Eric Greitens,two_party,hypothetical
+146659,76921,Fabrizio,fabrizio,2022,Missouri,MO,general,2022-11-08,2021-10-04,Lucas Kunce,Eric Greitens,two_party,hypothetical
+151348,78145,co/efficient,co/efficient,2022,Missouri,MO,general,2022-11-08,2021-12-17,Lucas Kunce,Eric Greitens,two_party,hypothetical
+151349,78145,co/efficient,co/efficient,2022,Missouri,MO,general,2022-11-08,2021-12-17,Lucas Kunce,Vicky Hartzler,two_party,hypothetical
+151350,78145,co/efficient,co/efficient,2022,Missouri,MO,general,2022-11-08,2021-12-17,Lucas Kunce,Billy Long,two_party,hypothetical
+151351,78145,co/efficient,co/efficient,2022,Missouri,MO,general,2022-11-08,2021-12-17,Lucas Kunce,Eric Schmitt,two_party,hypothetical
+151352,78145,co/efficient,co/efficient,2022,Missouri,MO,general,2022-11-08,2021-12-17,Scott Sifton,Eric Greitens,two_party,hypothetical
+151353,78145,co/efficient,co/efficient,2022,Missouri,MO,general,2022-11-08,2021-12-17,Scott Sifton,Vicky Hartzler,two_party,hypothetical
+151354,78145,co/efficient,co/efficient,2022,Missouri,MO,general,2022-11-08,2021-12-17,Scott Sifton,Billy Long,two_party,hypothetical
+151355,78145,co/efficient,co/efficient,2022,Missouri,MO,general,2022-11-08,2021-12-17,Scott Sifton,Eric Schmitt,two_party,hypothetical
+153697,78584,Trafalgar Group,trafalgar group,2022,Missouri,MO,general,2022-11-08,2022-03-13,Lucas Kunce,Eric Greitens,two_party,hypothetical
+153698,78584,Trafalgar Group,trafalgar group,2022,Missouri,MO,general,2022-11-08,2022-03-13,Lucas Kunce,Eric Schmitt,two_party,hypothetical
+153699,78584,Trafalgar Group,trafalgar group,2022,Missouri,MO,general,2022-11-08,2022-03-13,Lucas Kunce,Vicky Hartzler,two_party,hypothetical
+153700,78584,Trafalgar Group,trafalgar group,2022,Missouri,MO,general,2022-11-08,2022-03-13,Scott Sifton,Eric Greitens,two_party,hypothetical
+153701,78584,Trafalgar Group,trafalgar group,2022,Missouri,MO,general,2022-11-08,2022-03-13,Scott Sifton,Eric Schmitt,two_party,hypothetical
+153702,78584,Trafalgar Group,trafalgar group,2022,Missouri,MO,general,2022-11-08,2022-03-13,Scott Sifton,Vicky Hartzler,two_party,hypothetical
+155313,78909,Remington,remington,2022,Missouri,MO,general,2022-11-08,2022-04-28,Trudy Busch Valentine,Eric Greitens,two_party,hypothetical
+155315,78909,Remington,remington,2022,Missouri,MO,general,2022-11-08,2022-04-28,Trudy Busch Valentine,Vicky Hartzler,two_party,hypothetical
+155556,78972,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-05-15,Trudy Busch Valentine,Vicky Hartzler,two_party,hypothetical
+155557,78972,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-05-15,Trudy Busch Valentine,Eric Greitens,two_party,hypothetical
+155558,78972,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-05-15,Lucas Kunce,Eric Schmitt,two_party,hypothetical
+155559,78972,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-05-15,Lucas Kunce,Vicky Hartzler,two_party,hypothetical
+155560,78972,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-05-15,Lucas Kunce,Eric Greitens,two_party,hypothetical
+158902,79514,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-07-27,Lucas Kunce,Eric Schmitt,two_party,hypothetical
+158903,79514,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-07-27,Trudy Busch Valentine,Eric Schmitt,two_party,hypothetical
+158904,79514,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-07-27,Lucas Kunce,Vicky Hartzler,two_party,hypothetical
+158905,79514,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-07-27,Trudy Busch Valentine,Vicky Hartzler,two_party,hypothetical
+158906,79514,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-07-27,Lucas Kunce,Eric Greitens,two_party,hypothetical
+158907,79514,SurveyUSA,surveyusa,2022,Missouri,MO,general,2022-11-08,2022-07-27,Trudy Busch Valentine,Eric Greitens,two_party,hypothetical
+159979,79856,YouGov,yougov,2022,Missouri,MO,general,2022-11-08,2022-08-16,Trudy Busch Valentine,Eric Schmitt,two_party,hypothetical
+150569,77895,Redfield & Wilton Strategies,redfield & wilton strategies,2022,North Carolina,NC,general,2022-11-08,2021-11-10,Cheri Beasley,Pat McCrory,two_party,hypothetical
+150571,77895,Redfield & Wilton Strategies,redfield & wilton strategies,2022,North Carolina,NC,general,2022-11-08,2021-11-10,Cheri Beasley,Pat McCrory,two_party,hypothetical
+154402,78713,Cygnal,cygnal,2022,North Carolina,NC,general,2022-11-08,2022-03-31,Cheri Beasley,Pat McCrory,two_party,hypothetical
+154405,78714,Emerson,emerson,2022,North Carolina,NC,general,2022-11-08,2022-04-04,Cheri Beasley,Pat McCrory,two_party,hypothetical
+154406,78714,Emerson,emerson,2022,North Carolina,NC,general,2022-11-08,2022-04-04,Cheri Beasley,Marjorie Knott Eastman,two_party,hypothetical
+154407,78714,Emerson,emerson,2022,North Carolina,NC,general,2022-11-08,2022-04-04,Cheri Beasley,Mark Walker,two_party,hypothetical
+155431,78938,Emerson,emerson,2022,North Carolina,NC,general,2022-11-08,2022-05-09,Cheri Beasley,Pat McCrory,two_party,hypothetical
+155482,78957,Global Strategy Group,global strategy group,2022,North Carolina,NC,general,2022-11-08,2022-05-04,Cheri Beasley,Pat McCrory,two_party,hypothetical
+139929,74407,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2021-02-22,Maggie Hassan,Chris Sununu,two_party,hypothetical
+139930,74407,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2021-02-22,Maggie Hassan,Kelly Ayotte,two_party,hypothetical
+139932,74407,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2021-02-22,Maggie Hassan,Corey Lewandowski,two_party,hypothetical
+140137,74471,St. Anselm,st. anselm,2022,New Hampshire,NH,general,2022-11-08,2021-03-06,Maggie Hassan,Chris Sununu,two_party,hypothetical
+143558,75265,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2021-07-19,Maggie Hassan,Chris Sununu,two_party,hypothetical
+143560,75265,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2021-07-19,Maggie Hassan,Kelly Ayotte,two_party,hypothetical
+144585,75811,St. Anselm,st. anselm,2022,New Hampshire,NH,general,2022-11-08,2021-08-26,Maggie Hassan,Chris Sununu,two_party,hypothetical
+146644,76906,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2021-10-18,Maggie Hassan,Chris Sununu,two_party,hypothetical
+146646,76906,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2021-10-18,Maggie Hassan,Kelly Ayotte,two_party,hypothetical
+148582,77047,St. Anselm,st. anselm,2022,New Hampshire,NH,general,2022-11-08,2021-10-22,Maggie Hassan,Chris Sununu,two_party,hypothetical
+150743,77951,Tarrance,tarrance,2022,New Hampshire,NH,general,2022-11-08,2021-11-18,Maggie Hassan,Bryant Messner,two_party,hypothetical
+151133,78084,Trafalgar Group,trafalgar group,2022,New Hampshire,NH,general,2022-11-08,2021-12-12,Maggie Hassan,Charles W. Morse,two_party,hypothetical
+151943,78298,St. Anselm,st. anselm,2022,New Hampshire,NH,general,2022-11-08,2022-01-12,Maggie Hassan,Charles W. Morse,two_party,hypothetical
+151944,78298,St. Anselm,st. anselm,2022,New Hampshire,NH,general,2022-11-08,2022-01-12,Maggie Hassan,Kevin H. Smith,two_party,hypothetical
+154348,78703,St. Anselm,st. anselm,2022,New Hampshire,NH,general,2022-11-08,2022-03-24,Maggie Hassan,Kevin H. Smith,two_party,hypothetical
+154349,78703,St. Anselm,st. anselm,2022,New Hampshire,NH,general,2022-11-08,2022-03-24,Maggie Hassan,Charles W. Morse,two_party,hypothetical
+154524,78740,Phillips Academy,phillips academy,2022,New Hampshire,NH,general,2022-11-08,2022-04-08,Maggie Hassan,Charles W. Morse,two_party,hypothetical
+154525,78740,Phillips Academy,phillips academy,2022,New Hampshire,NH,general,2022-11-08,2022-04-08,Maggie Hassan,Charles W. Morse,two_party,hypothetical
+154746,78794,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2022-04-18,Maggie Hassan,Charles W. Morse,two_party,hypothetical
+154747,78794,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2022-04-18,Maggie Hassan,Kevin H. Smith,two_party,hypothetical
+154748,78794,U. New Hampshire,u. new hampshire,2022,New Hampshire,NH,general,2022-11-08,2022-04-18,Maggie Hassan,Bruce Fenton,two_party,hypothetical
+158240,79424,Data for Progress,data for progress,2022,New Hampshire,NH,general,2022-11-08,2022-07-08,Maggie Hassan,Charles W. Morse,two_party,hypothetical
+158241,79424,Data for Progress,data for progress,2022,New Hampshire,NH,general,2022-11-08,2022-07-08,Maggie Hassan,Kevin H. Smith,two_party,hypothetical
+154563,78745,Suffolk,suffolk,2022,Nevada,NV,general,2022-11-08,2022-04-06,Catherine Cortez Masto,Sam Brown,two_party,hypothetical
+154670,78771,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Nevada,NV,general,2022-11-08,2022-04-09,Catherine Cortez Masto,Sam Brown,two_party,hypothetical
+156127,79077,University of Nevada,university of nevada,2022,Nevada,NV,general,2022-11-08,2022-05-27,Catherine Cortez Masto,Sam Brown,two_party,hypothetical
+140300,74544,PPP,ppp,2022,Ohio,OH,general,2022-11-08,2021-03-19,Amy Leigh Acton,Josh Mandel,two_party,hypothetical
+140301,74544,PPP,ppp,2022,Ohio,OH,general,2022-11-08,2021-03-19,Amy Leigh Acton,Jane Timken,two_party,hypothetical
+140302,74544,PPP,ppp,2022,Ohio,OH,general,2022-11-08,2021-03-19,Amy Leigh Acton,JD Vance,two_party,hypothetical
+140303,74544,PPP,ppp,2022,Ohio,OH,general,2022-11-08,2021-03-19,Tim Ryan,Josh Mandel,two_party,hypothetical
+140304,74544,PPP,ppp,2022,Ohio,OH,general,2022-11-08,2021-03-19,Tim Ryan,Jane Timken,two_party,hypothetical
+144819,75936,Redfield & Wilton Strategies,redfield & wilton strategies,2022,Ohio,OH,general,2022-11-08,2021-08-24,Tim Ryan,Jane Timken,two_party,hypothetical
+144820,75936,Redfield & Wilton Strategies,redfield & wilton strategies,2022,Ohio,OH,general,2022-11-08,2021-08-24,Tim Ryan,Josh Mandel,two_party,hypothetical
+144822,75936,Redfield & Wilton Strategies,redfield & wilton strategies,2022,Ohio,OH,general,2022-11-08,2021-08-24,Tim Ryan,Jane Timken,two_party,hypothetical
+144823,75936,Redfield & Wilton Strategies,redfield & wilton strategies,2022,Ohio,OH,general,2022-11-08,2021-08-24,Tim Ryan,Josh Mandel,two_party,hypothetical
+142454,74830,Data for Progress,data for progress,2022,Pennsylvania,PA,general,2022-11-08,2021-05-14,John Fetterman,Jeffrey A. Bartos,two_party,hypothetical
+142455,74830,Data for Progress,data for progress,2022,Pennsylvania,PA,general,2022-11-08,2021-05-14,John Fetterman,Richard Sean Parnell,two_party,hypothetical
+145688,76477,Garin Hart Yang,garin hart yang,2022,Pennsylvania,PA,general,2022-11-08,2021-05-19,John Fetterman,Jeffrey A. Bartos,two_party,hypothetical
+145689,76477,Garin Hart Yang,garin hart yang,2022,Pennsylvania,PA,general,2022-11-08,2021-05-19,John Fetterman,Richard Sean Parnell,two_party,hypothetical
+156550,79161,Suffolk,suffolk,2022,Pennsylvania,PA,general,2022-11-08,2022-06-13,John Fetterman,Mehmet Oz,two_party,hypothetical
+158897,79512,Beacon/Shaw,beacon/shaw,2022,Pennsylvania,PA,general,2022-11-08,2022-07-26,John Fetterman,Mehmet Oz,two_party,hypothetical
+162610,80853,Beacon/Shaw,beacon/shaw,2022,Pennsylvania,PA,general,2022-11-08,2022-09-26,John Fetterman,Mehmet Oz,two_party,hypothetical
+164767,81459,Beacon/Shaw,beacon/shaw,2022,Pennsylvania,PA,general,2022-11-08,2022-10-30,John Fetterman,Mehmet Oz,two_party,hypothetical
+159283,79641,Moore Information,moore information,2022,South Carolina,SC,general,2022-11-08,2022-03-13,Krystle Matthews,Tim Scott,two_party,hypothetical
+153022,78508,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Utah,UT,general,2022-11-08,2022-02-14,Kael Weston,Mike Lee,two_party,hypothetical
+153023,78508,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Utah,UT,general,2022-11-08,2022-02-14,Stephen Edward Schmidt,Mike Lee,two_party,hypothetical
+153024,78508,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Utah,UT,general,2022-11-08,2022-02-14,Kael Weston,Mike Lee,two_party,hypothetical
+153025,78508,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Utah,UT,general,2022-11-08,2022-02-14,Stephen Edward Schmidt,Mike Lee,two_party,hypothetical
+154332,78700,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-03-21,Kael Weston,Mike Lee,two_party,hypothetical
+159284,79642,Moore Information,moore information,2022,Utah,UT,general,2022-11-08,2022-03-24,Kael Weston,Mike Lee,two_party,hypothetical
+139460,69647,Braun,braun,2022,Vermont,VT,general,2022-11-08,2020-09-15,Patrick J. Leahy,Phil Scott,two_party,hypothetical
+154866,78808,U. New Hampshire,u. new hampshire,2022,Vermont,VT,general,2022-11-08,2022-04-18,Peter Welch,Christina Nolan,two_party,hypothetical
+140470,74596,Change Research,change research,2022,Wisconsin,WI,general,2022-11-08,2021-03-27,Tom Nelson,Ron Johnson,two_party,hypothetical
+156942,79210,Marquette Law School,marquette law school,2022,Wisconsin,WI,general,2022-11-08,2022-06-20,Sarah Godlewski,Ron Johnson,two_party,hypothetical
+156943,79210,Marquette Law School,marquette law school,2022,Wisconsin,WI,general,2022-11-08,2022-06-20,Alex Lasry,Ron Johnson,two_party,hypothetical
+156944,79210,Marquette Law School,marquette law school,2022,Wisconsin,WI,general,2022-11-08,2022-06-20,Tom Nelson,Ron Johnson,two_party,hypothetical
+166715,81890,PPP,ppp,2024,Arizona,AZ,general,2024-11-05,2022-12-20,Ruben Gallego,Kari Lake,two_party,hypothetical
+167078,81967,Blueprint Polling,blueprint polling,2024,Arizona,AZ,general,2024-11-05,2023-01-08,Ruben Gallego,Kari Lake,two_party,hypothetical
+167877,82094,"Normington, Petts & Associates","normington, petts & associates",2024,Arizona,AZ,general,2024-11-05,2023-01-23,Ruben Gallego,Kari Lake,two_party,hypothetical
+167878,82094,"Normington, Petts & Associates","normington, petts & associates",2024,Arizona,AZ,general,2024-11-05,2023-01-23,Ruben Gallego,Doug Ducey,two_party,hypothetical
+169023,82213,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2024,Arizona,AZ,general,2024-11-05,2023-02-09,Ruben Gallego,Kari Lake,two_party,hypothetical
+169024,82213,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2024,Arizona,AZ,general,2024-11-05,2023-02-09,Ruben Gallego,Blake Masters,two_party,hypothetical
+169025,82213,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2024,Arizona,AZ,general,2024-11-05,2023-02-09,Ruben Gallego,Karrin Taylor Robson,two_party,hypothetical
+169026,82213,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2024,Arizona,AZ,general,2024-11-05,2023-02-09,Ruben Gallego,Doug Ducey,two_party,hypothetical
+169028,82213,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2024,Arizona,AZ,general,2024-11-05,2023-02-09,Ruben Gallego,Blake Masters,two_party,hypothetical
+169029,82213,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2024,Arizona,AZ,general,2024-11-05,2023-02-09,Ruben Gallego,Karrin Taylor Robson,two_party,hypothetical
+169030,82213,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2024,Arizona,AZ,general,2024-11-05,2023-02-09,Ruben Gallego,Doug Ducey,two_party,hypothetical
+172266,82660,PPP,ppp,2024,Arizona,AZ,general,2024-11-05,2023-04-19,Ruben Gallego,Kari Lake,two_party,hypothetical
+172267,82660,PPP,ppp,2024,Arizona,AZ,general,2024-11-05,2023-04-19,Ruben Gallego,Mark Lamb,two_party,hypothetical
+172268,82660,PPP,ppp,2024,Arizona,AZ,general,2024-11-05,2023-04-19,Ruben Gallego,Jim Lamon,two_party,hypothetical
+178421,83278,Noble Predictive Insights,noble predictive insights,2024,Arizona,AZ,general,2024-11-05,2023-07-17,Ruben Gallego,Kari Lake,two_party,hypothetical
+178422,83278,Noble Predictive Insights,noble predictive insights,2024,Arizona,AZ,general,2024-11-05,2023-07-17,Ruben Gallego,Blake Masters,two_party,hypothetical
+178423,83278,Noble Predictive Insights,noble predictive insights,2024,Arizona,AZ,general,2024-11-05,2023-07-17,Ruben Gallego,Mark Lamb,two_party,hypothetical
+178425,83278,Noble Predictive Insights,noble predictive insights,2024,Arizona,AZ,general,2024-11-05,2023-07-17,Ruben Gallego,Blake Masters,two_party,hypothetical
+178426,83278,Noble Predictive Insights,noble predictive insights,2024,Arizona,AZ,general,2024-11-05,2023-07-17,Ruben Gallego,Mark Lamb,two_party,hypothetical
+178510,83357,Emerson,emerson,2024,Arizona,AZ,general,2024-11-05,2023-08-04,Ruben Gallego,Mark Lamb,two_party,hypothetical
+178511,83357,Emerson,emerson,2024,Arizona,AZ,general,2024-11-05,2023-08-04,Ruben Gallego,Mark Lamb,two_party,hypothetical
+178512,83357,Emerson,emerson,2024,Arizona,AZ,general,2024-11-05,2023-08-04,Ruben Gallego,Brian Wright,two_party,hypothetical
+178513,83357,Emerson,emerson,2024,Arizona,AZ,general,2024-11-05,2023-08-04,Ruben Gallego,Brian Wright,two_party,hypothetical
+183319,84353,PPP,ppp,2024,Arizona,AZ,general,2024-11-05,2023-10-07,Ruben Gallego,Kari Lake,two_party,hypothetical
+183320,84353,PPP,ppp,2024,Arizona,AZ,general,2024-11-05,2023-10-07,Ruben Gallego,Mark Lamb,two_party,hypothetical
+183321,84353,PPP,ppp,2024,Arizona,AZ,general,2024-11-05,2023-10-07,Ruben Gallego,Blake Masters,two_party,hypothetical
+183355,84365,National Research,national research,2024,Arizona,AZ,general,2024-11-05,2023-10-09,Ruben Gallego,Kari Lake,two_party,hypothetical
+185046,84596,Cygnal,cygnal,2024,Arizona,AZ,general,2024-11-05,2023-10-25,Ruben Gallego,Kari Lake,two_party,hypothetical
+185061,84598,McLaughlin,mclaughlin,2024,Arizona,AZ,general,2024-11-05,2023-10-24,Ruben Gallego,Kari Lake,two_party,hypothetical
+186759,84666,Noble Predictive Insights,noble predictive insights,2024,Arizona,AZ,general,2024-11-05,2023-10-31,Ruben Gallego,Kari Lake,two_party,hypothetical
+186760,84666,Noble Predictive Insights,noble predictive insights,2024,Arizona,AZ,general,2024-11-05,2023-10-31,Ruben Gallego,Mark Lamb,two_party,hypothetical
+188677,85330,Tulchin Research,tulchin research,2024,Arizona,AZ,general,2024-11-05,2023-11-20,Ruben Gallego,Kari Lake,two_party,hypothetical
+189249,85449,VCreek/AMG,vcreek/amg,2024,Arizona,AZ,general,2024-11-05,2023-12-08,Ruben Gallego,Kari Lake,two_party,hypothetical
+190205,85582,PPP,ppp,2024,Arizona,AZ,general,2024-11-05,2024-01-06,Ruben Gallego,Kari Lake,two_party,hypothetical
+191664,85834,J.L. Partners,j.l. partners,2024,Arizona,AZ,general,2024-11-05,2024-02-01,Ruben Gallego,Kari Lake,two_party,hypothetical
+193473,86165,Emerson,emerson,2024,Arizona,AZ,general,2024-11-05,2024-02-19,Ruben Gallego,Kari Lake,two_party,hypothetical
+193476,86167,Noble Predictive Insights,noble predictive insights,2024,Arizona,AZ,general,2024-11-05,2024-02-13,Ruben Gallego,Kari Lake,two_party,hypothetical
+193753,86220,Rasmussen,rasmussen,2024,Arizona,AZ,general,2024-11-05,2024-02-26,Ruben Gallego,Kari Lake,two_party,hypothetical
+206172,87799,WPAi,wpai,2024,Arizona,AZ,general,2024-11-05,2024-08-13,Ruben Gallego,Kari Lake,two_party,hypothetical
+193898,86240,UC Berkeley,uc berkeley,2024,California,CA,general,2024-11-05,2024-02-26,Katie Porter,Steve Garvey,two_party,hypothetical
+176011,83279,Change Research,change research,2024,Florida,FL,general,2024-11-05,2023-06-29,Phil Ehr,Rick Scott,two_party,hypothetical
+173121,82798,Advantage Inc.,advantage inc.,2024,Massachusetts,MA,general,2024-11-05,2023-05-08,Elizabeth Ann Warren,Charles D. Baker,two_party,hypothetical
+176783,83303,Advantage Inc.,advantage inc.,2024,Massachusetts,MA,general,2024-11-05,2023-07-22,Elizabeth Ann Warren,Karyn E. Polito,two_party,hypothetical
+191851,85862,Suffolk,suffolk,2024,Massachusetts,MA,general,2024-11-05,2024-02-05,Elizabeth Ann Warren,Jonathan A. Kraft,two_party,hypothetical
+200465,87105,UMass Amherst/YouGov,umass amherst/yougov,2024,Massachusetts,MA,general,2024-11-05,2024-05-30,Elizabeth Ann Warren,Robert Antonellis,two_party,hypothetical
+200466,87105,UMass Amherst/YouGov,umass amherst/yougov,2024,Massachusetts,MA,general,2024-11-05,2024-05-30,Elizabeth Ann Warren,Ian C. Cain,two_party,hypothetical
+200468,87105,UMass Amherst/YouGov,umass amherst/yougov,2024,Massachusetts,MA,general,2024-11-05,2024-05-30,Elizabeth Ann Warren,Aaron L. Packard,two_party,hypothetical
+191996,85916,Victoria Research,victoria research,2024,Maryland,MD,general,2024-11-05,2023-11-13,David J. Trone,Larry Hogan,two_party,hypothetical
+192456,85962,Emerson,emerson,2024,Maryland,MD,general,2024-11-05,2024-02-13,David J. Trone,Larry Hogan,two_party,hypothetical
+193070,86139,Ragnar Research Partners,ragnar research partners,2024,Maryland,MD,general,2024-11-05,2024-02-01,David J. Trone,Larry Hogan,two_party,hypothetical
+194839,86499,University of Maryland/Washington Post,university of maryland/washington post,2024,Maryland,MD,general,2024-11-05,2024-03-12,David J. Trone,Larry Hogan,two_party,hypothetical
+195796,86575,Goucher College,goucher college,2024,Maryland,MD,general,2024-11-05,2024-03-24,David J. Trone,Larry Hogan,two_party,hypothetical
+196557,86667,Opinion Works,opinion works,2024,Maryland,MD,general,2024-11-05,2024-04-10,David J. Trone,Larry Hogan,two_party,hypothetical
+198594,86881,PPP,ppp,2024,Maryland,MD,general,2024-11-05,2024-05-07,David J. Trone,Larry Hogan,two_party,hypothetical
+198600,86882,Emerson,emerson,2024,Maryland,MD,general,2024-11-05,2024-05-08,David J. Trone,Larry Hogan,two_party,hypothetical
+201366,87222,PPP,ppp,2024,Maryland,MD,general,2024-11-05,2024-06-20,Angela Alsobrooks,Larry Hogan,two_party,hypothetical
+174540,83020,EPIC-MRA,epic-mra,2024,Michigan,MI,general,2024-11-05,2023-06-14,Elissa Slotkin,James Craig,two_party,hypothetical
+175873,83253,Mitchell,mitchell,2024,Michigan,MI,general,2024-11-05,2023-07-13,Elissa Slotkin,Peter Meijer,two_party,hypothetical
+178442,83347,Emerson,emerson,2024,Michigan,MI,general,2024-11-05,2023-08-02,Elissa Slotkin,Peter Meijer,two_party,hypothetical
+178443,83347,Emerson,emerson,2024,Michigan,MI,general,2024-11-05,2023-08-02,Elissa Slotkin,Nicolette Snyder,two_party,hypothetical
+178445,83347,Emerson,emerson,2024,Michigan,MI,general,2024-11-05,2023-08-02,Elissa Slotkin,James Craig,two_party,hypothetical
+178446,83347,Emerson,emerson,2024,Michigan,MI,general,2024-11-05,2023-08-02,Elissa Slotkin,John Tuttle,two_party,hypothetical
+187422,84709,EPIC-MRA,epic-mra,2024,Michigan,MI,general,2024-11-05,2023-11-16,Elissa Slotkin,James Craig,two_party,hypothetical
+190257,85576,Glengariff Group Inc.,glengariff group inc.,2024,Michigan,MI,general,2024-11-05,2024-01-06,Elissa Slotkin,James Craig,two_party,hypothetical
+190259,85576,Glengariff Group Inc.,glengariff group inc.,2024,Michigan,MI,general,2024-11-05,2024-01-06,Elissa Slotkin,Peter Meijer,two_party,hypothetical
+194852,86502,Emerson,emerson,2024,Michigan,MI,general,2024-11-05,2024-03-18,Elissa Slotkin,Sandy Pensler,two_party,hypothetical
+194853,86502,Emerson,emerson,2024,Michigan,MI,general,2024-11-05,2024-03-18,Elissa Slotkin,Peter Meijer,two_party,hypothetical
+194854,86502,Emerson,emerson,2024,Michigan,MI,general,2024-11-05,2024-03-18,Elissa Slotkin,Justin Amash,two_party,hypothetical
+199420,86968,Glengariff Group Inc.,glengariff group inc.,2024,Michigan,MI,general,2024-11-05,2024-04-25,Elissa Slotkin,Justin Amash,two_party,hypothetical
+199421,86968,Glengariff Group Inc.,glengariff group inc.,2024,Michigan,MI,general,2024-11-05,2024-04-25,Elissa Slotkin,Sandy Pensler,two_party,hypothetical
+199422,86968,Glengariff Group Inc.,glengariff group inc.,2024,Michigan,MI,general,2024-11-05,2024-04-25,Elissa Slotkin,Peter Meijer,two_party,hypothetical
+199423,86968,Glengariff Group Inc.,glengariff group inc.,2024,Michigan,MI,general,2024-11-05,2024-04-25,Hill Harper,Mike Rogers,two_party,hypothetical
+199424,86968,Glengariff Group Inc.,glengariff group inc.,2024,Michigan,MI,general,2024-11-05,2024-04-25,Nasser Beydoun,Mike Rogers,two_party,hypothetical
+210795,88371,University of Massachusetts Lowell/YouGov,university of massachusetts lowell/yougov,2024,Michigan,MI,general,2024-11-05,2024-09-19,Elissa Slotkin,Mike Rogers,two_party,hypothetical
+213064,88744,Mitchell,mitchell,2024,Michigan,MI,general,2024-11-05,2024-10-14,Elissa Slotkin,Mike Rogers,two_party,hypothetical
+194278,86266,SurveyUSA,surveyusa,2024,Minnesota,MN,general,2024-11-05,2024-02-28,Amy Klobuchar,Joe Fraser,two_party,hypothetical
+196356,86625,SurveyUSA,surveyusa,2024,Minnesota,MN,general,2024-11-05,2024-04-07,Amy Klobuchar,Joe Fraser,two_party,hypothetical
+199316,86948,SurveyUSA,surveyusa,2024,Minnesota,MN,general,2024-11-05,2024-05-11,Amy Klobuchar,Joe Fraser,two_party,hypothetical
+201121,87198,SurveyUSA,surveyusa,2024,Minnesota,MN,general,2024-11-05,2024-06-16,Amy Klobuchar,Joe Fraser,two_party,hypothetical
+204872,87581,SurveyUSA,surveyusa,2024,Minnesota,MN,general,2024-11-05,2024-07-25,Amy Klobuchar,Joe Fraser,two_party,hypothetical
+183542,84395,Emerson,emerson,2024,Missouri,MO,general,2024-11-05,2023-10-04,Wesley Bell,Josh Hawley,two_party,hypothetical
+168777,82181,The Political Company,the political company,2024,Montana,MT,general,2024-11-05,2023-02-01,Jon Tester,Ryan K. Zinke,two_party,hypothetical
+168778,82181,The Political Company,the political company,2024,Montana,MT,general,2024-11-05,2023-02-01,Jon Tester,Matt Rosendale,two_party,hypothetical
+168779,82181,The Political Company,the political company,2024,Montana,MT,general,2024-11-05,2023-02-01,Jon Tester,Greg Gianforte,two_party,hypothetical
+170538,82346,OnMessage Inc.,onmessage inc.,2024,Montana,MT,general,2024-11-05,2023-02-21,Jon Tester,Matt Rosendale,two_party,hypothetical
+180876,84067,J.L. Partners,j.l. partners,2024,Montana,MT,general,2024-11-05,2023-08-17,Jon Tester,Matt Rosendale,two_party,hypothetical
+192492,85968,SurveyUSA,surveyusa,2024,Montana,MT,general,2024-11-05,2024-02-15,Jon Tester,Matt Rosendale,two_party,hypothetical
+192803,85968,SurveyUSA,surveyusa,2024,Montana,MT,general,2024-11-05,2024-02-15,Jon Tester,Brad Johnson,two_party,hypothetical
+201279,87214,Public Opinion Strategies,public opinion strategies,2024,Montana,MT,general,2024-11-05,2024-06-13,Jon Tester,Tim Sheehy,two_party,hypothetical
+201673,87274,Torchlight Strategies,torchlight strategies,2024,Montana,MT,general,2024-11-05,2024-06-26,Jon Tester,Tim Sheehy,two_party,hypothetical
+206861,87895,Public Opinion Strategies,public opinion strategies,2024,Montana,MT,general,2024-11-05,2024-08-20,Jon Tester,Tim Sheehy,two_party,hypothetical
+207858,88036,Fabrizio/David Binder Research,fabrizio/david binder research,2024,Montana,MT,general,2024-11-05,2024-08-29,Jon Tester,Tim Sheehy,two_party,hypothetical
+182455,84267,PPP,ppp,2024,New Jersey,NJ,general,2024-11-05,2023-09-27,Bob Menendez,Chris Christie,two_party,hypothetical
+182456,84267,PPP,ppp,2024,New Jersey,NJ,general,2024-11-05,2023-09-27,Andy Kim,Chris Christie,two_party,hypothetical
+196531,86659,Fairleigh Dickinson,fairleigh dickinson,2024,New Jersey,NJ,general,2024-11-05,2024-04-08,Andy Kim,Christine Serrano Glassner,two_party,hypothetical
+173746,82890,VoteTXT,votetxt,2024,Nevada,NV,general,2024-11-05,2023-05-19,Jacky S. Rosen,Adam Paul Laxalt,two_party,hypothetical
+173747,82890,VoteTXT,votetxt,2024,Nevada,NV,general,2024-11-05,2023-05-19,Jacky S. Rosen,James Carl Marchant,two_party,hypothetical
+189914,85557,Change Research,change research,2024,Nevada,NV,general,2024-11-05,2023-03-01,Jacky S. Rosen,Adam Paul Laxalt,two_party,hypothetical
+193471,86164,Emerson,emerson,2024,Nevada,NV,general,2024-11-05,2024-02-19,Jacky S. Rosen,Jeffrey Ross Gunter,two_party,hypothetical
+193472,86164,Emerson,emerson,2024,Nevada,NV,general,2024-11-05,2024-02-19,Jacky S. Rosen,James Carl Marchant,two_party,hypothetical
+194754,86468,Noble Predictive Insights,noble predictive insights,2024,Nevada,NV,general,2024-11-05,2024-03-05,Jacky S. Rosen,James Carl Marchant,two_party,hypothetical
+194797,86497,Emerson,emerson,2024,Nevada,NV,general,2024-11-05,2024-03-15,Jacky S. Rosen,Jeffrey Ross Gunter,two_party,hypothetical
+194798,86497,Emerson,emerson,2024,Nevada,NV,general,2024-11-05,2024-03-15,Jacky S. Rosen,James Carl Marchant,two_party,hypothetical
+197797,86752,Emerson,emerson,2024,Nevada,NV,general,2024-11-05,2024-04-29,Jacky S. Rosen,Jeffrey Ross Gunter,two_party,hypothetical
+175254,83135,East Carolina University,east carolina university,2024,Ohio,OH,general,2024-11-05,2023-06-24,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+175255,83135,East Carolina University,east carolina university,2024,Ohio,OH,general,2024-11-05,2023-06-24,Sherrod Brown,Frank LaRose,two_party,hypothetical
+175675,83223,Suffolk,suffolk,2024,Ohio,OH,general,2024-11-05,2023-07-12,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+175676,83223,Suffolk,suffolk,2024,Ohio,OH,general,2024-11-05,2023-07-12,Sherrod Brown,Frank LaRose,two_party,hypothetical
+177412,83308,Ohio Northern University Institute for Civics and Public Policy,ohio northern university institute for civics and public policy,2024,Ohio,OH,general,2024-11-05,2023-07-26,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+177413,83308,Ohio Northern University Institute for Civics and Public Policy,ohio northern university institute for civics and public policy,2024,Ohio,OH,general,2024-11-05,2023-07-26,Sherrod Brown,Frank LaRose,two_party,hypothetical
+183361,84367,Emerson,emerson,2024,Ohio,OH,general,2024-11-05,2023-10-04,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+183362,84367,Emerson,emerson,2024,Ohio,OH,general,2024-11-05,2023-10-04,Sherrod Brown,Frank LaRose,two_party,hypothetical
+184616,84526,Ohio Northern University Institute for Civics and Public Policy,ohio northern university institute for civics and public policy,2024,Ohio,OH,general,2024-11-05,2023-10-19,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+184617,84526,Ohio Northern University Institute for Civics and Public Policy,ohio northern university institute for civics and public policy,2024,Ohio,OH,general,2024-11-05,2023-10-19,Sherrod Brown,Frank LaRose,two_party,hypothetical
+185577,84649,Data for Progress,data for progress,2024,Ohio,OH,general,2024-11-05,2023-11-02,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+185578,84649,Data for Progress,data for progress,2024,Ohio,OH,general,2024-11-05,2023-11-02,Sherrod Brown,Frank LaRose,two_party,hypothetical
+185580,84649,Data for Progress,data for progress,2024,Ohio,OH,general,2024-11-05,2023-11-02,Sherrod Brown,Joel Mutchler,two_party,hypothetical
+186584,84696,Emerson,emerson,2024,Ohio,OH,general,2024-11-05,2023-11-13,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+186585,84696,Emerson,emerson,2024,Ohio,OH,general,2024-11-05,2023-11-13,Sherrod Brown,Frank LaRose,two_party,hypothetical
+191537,85794,Emerson,emerson,2024,Ohio,OH,general,2024-11-05,2024-01-25,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+191538,85794,Emerson,emerson,2024,Ohio,OH,general,2024-11-05,2024-01-25,Sherrod Brown,Frank LaRose,two_party,hypothetical
+194548,86461,Emerson,emerson,2024,Ohio,OH,general,2024-11-05,2024-03-10,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+194549,86461,Emerson,emerson,2024,Ohio,OH,general,2024-11-05,2024-03-10,Sherrod Brown,Frank LaRose,two_party,hypothetical
+194633,86469,SurveyUSA,surveyusa,2024,Ohio,OH,general,2024-11-05,2024-03-11,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+194634,86469,SurveyUSA,surveyusa,2024,Ohio,OH,general,2024-11-05,2024-03-11,Sherrod Brown,Frank LaRose,two_party,hypothetical
+194663,86474,East Carolina University,east carolina university,2024,Ohio,OH,general,2024-11-05,2024-03-11,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+194664,86474,East Carolina University,east carolina university,2024,Ohio,OH,general,2024-11-05,2024-03-11,Sherrod Brown,Frank LaRose,two_party,hypothetical
+194698,86478,Florida Atlantic University/Mainstreet Research,florida atlantic university/mainstreet research,2024,Ohio,OH,general,2024-11-05,2024-03-13,Sherrod Brown,Matthew J. Dolan,two_party,hypothetical
+194700,86478,Florida Atlantic University/Mainstreet Research,florida atlantic university/mainstreet research,2024,Ohio,OH,general,2024-11-05,2024-03-13,Sherrod Brown,Frank LaRose,two_party,hypothetical
+171925,82601,Franklin and Marshall College,franklin and marshall college,2024,Pennsylvania,PA,general,2024-11-05,2023-04-07,Robert P. Casey Jr.,Douglas V. Mastriano,two_party,hypothetical
+206185,87800,Cygnal,cygnal,2024,Pennsylvania,PA,general,2024-11-05,2024-08-15,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+207529,87979,Redfield & Wilton Strategies,redfield & wilton strategies,2024,Pennsylvania,PA,general,2024-11-05,2024-08-28,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+208788,88121,Redfield & Wilton Strategies,redfield & wilton strategies,2024,Pennsylvania,PA,general,2024-11-05,2024-09-09,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+210375,88293,Redfield & Wilton Strategies,redfield & wilton strategies,2024,Pennsylvania,PA,general,2024-11-05,2024-09-19,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+210796,88372,University of Massachusetts Lowell/YouGov,university of massachusetts lowell/yougov,2024,Pennsylvania,PA,general,2024-11-05,2024-09-19,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+211916,88570,Bullfinch,bullfinch,2024,Pennsylvania,PA,general,2024-11-05,2024-09-29,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+213038,88737,University of Massachusetts Lowell/YouGov,university of massachusetts lowell/yougov,2024,Pennsylvania,PA,general,2024-11-05,2024-10-09,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+214515,88992,North Star Opinion Research,north star opinion research,2024,Pennsylvania,PA,general,2024-11-05,2024-10-26,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+215039,89119,University of Massachusetts Lowell/YouGov,university of massachusetts lowell/yougov,2024,Pennsylvania,PA,general,2024-11-05,2024-10-23,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+215214,89139,Echelon Insights,echelon insights,2024,Pennsylvania,PA,general,2024-11-05,2024-10-30,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+215345,89156,Suffolk,suffolk,2024,Pennsylvania,PA,general,2024-11-05,2024-10-30,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+215684,89211,Data for Progress,data for progress,2024,Pennsylvania,PA,general,2024-11-05,2024-10-31,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+216445,89368,Survation,survation,2024,Pennsylvania,PA,general,2024-11-05,2024-11-04,Robert P. Casey Jr.,Dave McCormick,two_party,hypothetical
+184223,84491,Targoz Market Research,targoz market research,2024,Tennessee,TN,general,2024-11-05,2023-10-16,Marquita Bradshaw,Marsha Blackburn,two_party,hypothetical
+184224,84491,Targoz Market Research,targoz market research,2024,Tennessee,TN,general,2024-11-05,2023-10-16,Marquita Bradshaw,Marsha Blackburn,two_party,hypothetical
+196300,86629,Targoz Market Research,targoz market research,2024,Tennessee,TN,general,2024-11-05,2024-04-02,Marquita Bradshaw,Marsha Blackburn,two_party,hypothetical
+196335,86629,Targoz Market Research,targoz market research,2024,Tennessee,TN,general,2024-11-05,2024-04-02,Marquita Bradshaw,Marsha Blackburn,two_party,hypothetical
+202931,87398,Targoz Market Research,targoz market research,2024,Tennessee,TN,general,2024-11-05,2024-07-01,Marquita Bradshaw,Marsha Blackburn,two_party,hypothetical
+202932,87398,Targoz Market Research,targoz market research,2024,Tennessee,TN,general,2024-11-05,2024-07-01,Marquita Bradshaw,Marsha Blackburn,two_party,hypothetical
+189274,85451,U. Texas,u. texas,2024,Texas,TX,general,2024-11-05,2023-12-10,Roland Gutierrez,Ted Cruz,two_party,hypothetical
+190509,85646,Emerson,emerson,2024,Texas,TX,general,2024-11-05,2024-01-15,Roland Gutierrez,Ted Cruz,two_party,hypothetical
+191574,85736,U. Houston,u. houston,2024,Texas,TX,general,2024-11-05,2024-01-24,Roland Gutierrez,Ted Cruz,two_party,hypothetical
+191598,85806,Z to A Research,z to a research,2024,Texas,TX,general,2024-11-05,2023-09-15,Roland Gutierrez,Ted Cruz,two_party,hypothetical
+192805,86065,U. Texas,u. texas,2024,Texas,TX,general,2024-11-05,2024-02-12,Roland Gutierrez,Ted Cruz,two_party,hypothetical
+196406,86643,Cygnal,cygnal,2024,Texas,TX,general,2024-11-05,2024-04-06,Colin Allred,Ted Cruz,two_party,hypothetical
+162590,80844,Research America,research america,2024,Virginia,VA,general,2024-11-05,2022-09-12,Timothy Michael Kaine,Glenn Youngkin,two_party,hypothetical
+178432,83343,Virginia Commonwealth U.,virginia commonwealth u.,2024,Virginia,VA,general,2024-11-05,2023-07-25,Timothy Michael Kaine,Glenn Youngkin,two_party,hypothetical
+170829,82406,PPP,ppp,2024,Washington,WA,general,2024-11-05,2023-03-08,Maria Cantwell,Jaime Herrera Beutler,two_party,hypothetical
+174355,82983,PPP,ppp,2024,Washington,WA,general,2024-11-05,2023-06-08,Maria Cantwell,Jaime Herrera Beutler,two_party,hypothetical
+174002,82926,Fabrizio,fabrizio,2024,Wisconsin,WI,general,2024-11-05,2023-05-25,Tammy Baldwin,Mike Gallagher,two_party,hypothetical
+152324,78370,Triton Polling & Research,triton polling & research,2024,West Virginia,WV,general,2024-11-05,2022-01-20,"Joe Manchin, III",Alexander X. Mooney,two_party,hypothetical
+152325,78370,Triton Polling & Research,triton polling & research,2024,West Virginia,WV,general,2024-11-05,2022-01-20,"Joe Manchin, III",Patrick Morrisey,two_party,hypothetical
+152326,78370,Triton Polling & Research,triton polling & research,2024,West Virginia,WV,general,2024-11-05,2022-01-20,"Joe Manchin, III",Jim Justice,two_party,hypothetical
+160421,79988,Triton Polling & Research,triton polling & research,2024,West Virginia,WV,general,2024-11-05,2022-08-26,"Joe Manchin, III",Patrick Morrisey,two_party,hypothetical
+160422,79988,Triton Polling & Research,triton polling & research,2024,West Virginia,WV,general,2024-11-05,2022-08-26,"Joe Manchin, III",Alexander X. Mooney,two_party,hypothetical
+160423,79988,Triton Polling & Research,triton polling & research,2024,West Virginia,WV,general,2024-11-05,2022-08-26,"Joe Manchin, III",Jim Justice,two_party,hypothetical
+168931,82199,Tarrance,tarrance,2024,West Virginia,WV,general,2024-11-05,2023-02-07,"Joe Manchin, III",Jim Justice,two_party,hypothetical
+168932,82199,Tarrance,tarrance,2024,West Virginia,WV,general,2024-11-05,2023-02-07,"Joe Manchin, III",Alexander X. Mooney,two_party,hypothetical
+168933,82199,Tarrance,tarrance,2024,West Virginia,WV,general,2024-11-05,2023-02-07,"Joe Manchin, III",Patrick Morrisey,two_party,hypothetical
+172631,82725,co/efficient,co/efficient,2024,West Virginia,WV,general,2024-11-05,2023-04-25,"Joe Manchin, III",Jim Justice,two_party,hypothetical
+172632,82725,co/efficient,co/efficient,2024,West Virginia,WV,general,2024-11-05,2023-04-25,"Joe Manchin, III",Alexander X. Mooney,two_party,hypothetical
+173835,82900,East Carolina University,east carolina university,2024,West Virginia,WV,general,2024-11-05,2023-05-23,"Joe Manchin, III",Jim Justice,two_party,hypothetical
+173836,82900,East Carolina University,east carolina university,2024,West Virginia,WV,general,2024-11-05,2023-05-23,"Joe Manchin, III",Alexander X. Mooney,two_party,hypothetical
+180878,84071,Research America,research america,2024,West Virginia,WV,general,2024-11-05,2023-08-26,"Joe Manchin, III",Jim Justice,two_party,hypothetical
+180879,84071,Research America,research america,2024,West Virginia,WV,general,2024-11-05,2023-08-26,"Joe Manchin, III",Alexander X. Mooney,two_party,hypothetical
+183575,84399,Emerson,emerson,2024,West Virginia,WV,general,2024-11-05,2023-10-04,"Joe Manchin, III",Jim Justice,two_party,hypothetical
+183576,84399,Emerson,emerson,2024,West Virginia,WV,general,2024-11-05,2023-10-04,"Joe Manchin, III",Alexander X. Mooney,two_party,hypothetical
+132277,68124,Anzalone Liszt Grove,anzalone liszt grove,2020,Louisiana,LA,runoff,,2020-08-12,Adrian Perkins,Bill Cassidy,two_party,missing_election_date
+86532,53735,Mellman,mellman,2018,Mississippi,MS,runoff,2018-11-27,2018-08-07,Mike Espy,Cindy Hyde-Smith,two_party,no_result_contest
+86535,53834,Mason-Dixon,mason-dixon,2018,Mississippi,MS,runoff,2018-11-27,2018-04-14,Mike Espy,Cindy Hyde-Smith,two_party,no_result_contest
+86538,53572,Triumph Campaigns,triumph campaigns,2018,Mississippi,MS,runoff,2018-11-27,2018-07-31,Mike Espy,Cindy Hyde-Smith,two_party,no_result_contest
+86541,53573,Triumph Campaigns,triumph campaigns,2018,Mississippi,MS,runoff,2018-11-27,2018-04-11,Mike Espy,Cindy Hyde-Smith,two_party,no_result_contest
+90620,56373,Marist College,marist college,2018,Mississippi,MS,runoff,2018-11-27,2018-10-18,Mike Espy,Cindy Hyde-Smith,two_party,no_result_contest
+90621,56373,Marist College,marist college,2018,Mississippi,MS,runoff,2018-11-27,2018-10-18,Mike Espy,Cindy Hyde-Smith,two_party,no_result_contest
+91850,56921,JMC Analytics/Bold Blue Campaigns,jmc analytics/bold blue campaigns,2018,Mississippi,MS,runoff,2018-11-27,2018-11-24,Mike Espy,Cindy Hyde-Smith,two_party,no_result_contest
+91852,56923,Change Research,change research,2018,Mississippi,MS,runoff,2018-11-27,2018-11-25,Mike Espy,Cindy Hyde-Smith,two_party,no_result_contest
+155617,78975,Emerson,emerson,2022,Connecticut,CT,general,2022-11-08,2022-05-11,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+159104,79594,McLaughlin,mclaughlin,2022,Connecticut,CT,general,2022-11-08,2022-07-27,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+161263,80588,Emerson,emerson,2022,Connecticut,CT,general,2022-11-08,2022-09-09,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+161839,80731,Quinnipiac,quinnipiac,2022,Connecticut,CT,general,2022-11-08,2022-09-19,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+162541,80826,Western New England University,western new england university,2022,Connecticut,CT,general,2022-11-08,2022-09-21,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+162542,80826,Western New England University,western new england university,2022,Connecticut,CT,general,2022-11-08,2022-09-21,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+163355,81074,Fabrizio,fabrizio,2022,Connecticut,CT,general,2022-11-08,2022-10-13,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+163920,81218,Quinnipiac,quinnipiac,2022,Connecticut,CT,general,2022-11-08,2022-10-23,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+164047,81242,Emerson,emerson,2022,Connecticut,CT,general,2022-11-08,2022-10-21,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+164899,81497,Long Island University,long island university,2022,Connecticut,CT,general,2022-11-08,2022-10-26,Richard Blumenthal,Leora R. Levy,two_party,no_result_contest
+83298,52723,USC Dornsife,usc dornsife,2018,California,CA,general,2018-11-06,2018-06-17,,,missing_republican,not_two_party_margin
+83299,52723,USC Dornsife,usc dornsife,2018,California,CA,general,2018-11-06,2018-06-17,,,missing_republican,not_two_party_margin
+83339,52745,SurveyUSA,surveyusa,2018,California,CA,general,2018-11-06,2018-06-27,,,missing_republican,not_two_party_margin
+84569,53426,PPIC,ppic,2018,California,CA,general,2018-11-06,2018-07-17,,,missing_republican,not_two_party_margin
+86134,53671,Probolsky Research,probolsky research,2018,California,CA,general,2018-11-06,2018-04-18,,,missing_republican,not_two_party_margin
+86649,53878,Probolsky Research,probolsky research,2018,California,CA,general,2018-11-06,2018-09-02,,,missing_republican,not_two_party_margin
+87434,54090,Ipsos,ipsos,2018,California,CA,general,2018-11-06,2018-09-14,,,missing_republican,not_two_party_margin
+87517,54119,Vox Populi Polling,vox populi polling,2018,California,CA,general,2018-11-06,2018-09-18,,,missing_republican,not_two_party_margin
+89570,55899,PPIC,ppic,2018,California,CA,general,2018-11-06,2018-09-18,,,missing_republican,not_two_party_margin
+90201,54090,Ipsos,ipsos,2018,California,CA,general,2018-11-06,2018-09-14,,,missing_republican,not_two_party_margin
+90339,56243,SurveyUSA,surveyusa,2018,California,CA,general,2018-11-06,2018-10-14,,,missing_republican,not_two_party_margin
+90422,56272,1st Tuesday Campaigns,1st tuesday campaigns,2018,California,CA,general,2018-11-06,2018-10-06,,,missing_republican,not_two_party_margin
+90483,56268,USC Dornsife,usc dornsife,2018,California,CA,general,2018-11-06,2018-10-14,,,missing_republican,not_two_party_margin
+90484,56268,USC Dornsife,usc dornsife,2018,California,CA,general,2018-11-06,2018-10-14,,,missing_republican,not_two_party_margin
+90581,56345,Emerson,emerson,2018,California,CA,general,2018-11-06,2018-10-19,,,missing_republican,not_two_party_margin
+90796,56451,PPIC,ppic,2018,California,CA,general,2018-11-06,2018-10-21,,,missing_republican,not_two_party_margin
+91106,56595,UC Berkeley,uc berkeley,2018,California,CA,general,2018-11-06,2018-10-25,,,missing_republican,not_two_party_margin
+91269,56669,YouGov,yougov,2018,California,CA,general,2018-11-06,2018-10-24,,,missing_republican,not_two_party_margin
+91394,56731,Probolsky Research,probolsky research,2018,California,CA,general,2018-11-06,2018-10-30,,,missing_republican,not_two_party_margin
+91412,56737,Research Co.,research co.,2018,California,CA,general,2018-11-06,2018-11-03,,,missing_republican,not_two_party_margin
+91520,56793,Change Research,change research,2018,California,CA,general,2018-11-06,2018-11-04,,,missing_republican,not_two_party_margin
+91557,56813,SurveyUSA,surveyusa,2018,California,CA,general,2018-11-06,2018-11-02,,,missing_republican,not_two_party_margin
+85932,53545,Suffolk,suffolk,2018,Maine,ME,general,2018-11-06,2018-08-06,,,missing_democrat,not_two_party_margin
+86233,53735,Mellman,mellman,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-08-07,,,multiple_major_party_candidates,not_two_party_margin
+86235,53737,GS Strategy Group,gs strategy group,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-05-03,,,multiple_major_party_candidates,not_two_party_margin
+86527,53830,Atlantic Media and Research,atlantic media and research,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-08-30,,,multiple_major_party_candidates,not_two_party_margin
+86534,53833,Chism Strategies,chism strategies,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-03-29,,,multiple_major_party_candidates,not_two_party_margin
+86537,53572,Triumph Campaigns,triumph campaigns,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-07-31,,,multiple_major_party_candidates,not_two_party_margin
+86540,53573,Triumph Campaigns,triumph campaigns,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-04-11,,,multiple_major_party_candidates,not_two_party_margin
+89701,55975,SurveyMonkey,surveymonkey,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-09-24,,,multiple_major_party_candidates,not_two_party_margin
+90618,56373,Marist College,marist college,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-10-18,,,multiple_major_party_candidates,not_two_party_margin
+90619,56373,Marist College,marist college,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-10-18,,,multiple_major_party_candidates,not_two_party_margin
+91535,56806,Change Research,change research,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-11-04,,,multiple_major_party_candidates,not_two_party_margin
+137023,73079,In Lux Research,in lux research,2018,New Mexico,NM,general,2018-11-06,2018-07-29,,,missing_republican,not_two_party_margin
+86679,53625,GBAO,gbao,2018,New Mexico,NM,general,2018-11-06,2018-08-05,,,missing_republican,not_two_party_margin
+89814,55954,Tulchin Research,tulchin research,2018,Vermont,VT,general,2018-11-06,2018-09-26,,,missing_democrat,not_two_party_margin
+90575,56339,Braun,braun,2018,Vermont,VT,general,2018-11-06,2018-10-14,,,missing_democrat,not_two_party_margin
+91260,56663,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2018,Vermont,VT,general,2018-11-06,2018-11-01,,,missing_democrat,not_two_party_margin
+100828,58956,Patinkin Research Strategies,patinkin research strategies,2020,Alaska,AK,general,2020-11-03,2019-06-04,,,missing_democrat,not_two_party_margin
+132314,70727,ARG,arg,2020,Arkansas,AR,general,2020-11-03,2020-10-09,,,missing_democrat,not_two_party_margin
+133784,71160,Hendrix College,hendrix college,2020,Arkansas,AR,general,2020-11-03,2020-10-13,,,missing_democrat,not_two_party_margin
+135273,72141,U. of Arkansas,u. of arkansas,2020,Arkansas,AR,general,2020-11-03,2020-10-21,,,missing_democrat,not_two_party_margin
+116351,63392,McLaughlin,mclaughlin,2020,Georgia,GA,jungle_primary,2020-11-03,2019-12-18,,,multiple_major_party_candidates,not_two_party_margin
+118906,64522,Public Opinion Strategies,public opinion strategies,2020,Georgia,GA,jungle_primary,2020-11-03,2020-02-20,,,multiple_major_party_candidates,not_two_party_margin
+119251,64618,Battleground Connect,battleground connect,2020,Georgia,GA,jungle_primary,2020-11-03,2020-02-27,,,multiple_major_party_candidates,not_two_party_margin
+119613,64706,U. Georgia SPIA,u. georgia spia,2020,Georgia,GA,jungle_primary,2020-11-03,2020-03-02,,,multiple_major_party_candidates,not_two_party_margin
+120529,64994,Battleground Connect,battleground connect,2020,Georgia,GA,jungle_primary,2020-11-03,2020-03-07,,,multiple_major_party_candidates,not_two_party_margin
+120530,64995,Battleground Connect,battleground connect,2020,Georgia,GA,jungle_primary,2020-11-03,2020-03-12,,,multiple_major_party_candidates,not_two_party_margin
+120531,64996,Battleground Connect,battleground connect,2020,Georgia,GA,jungle_primary,2020-11-03,2020-03-21,,,multiple_major_party_candidates,not_two_party_margin
+120532,64997,Battleground Connect,battleground connect,2020,Georgia,GA,jungle_primary,2020-11-03,2020-03-24,,,multiple_major_party_candidates,not_two_party_margin
+120900,65227,Battleground Connect,battleground connect,2020,Georgia,GA,jungle_primary,2020-11-03,2020-04-01,,,multiple_major_party_candidates,not_two_party_margin
+122313,66011,Cygnal,cygnal,2020,Georgia,GA,jungle_primary,2020-11-03,2020-04-27,,,multiple_major_party_candidates,not_two_party_margin
+123445,66312,Civiqs,civiqs,2020,Georgia,GA,jungle_primary,2020-11-03,2020-05-18,,,multiple_major_party_candidates,not_two_party_margin
+124983,66933,PPP,ppp,2020,Georgia,GA,jungle_primary,2020-11-03,2020-06-26,,,multiple_major_party_candidates,not_two_party_margin
+125299,67060,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,Georgia,GA,jungle_primary,2020-11-03,2020-07-02,,,multiple_major_party_candidates,not_two_party_margin
+125304,67060,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,Georgia,GA,runoff,2021-01-05,2020-07-02,,,missing_democrat,not_two_party_margin
+125343,67082,Battleground Connect,battleground connect,2020,Georgia,GA,jungle_primary,2020-11-03,2020-07-08,,,multiple_major_party_candidates,not_two_party_margin
+126533,67622,Spry Strategies,spry strategies,2020,Georgia,GA,jungle_primary,2020-11-03,2020-07-16,,,multiple_major_party_candidates,not_two_party_margin
+126941,67821,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-07-27,,,multiple_major_party_candidates,not_two_party_margin
+127268,67964,MRG Research (Merriman River Group),mrg research (merriman river group),2020,Georgia,GA,jungle_primary,2020-11-03,2020-06-23,,,multiple_major_party_candidates,not_two_party_margin
+127300,67982,HIT Strategies,hit strategies,2020,Georgia,GA,jungle_primary,2020-11-03,2020-07-31,,,multiple_major_party_candidates,not_two_party_margin
+127320,67996,SurveyUSA,surveyusa,2020,Georgia,GA,jungle_primary,2020-11-03,2020-08-08,,,multiple_major_party_candidates,not_two_party_margin
+128418,68583,Fabrizio Ward/Hart Research Associates,fabrizio ward/hart research associates,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-05,,,multiple_major_party_candidates,not_two_party_margin
+129389,69469,HarrisX,harrisx,2020,Georgia,GA,jungle_primary,2020-11-03,2020-08-30,,,multiple_major_party_candidates,not_two_party_margin
+129612,69566,Redfield & Wilton Strategies,redfield & wilton strategies,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-16,,,multiple_major_party_candidates,not_two_party_margin
+129657,69574,GBAO,gbao,2020,Georgia,GA,jungle_primary,2020-11-03,2020-07-09,,,multiple_major_party_candidates,not_two_party_margin
+129658,69575,GBAO,gbao,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-16,,,multiple_major_party_candidates,not_two_party_margin
+129841,69646,U. Georgia SPIA,u. georgia spia,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-20,,,multiple_major_party_candidates,not_two_party_margin
+129936,69690,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-21,,,multiple_major_party_candidates,not_two_party_margin
+129937,69690,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-21,,,multiple_major_party_candidates,not_two_party_margin
+129938,69690,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-21,,,multiple_major_party_candidates,not_two_party_margin
+129941,67821,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-07-27,,,multiple_major_party_candidates,not_two_party_margin
+129942,67821,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-07-27,,,multiple_major_party_candidates,not_two_party_margin
+129984,69709,Siena/NYT,siena/nyt,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-21,,,multiple_major_party_candidates,not_two_party_margin
+130238,69937,Data for Progress,data for progress,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-19,,,multiple_major_party_candidates,not_two_party_margin
+130479,70047,Quinnipiac,quinnipiac,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-27,,,multiple_major_party_candidates,not_two_party_margin
+130485,70049,Civiqs,civiqs,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-29,,,multiple_major_party_candidates,not_two_party_margin
+130674,70137,Redfield & Wilton Strategies,redfield & wilton strategies,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-26,,,multiple_major_party_candidates,not_two_party_margin
+130675,70131,Hart Research Associates,hart research associates,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-27,,,multiple_major_party_candidates,not_two_party_margin
+132239,70695,U. Georgia SPIA,u. georgia spia,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-06,,,multiple_major_party_candidates,not_two_party_margin
+132268,70712,Landmark Communications,landmark communications,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-07,,,multiple_major_party_candidates,not_two_party_margin
+132279,70715,PPP,ppp,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-09,,,multiple_major_party_candidates,not_two_party_margin
+132828,70982,SurveyUSA,surveyusa,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-12,,,multiple_major_party_candidates,not_two_party_margin
+132869,71000,Quinnipiac,quinnipiac,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-12,,,multiple_major_party_candidates,not_two_party_margin
+132895,71010,Data for Progress,data for progress,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-11,,,multiple_major_party_candidates,not_two_party_margin
+133779,71435,Emerson,emerson,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-19,,,multiple_major_party_candidates,not_two_party_margin
+133828,71454,Siena/NYT,siena/nyt,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-19,,,multiple_major_party_candidates,not_two_party_margin
+134457,71754,Opinion Insight,opinion insight,2020,Georgia,GA,jungle_primary,2020-11-03,2020-09-02,,,multiple_major_party_candidates,not_two_party_margin
+134462,71759,Opinion Insight,opinion insight,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-15,,,multiple_major_party_candidates,not_two_party_margin
+134487,71763,Landmark Communications,landmark communications,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-21,,,multiple_major_party_candidates,not_two_party_margin
+134860,71944,U. Georgia SPIA,u. georgia spia,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-23,,,multiple_major_party_candidates,not_two_party_margin
+135053,72040,Civiqs,civiqs,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-26,,,multiple_major_party_candidates,not_two_party_margin
+135286,72146,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-27,,,multiple_major_party_candidates,not_two_party_margin
+135287,72146,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-27,,,multiple_major_party_candidates,not_two_party_margin
+135288,72146,Monmouth,monmouth,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-27,,,multiple_major_party_candidates,not_two_party_margin
+135398,72181,Citizen Data,citizen data,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-20,,,multiple_major_party_candidates,not_two_party_margin
+135404,72187,PPP,ppp,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-28,,,multiple_major_party_candidates,not_two_party_margin
+135720,72336,Landmark Communications,landmark communications,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-28,,,multiple_major_party_candidates,not_two_party_margin
+136087,72517,Emerson,emerson,2020,Georgia,GA,jungle_primary,2020-11-03,2020-10-31,,,multiple_major_party_candidates,not_two_party_margin
+136360,72661,Landmark Communications,landmark communications,2020,Georgia,GA,jungle_primary,2020-11-03,2020-11-01,,,multiple_major_party_candidates,not_two_party_margin
+136514,72738,Data for Progress,data for progress,2020,Georgia,GA,jungle_primary,2020-11-03,2020-11-01,,,multiple_major_party_candidates,not_two_party_margin
+102305,59518,Ogden & Fry,ogden & fry,2020,Illinois,IL,general,2020-11-03,2019-09-04,,,missing_republican,not_two_party_margin
+132276,68124,Anzalone Liszt Grove,anzalone liszt grove,2020,Louisiana,LA,jungle_primary,2020-11-03,2020-08-12,,,multiple_major_party_candidates,not_two_party_margin
+142708,74899,Change Research,change research,2022,Alaska,AK,general,2022-11-08,2021-05-25,,,multiple_major_party_candidates,not_two_party_margin
+143876,75432,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2021-07-21,,,multiple_major_party_candidates,not_two_party_margin
+143877,75432,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2021-07-21,,,missing_democrat,not_two_party_margin
+148826,77162,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2021-10-27,,,multiple_major_party_candidates,not_two_party_margin
+148827,77162,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2021-10-27,,,missing_democrat,not_two_party_margin
+154167,78671,Cygnal,cygnal,2022,Alaska,AK,general,2022-11-08,2022-03-16,,,missing_democrat,not_two_party_margin
+155142,78865,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-04-21,,,missing_democrat,not_two_party_margin
+157756,79328,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-07-05,,,multiple_major_party_candidates,not_two_party_margin
+157757,79328,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-07-05,,,multiple_major_party_candidates,not_two_party_margin
+157758,79328,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-07-05,,,missing_democrat,not_two_party_margin
+159280,79636,Moore Information,moore information,2022,Alaska,AK,general,2022-11-08,2022-03-07,,,multiple_major_party_candidates,not_two_party_margin
+161422,80655,Fabrizio/Impact,fabrizio/impact,2022,Alaska,AK,general,2022-11-08,2022-09-11,,,multiple_major_party_candidates,not_two_party_margin
+161423,80655,Fabrizio/Impact,fabrizio/impact,2022,Alaska,AK,general,2022-11-08,2022-09-11,,,multiple_major_party_candidates,not_two_party_margin
+161424,80655,Fabrizio/Impact,fabrizio/impact,2022,Alaska,AK,general,2022-11-08,2022-09-11,,,missing_democrat,not_two_party_margin
+162699,80888,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-09-27,,,multiple_major_party_candidates,not_two_party_margin
+162700,80888,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-09-27,,,multiple_major_party_candidates,not_two_party_margin
+162701,80888,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-09-27,,,missing_democrat,not_two_party_margin
+163913,81215,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-10-22,,,multiple_major_party_candidates,not_two_party_margin
+163914,81215,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-10-22,,,multiple_major_party_candidates,not_two_party_margin
+163915,81215,Alaska Survey Research,alaska survey research,2022,Alaska,AK,general,2022-11-08,2022-10-22,,,missing_democrat,not_two_party_margin
+154165,78670,JMC Analytics,jmc analytics,2022,Louisiana,LA,jungle_primary,2022-11-08,2022-03-23,,,multiple_major_party_candidates,not_two_party_margin
+161166,80604,Echelon Insights,echelon insights,2022,Louisiana,LA,jungle_primary,2022-11-08,2022-09-07,,,multiple_major_party_candidates,not_two_party_margin
+163131,81014,PPP,ppp,2022,Louisiana,LA,jungle_primary,2022-11-08,2022-10-11,,,multiple_major_party_candidates,not_two_party_margin
+156306,79121,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-06-04,,,missing_democrat,not_two_party_margin
+156307,79121,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-06-04,,,missing_democrat,not_two_party_margin
+156308,79121,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-06-04,,,missing_democrat,not_two_party_margin
+156767,79188,WPAi,wpai,2022,Utah,UT,general,2022-11-08,2022-06-16,,,missing_democrat,not_two_party_margin
+156998,79224,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-06-15,,,missing_democrat,not_two_party_margin
+156999,79224,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-06-15,,,missing_democrat,not_two_party_margin
+157000,79224,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-06-15,,,missing_democrat,not_two_party_margin
+157964,79376,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-03-05,,,missing_democrat,not_two_party_margin
+157965,79376,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-03-05,,,missing_democrat,not_two_party_margin
+157966,79376,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-03-05,,,missing_democrat,not_two_party_margin
+157967,79377,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-07-12,,,missing_democrat,not_two_party_margin
+157968,79377,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-07-12,,,missing_democrat,not_two_party_margin
+157969,79377,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-07-12,,,missing_democrat,not_two_party_margin
+158188,79411,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-07-18,,,missing_democrat,not_two_party_margin
+159266,79631,WPAi,wpai,2022,Utah,UT,general,2022-11-08,2022-07-14,,,missing_democrat,not_two_party_margin
+160425,79990,Impact Research,impact research,2022,Utah,UT,general,2022-11-08,2022-09-01,,,missing_democrat,not_two_party_margin
+161005,80566,WPAi,wpai,2022,Utah,UT,general,2022-11-08,2022-08-05,,,missing_democrat,not_two_party_margin
+161411,80654,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-09-08,,,missing_democrat,not_two_party_margin
+161412,80654,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-09-08,,,missing_democrat,not_two_party_margin
+161720,80707,OnMessage Inc.,onmessage inc.,2022,Utah,UT,general,2022-11-08,2022-09-15,,,missing_democrat,not_two_party_margin
+161827,80725,Lighthouse Research,lighthouse research,2022,Utah,UT,general,2022-11-08,2022-09-13,,,missing_democrat,not_two_party_margin
+161972,80761,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-09-21,,,missing_democrat,not_two_party_margin
+161973,80761,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-09-21,,,missing_democrat,not_two_party_margin
+163069,80991,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-10-06,,,missing_democrat,not_two_party_margin
+163070,80991,Dan Jones,dan jones,2022,Utah,UT,general,2022-11-08,2022-10-06,,,missing_democrat,not_two_party_margin
+163220,81026,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-10-11,,,missing_democrat,not_two_party_margin
+163221,81026,Center Street PAC,center street pac,2022,Utah,UT,general,2022-11-08,2022-10-11,,,missing_democrat,not_two_party_margin
+163248,81036,Hill Research Consultants,hill research consultants,2022,Utah,UT,general,2022-11-08,2022-10-11,,,missing_democrat,not_two_party_margin
+163424,81085,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Utah,UT,general,2022-11-08,2022-10-06,,,missing_democrat,not_two_party_margin
+164434,81374,Emerson,emerson,2022,Utah,UT,general,2022-11-08,2022-10-28,,,missing_democrat,not_two_party_margin
+164443,81378,Hill Research Consultants,hill research consultants,2022,Utah,UT,general,2022-11-08,2022-10-30,,,missing_democrat,not_two_party_margin
+164553,81420,OH Predictive Insights/MBQF,oh predictive insights/mbqf,2022,Utah,UT,general,2022-11-08,2022-10-27,,,missing_democrat,not_two_party_margin
+167031,81962,David Binder Research,david binder research,2024,California,CA,general,2024-11-05,2022-11-21,,,missing_republican,not_two_party_margin
+193897,86240,UC Berkeley,uc berkeley,2024,California,CA,general,2024-11-05,2024-02-26,,,missing_republican,not_two_party_margin
+187981,84873,Change Research,change research,2024,Nebraska,NE,general,2024-11-05,2023-11-16,,,missing_democrat,not_two_party_margin
+198507,86852,PPP,ppp,2024,Nebraska,NE,general,2024-11-05,2024-04-25,,,missing_democrat,not_two_party_margin
+203582,87487,Torchlight Strategies,torchlight strategies,2024,Nebraska,NE,general,2024-11-05,2024-07-11,,,missing_democrat,not_two_party_margin
+203847,87527,Red Wave Strategy Group/Impact Research,red wave strategy group/impact research,2024,Nebraska,NE,general,2024-11-05,2024-07-11,,,missing_democrat,not_two_party_margin
+206433,87842,YouGov,yougov,2024,Nebraska,NE,general,2024-11-05,2024-08-12,,,missing_democrat,not_two_party_margin
+207596,88000,SurveyUSA,surveyusa,2024,Nebraska,NE,general,2024-11-05,2024-08-27,,,missing_democrat,not_two_party_margin
+210289,88266,Global Strategy Group,global strategy group,2024,Nebraska,NE,general,2024-11-05,2024-08-29,,,missing_democrat,not_two_party_margin
+210606,88334,Global Strategy Group,global strategy group,2024,Nebraska,NE,general,2024-11-05,2024-06-05,,,missing_democrat,not_two_party_margin
+210616,88338,SurveyUSA,surveyusa,2024,Nebraska,NE,general,2024-11-05,2024-09-23,,,missing_democrat,not_two_party_margin
+211445,88490,Bullfinch,bullfinch,2024,Nebraska,NE,general,2024-11-05,2024-10-01,,,missing_democrat,not_two_party_margin
+212070,88578,Impact Research,impact research,2024,Nebraska,NE,general,2024-11-05,2024-10-03,,,missing_democrat,not_two_party_margin
+212319,88638,Change Research,change research,2024,Nebraska,NE,general,2024-11-05,2024-10-08,,,missing_democrat,not_two_party_margin
+212320,88646,Torchlight Strategies,torchlight strategies,2024,Nebraska,NE,general,2024-11-05,2024-10-08,,,missing_democrat,not_two_party_margin
+212557,88692,SurveyUSA,surveyusa,2024,Nebraska,NE,general,2024-11-05,2024-10-12,,,missing_democrat,not_two_party_margin
+213100,88761,Torchlight Strategies,torchlight strategies,2024,Nebraska,NE,general,2024-11-05,2024-10-15,,,missing_democrat,not_two_party_margin
+213807,88880,Change Research,change research,2024,Nebraska,NE,general,2024-11-05,2024-10-21,,,missing_democrat,not_two_party_margin
+214448,88973,Siena/NYT,siena/nyt,2024,Nebraska,NE,general,2024-11-05,2024-10-26,,,missing_democrat,not_two_party_margin
+214450,88973,Siena/NYT,siena/nyt,2024,Nebraska,NE,general,2024-11-05,2024-10-26,,,missing_democrat,not_two_party_margin
+214815,89078,YouGov,yougov,2024,Nebraska,NE,general,2024-11-05,2024-10-28,,,missing_democrat,not_two_party_margin
+215273,89153,Change Research,change research,2024,Nebraska,NE,general,2024-11-05,2024-10-31,,,missing_democrat,not_two_party_margin
+215395,89180,Torchlight Strategies,torchlight strategies,2024,Nebraska,NE,general,2024-11-05,2024-10-28,,,missing_democrat,not_two_party_margin
+196529,86659,Fairleigh Dickinson,fairleigh dickinson,2024,New Jersey,NJ,general,2024-11-05,2024-04-08,,,multiple_major_party_candidates,not_two_party_margin
+196530,86659,Fairleigh Dickinson,fairleigh dickinson,2024,New Jersey,NJ,general,2024-11-05,2024-04-08,,,multiple_major_party_candidates,not_two_party_margin
+201665,87270,co/efficient,co/efficient,2024,New Jersey,NJ,general,2024-11-05,2024-06-27,,,multiple_major_party_candidates,not_two_party_margin
+206655,87857,U. New Hampshire,u. new hampshire,2024,Vermont,VT,general,2024-11-05,2024-08-19,,,missing_democrat,not_two_party_margin
+216114,89307,U. New Hampshire,u. new hampshire,2024,Vermont,VT,general,2024-11-05,2024-11-02,,,missing_democrat,not_two_party_margin
+183208,84333,Tarrance,tarrance,2024,West Virginia,WV,general,2024-11-05,2023-09-26,,,missing_democrat,not_two_party_margin
+100834,58565,Gravis Marketing (2020 and earlier),gravis marketing (2020 and earlier),2020,Maine,ME,general,2020-11-03,2019-06-24,Sara I. Gideon,Susan M. Collins,two_party,ranked_choice
+128414,68578,Fabrizio Ward/Hart Research Associates,fabrizio ward/hart research associates,2020,Maine,ME,general,2020-11-03,2020-09-05,Sara I. Gideon,Susan M. Collins,two_party,ranked_choice
+129511,69524,Siena/NYT,siena/nyt,2020,Maine,ME,general,2020-11-03,2020-09-16,Sara I. Gideon,Susan M. Collins,two_party,ranked_choice
+129677,69587,Suffolk,suffolk,2020,Maine,ME,general,2020-11-03,2020-09-20,Sara I. Gideon,Susan M. Collins,two_party,ranked_choice
+130566,70081,Data for Progress,data for progress,2020,Maine,ME,general,2020-11-03,2020-09-28,Sara I. Gideon,Susan M. Collins,two_party,ranked_choice
+135389,72179,SurveyUSA,surveyusa,2020,Maine,ME,general,2020-11-03,2020-10-27,Sara I. Gideon,Susan M. Collins,two_party,ranked_choice
+136607,72801,Change Research,change research,2020,Maine,ME,general,2020-11-03,2020-11-02,Sara I. Gideon,Susan M. Collins,two_party,ranked_choice
+90622,56373,Marist College,marist college,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-10-18,Mike Espy,Chris McDaniel,two_party,stage_not_comparable
+90623,56373,Marist College,marist college,2018,Mississippi,MS,jungle_primary,2018-11-06,2018-10-18,Mike Espy,Chris McDaniel,two_party,stage_not_comparable
+130603,70107,Remington,remington,2020,Massachusetts,MA,general,2020-11-03,2020-09-17,Edward J. Markey,Kevin J. O'Connor,two_party,unmatched_candidate
+134921,71972,UMass Amherst/YouGov,umass amherst/yougov,2020,Massachusetts,MA,general,2020-11-03,2020-10-21,Edward J. Markey,Kevin J. O'Connor,two_party,unmatched_candidate
+136478,72715,MassINC Polling Group,massinc polling group,2020,Massachusetts,MA,general,2020-11-03,2020-10-30,Edward J. Markey,Kevin J. O'Connor,two_party,unmatched_candidate
+119392,64585,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-02-25,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+126960,67827,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-07-28,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+126961,67828,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-06-22,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+126962,67829,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-05-18,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+128014,68334,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-09-01,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+130475,70045,U. Massachusetts - Lowell,u. massachusetts - lowell,2020,New Hampshire,NH,general,2020-11-03,2020-09-25,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+130606,70066,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-09-28,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+130625,70112,Emerson,emerson,2020,New Hampshire,NH,general,2020-11-03,2020-10-01,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+132004,70600,ARG,arg,2020,New Hampshire,NH,general,2020-11-03,2020-09-28,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+132215,70687,St. Anselm,st. anselm,2020,New Hampshire,NH,general,2020-11-03,2020-10-04,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+132812,70978,Suffolk,suffolk,2020,New Hampshire,NH,general,2020-11-03,2020-10-12,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+133096,70787,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-10-12,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+135453,72208,U. Massachusetts - Lowell,u. massachusetts - lowell,2020,New Hampshire,NH,general,2020-11-03,2020-10-26,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+135495,72226,ARG,arg,2020,New Hampshire,NH,general,2020-11-03,2020-10-28,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+135504,72230,U. New Hampshire,u. new hampshire,2020,New Hampshire,NH,general,2020-11-03,2020-10-28,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+135518,72233,St. Anselm,st. anselm,2020,New Hampshire,NH,general,2020-11-03,2020-10-26,Jeanne Shaheen,Bryant Messner,two_party,unmatched_candidate
+135715,72334,University of Wyoming,university of wyoming,2020,Wyoming,WY,general,2020-11-03,2020-10-28,Merav Ben-David,Cynthia M. Lummis,two_party,unmatched_candidate

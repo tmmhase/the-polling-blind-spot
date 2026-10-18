@@ -1,0 +1,2795 @@
+poll_id,contest_id,cycle,pollster_key,days_before_election,error_two_party,sampling_variance,n_questions,band
+53703,2018-AZ-general-0,2018,oh predictive insights/mbqf,104,1.9449,18.0817,1,mid
+53704,2018-AZ-general-0,2018,gravis marketing (2020 and earlier),127,2.4751,13.1525,1,mid
+53705,2018-AZ-general-0,2018,emerson,137,9.0177,21.1476,1,mid
+53706,2018-AZ-general-0,2018,yougov,137,7.1418,13.552,2,mid
+53707,2018-AZ-general-0,2018,marist college,138,10.2407,13.4809,1,mid
+53708,2018-AZ-general-0,2018,oh predictive insights/mbqf,209,4.2637,18.4362,1,early
+53709,2018-AZ-general-0,2018,ppp,235,3.3442,20.9439,1,early
+53710,2018-AZ-general-0,2018,oh predictive insights/mbqf,362,-1.3041,18.3128,1,early
+53757,2018-AZ-general-0,2018,surveymonkey,127,1.7905,8.6187,6,mid
+53758,2018-AZ-general-0,2018,surveymonkey,197,7.2745,6.3899,1,early
+53912,2018-AZ-general-0,2018,gravis marketing (2020 and earlier),60,-3.4339,11.6873,1,mid
+53960,2018-AZ-general-0,2018,oh predictive insights/mbqf,61,-5.6973,17.7813,1,mid
+53975,2018-AZ-general-0,2018,beacon/shaw,56,1.5181,14.8091,2,mid
+54057,2018-AZ-general-0,2018,cnn/ssrs,52,5.2931,13.5625,2,mid
+54084,2018-AZ-general-0,2018,targetsmart,54,2.7517,12.8524,1,mid
+54088,2018-AZ-general-0,2018,ipsos,53,1.7252,8.7602,2,mid
+55835,2018-AZ-general-0,2018,emerson,46,4.1839,18.3448,1,mid
+55845,2018-AZ-general-0,2018,marist college,47,0.6782,17.2424,4,mid
+56007,2018-AZ-general-0,2018,suffolk,37,1.0773,23.1738,1,mid
+56016,2018-AZ-general-0,2018,beacon/shaw,35,-0.7542,14.5562,2,mid
+56074,2018-AZ-general-0,2018,yougov,32,0.8937,12.2239,1,mid
+56125,2018-AZ-general-0,2018,oh predictive insights/mbqf,35,-9.2211,18.8513,1,mid
+56162,2018-AZ-general-0,2018,change research,27,-2.1736,14.646,1,late
+56184,2018-AZ-general-0,2018,latino decisions,42,4.7561,22.403,2,mid
+56263,2018-AZ-general-0,2018,siena/nyt,18,-4.1997,18.055,2,late
+56316,2018-AZ-general-0,2018,data orbital,20,5.3457,18.8887,2,late
+56497,2018-AZ-general-0,2018,yougov,11,0.8937,11.2933,1,late
+56522,2018-AZ-general-0,2018,highground,9,-3.7101,27.2285,1,late
+56539,2018-AZ-general-0,2018,marist college,10,2.2156,17.6509,4,late
+56586,2018-AZ-general-0,2018,ipsos,11,-0.689,10.114,2,late
+56600,2018-AZ-general-0,2018,cnn/ssrs,8,1.2508,13.4504,2,late
+56615,2018-AZ-general-0,2018,beacon/shaw,8,-1.8412,16.3639,2,late
+56625,2018-AZ-general-0,2018,oh predictive insights/mbqf,14,-9.6195,17.0926,1,late
+56649,2018-AZ-general-0,2018,harrisx,6,-10.1807,18.4065,1,late
+56673,2018-AZ-general-0,2018,vox populi polling,7,1.597,14.7474,1,late
+56685,2018-AZ-general-0,2018,harrisx,5,-9.8391,18.3957,1,late
+56710,2018-AZ-general-0,2018,harrisx,7,-7.7245,7.8965,1,late
+56716,2018-AZ-general-0,2018,harrisx,4,-8.4505,17.9327,1,late
+56730,2018-AZ-general-0,2018,trafalgar group,5,0.3834,4.7608,1,late
+56750,2018-AZ-general-0,2018,harrisx,3,-4.6538,17.8545,1,late
+56765,2018-AZ-general-0,2018,oh predictive insights/mbqf,3,-3.4339,16.3363,1,late
+56779,2018-AZ-general-0,2018,emerson,3,-1.6761,13.6988,1,late
+56798,2018-AZ-general-0,2018,harrisx,2,-1.4424,17.7856,1,late
+56801,2018-AZ-general-0,2018,research co.,3,-1.2794,24.9656,1,late
+56810,2018-AZ-general-0,2018,gravis marketing (2020 and earlier),4,-3.4782,9.2287,1,late
+56827,2018-AZ-general-0,2018,trafalgar group,1,-4.6683,8.8594,1,late
+56829,2018-AZ-general-0,2018,harrisx,1,2.5646,17.9541,1,late
+73024,2018-AZ-general-0,2018,harrisx,5,-10.0953,7.8028,1,late
+73025,2018-AZ-general-0,2018,harrisx,6,-7.8975,7.8256,1,late
+73319,2018-AZ-general-0,2018,revily,371,4.012,18.7431,1,early
+53762,2018-CT-general-0,2018,quinnipiac,77,10.7025,9.7528,1,mid
+53804,2018-CT-general-0,2018,gravis marketing (2020 and earlier),71,-1.7273,17.5008,1,mid
+56129,2018-CT-general-0,2018,quinnipiac,29,-5.2571,12.8672,1,late
+56538,2018-CT-general-0,2018,quinnipiac,9,-4.9447,8.3786,1,late
+56596,2018-CT-general-0,2018,emerson,8,1.7644,13.5146,1,late
+56662,2018-CT-general-0,2018,gravis marketing (2020 and earlier),5,4.3226,14.8238,1,late
+53581,2018-DE-general-0,2018,gravis marketing (2020 and earlier),100,-13.3367,13.0399,1,mid
+55877,2018-DE-general-0,2018,university of delaware,50,22.2965,11.8223,2,mid
+53711,2018-FL-general-0,2018,florida atlantic university,78,-7.0203,14.805,1,mid
+53712,2018-FL-general-0,2018,mason-dixon,104,-3.1742,17.5633,1,mid
+53713,2018-FL-general-0,2018,florida atlantic university,108,-4.6394,14.8472,1,mid
+53714,2018-FL-general-0,2018,gravis marketing (2020 and earlier),115,4.567,6.0267,1,mid
+53715,2018-FL-general-0,2018,yougov,137,-3.9706,12.9091,2,mid
+53716,2018-FL-general-0,2018,marist college,138,4.3778,11.2133,1,mid
+53717,2018-FL-general-0,2018,ppp,140,2.2502,8.1296,1,mid
+53718,2018-FL-general-0,2018,gravis marketing (2020 and earlier),144,11.2336,8.7721,1,mid
+53724,2018-FL-general-0,2018,morning consult,160,-1.1433,10.5556,1,mid
+53725,2018-FL-general-0,2018,florida atlantic university,183,-2.2585,13.5701,2,early
+53726,2018-FL-general-0,2018,ppp,209,6.5055,16.0287,1,early
+53727,2018-FL-general-0,2018,gravis marketing (2020 and earlier),232,4.8844,5.3697,1,early
+53728,2018-FL-general-0,2018,clearview research,244,-2.2415,15.7516,1,early
+53746,2018-FL-general-0,2018,surveymonkey,246,10.5392,5.7052,1,early
+53747,2018-FL-general-0,2018,quinnipiac,253,4.668,9.8098,1,early
+53748,2018-FL-general-0,2018,florida atlantic university,254,2.6866,16.0151,1,early
+53749,2018-FL-general-0,2018,saint leo u.,255,-8.2108,25.8608,1,early
+53750,2018-FL-general-0,2018,gravis marketing (2020 and earlier),261,4.8844,6.0049,1,early
+53751,2018-FL-general-0,2018,florida atlantic university,275,-12.698,16.8131,1,early
+53752,2018-FL-general-0,2018,u. north florida,275,6.7892,25.7849,1,early
+53753,2018-FL-general-0,2018,mason-dixon,278,1.2461,17.9753,1,early
+53754,2018-FL-general-0,2018,gravis marketing (2020 and earlier),317,6.1466,2.0776,1,early
+53755,2018-FL-general-0,2018,saint leo u.,347,-13.7739,26.7218,1,early
+53756,2018-FL-general-0,2018,surveymonkey,127,-5.738,10.3097,6,mid
+53784,2018-FL-general-0,2018,saint leo u.,82,-5.9142,26.1511,1,mid
+53812,2018-FL-general-0,2018,ppp,68,1.2214,14.7883,1,mid
+53843,2018-FL-general-0,2018,st. pete polls,68,0.2281,6.0169,1,mid
+53845,2018-FL-general-0,2018,gravis marketing (2020 and earlier),68,0.1225,8.6843,1,mid
+53846,2018-FL-general-0,2018,quinnipiac,64,0.1225,12.9988,1,mid
+53901,2018-FL-general-0,2018,mclaughlin,238,-0.9528,13.4393,1,early
+53931,2018-FL-general-0,2018,saint leo u.,159,-6.7787,26.6153,1,mid
+53936,2018-FL-general-0,2018,cherry communications,155,-3.1033,17.7545,1,mid
+53966,2018-FL-general-0,2018,surveyusa,58,-2.0997,17.5168,1,mid
+53991,2018-FL-general-0,2018,rasmussen,56,1.2461,14.0432,1,mid
+54089,2018-FL-general-0,2018,ipsos,55,-2.0015,8.8682,2,mid
+54103,2018-FL-general-0,2018,florida atlantic university,51,-1.0823,14.1723,1,mid
+55834,2018-FL-general-0,2018,u. north florida,48,0.1225,18.4264,1,mid
+55848,2018-FL-general-0,2018,quinnipiac,43,7.1932,11.3181,1,mid
+55868,2018-FL-general-0,2018,marist college,47,4.4826,15.5591,2,mid
+55924,2018-FL-general-0,2018,cherry communications,43,2.2502,17.0956,1,mid
+55960,2018-FL-general-0,2018,ppp,37,4.4703,13.9269,1,mid
+55962,2018-FL-general-0,2018,st. pete polls,37,0.8664,4.5942,1,mid
+55983,2018-FL-general-0,2018,strategic research associates,37,1.2461,14.0432,1,mid
+55997,2018-FL-general-0,2018,mason-dixon,40,1.1978,13.192,1,mid
+56084,2018-FL-general-0,2018,florida southern college,32,-1.5248,23.2202,1,mid
+56267,2018-FL-general-0,2018,st. pete polls,21,-1.3389,5.2868,1,late
+56295,2018-FL-general-0,2018,kaiser family foundation,35,3.3483,20.5776,1,mid
+56334,2018-FL-general-0,2018,cnn/ssrs,17,4.8818,13.004,2,late
+56335,2018-FL-general-0,2018,schroth eldon & associates,17,-2.0514,18.1074,1,late
+56344,2018-FL-general-0,2018,st. pete polls,16,-0.1871,6.5523,1,late
+56353,2018-FL-general-0,2018,quinnipiac,16,6.245,8.7561,1,late
+56360,2018-FL-general-0,2018,onmessage inc.,19,-5.0321,4.6736,1,late
+56365,2018-FL-general-0,2018,surveyusa,16,9.0114,16.5764,1,late
+56390,2018-FL-general-0,2018,florida atlantic university,16,-1.9281,17.1273,1,late
+56419,2018-FL-general-0,2018,gravis marketing (2020 and earlier),14,4.3778,13.7374,1,late
+56429,2018-FL-general-0,2018,saint leo u.,15,9.7696,16.698,1,late
+56450,2018-FL-general-0,2018,siena/nyt,10,8.749,14.9623,2,late
+56466,2018-FL-general-0,2018,strategic research associates,14,1.2214,13.7346,1,late
+56498,2018-FL-general-0,2018,yougov,11,0.1225,10.9683,1,late
+56537,2018-FL-general-0,2018,u. north florida,11,1.1978,10.2297,1,late
+56554,2018-FL-general-0,2018,suffolk,9,2.1633,22.6663,1,late
+56587,2018-FL-general-0,2018,ipsos,12,4.0607,8.1378,2,late
+56610,2018-FL-general-0,2018,cygnal,8,1.9518,20.5236,1,late
+56631,2018-FL-general-0,2018,st. pete polls,6,2.0874,4.1851,1,late
+56638,2018-FL-general-0,2018,trafalgar group,7,2.4,4.0687,1,late
+56640,2018-FL-general-0,2018,cnn/ssrs,8,1.1642,12.7931,2,late
+56650,2018-FL-general-0,2018,harrisx,6,-3.311,17.8616,1,late
+56674,2018-FL-general-0,2018,vox populi polling,7,0.1225,14.3678,1,late
+56686,2018-FL-general-0,2018,harrisx,5,-5.1853,17.643,1,late
+56701,2018-FL-general-0,2018,change research,4,2.1633,8.2523,1,late
+56703,2018-FL-general-0,2018,st. pete polls,4,-1.5338,3.7867,1,late
+56706,2018-FL-general-0,2018,targoz market research,6,-4.1328,19.0305,1,late
+56711,2018-FL-general-0,2018,harrisx,7,-0.9037,8.1438,1,late
+56717,2018-FL-general-0,2018,harrisx,4,-2.6553,17.7925,1,late
+56751,2018-FL-general-0,2018,harrisx,3,-1.7153,18.0119,1,late
+56756,2018-FL-general-0,2018,gravis marketing (2020 and earlier),4,3.2153,13.6778,1,late
+56769,2018-FL-general-0,2018,marist college,4,4.8375,14.4619,2,late
+56770,2018-FL-general-0,2018,quinnipiac,2,7.4909,9.1674,1,late
+56771,2018-FL-general-0,2018,st. pete polls,2,3.9727,3.3648,1,late
+56780,2018-FL-general-0,2018,emerson,3,5.3968,13.4173,1,late
+56799,2018-FL-general-0,2018,harrisx,2,-4.0132,17.6439,1,late
+56802,2018-FL-general-0,2018,research co.,3,1.1978,23.8921,1,late
+56825,2018-FL-general-0,2018,trafalgar group,1,-1.6428,6.9953,1,late
+56830,2018-FL-general-0,2018,harrisx,1,-0.5038,17.3967,1,late
+56993,2018-FL-general-0,2018,dixie strategies,300,3.9196,17.4373,1,early
+69584,2018-FL-general-0,2018,mwr strategies,6,-2.6386,11.936,1,late
+73026,2018-FL-general-0,2018,harrisx,5,-2.0051,7.5953,1,late
+73027,2018-FL-general-0,2018,harrisx,6,-0.9528,7.6796,1,late
+74940,2018-FL-general-0,2018,the political matrix/the listener group,7,0.5471,8.8982,1,late
+74941,2018-FL-general-0,2018,the political matrix/the listener group,37,1.45,10.6654,1,mid
+52633,2018-IN-general-0,2018,gravis marketing (2020 and earlier),175,5.0876,26.8786,1,mid
+52804,2018-IN-general-0,2018,surveymonkey,127,1.6777,12.038,6,mid
+53629,2018-IN-general-0,2018,trafalgar group,91,19.7127,7.7413,1,mid
+53866,2018-IN-general-0,2018,marist college,69,11.246,16.8729,4,mid
+53978,2018-IN-general-0,2018,beacon/shaw,56,5.6289,15.8799,2,mid
+55878,2018-IN-general-0,2018,ipsos,48,7.3988,8.4305,2,mid
+56018,2018-IN-general-0,2018,beacon/shaw,35,7.9707,16.2172,2,mid
+56280,2018-IN-general-0,2018,gravis marketing (2020 and earlier),21,10.9248,31.506,1,late
+56297,2018-IN-general-0,2018,vox populi polling,22,16.1629,12.6437,1,late
+56347,2018-IN-general-0,2018,american viewpoint,20,1.401,14.8472,1,late
+56348,2018-IN-general-0,2018,american viewpoint,27,1.401,14.8472,1,late
+56349,2018-IN-general-0,2018,american viewpoint,34,1.2849,15.2076,1,mid
+56359,2018-IN-general-0,2018,surveyusa,21,7.3975,15.1272,1,late
+56375,2018-IN-general-0,2018,mason strategies,17,1.7185,18.4819,1,late
+56499,2018-IN-general-0,2018,yougov,11,2.7921,11.511,1,late
+56557,2018-IN-general-0,2018,cygnal,10,3.1199,20.7593,1,late
+56612,2018-IN-general-0,2018,marist college,9,9.004,18.3015,4,late
+56618,2018-IN-general-0,2018,beacon/shaw,7,12.8798,15.6016,2,late
+56653,2018-IN-general-0,2018,harrisx,6,1.8045,20.1392,1,late
+56688,2018-IN-general-0,2018,harrisx,5,5.6967,19.4246,1,late
+56713,2018-IN-general-0,2018,harrisx,7,5.5655,8.5336,1,late
+56719,2018-IN-general-0,2018,harrisx,4,8.9407,19.2752,1,late
+56753,2018-IN-general-0,2018,harrisx,3,6.3982,19.6077,1,late
+56807,2018-IN-general-0,2018,harrisx,2,9.5042,19.8664,1,late
+56832,2018-IN-general-0,2018,harrisx,1,4.8642,19.674,1,late
+73028,2018-IN-general-0,2018,harrisx,5,3.7239,8.7056,1,late
+73029,2018-IN-general-0,2018,harrisx,6,6.1629,8.5034,1,late
+53893,2018-MA-general-0,2018,massinc polling group,359,3.85,20.2461,1,early
+53894,2018-MA-general-0,2018,massinc polling group,233,21.6278,20.6937,1,early
+53895,2018-MA-general-0,2018,massinc polling group,164,22.9063,21.0572,1,mid
+53896,2018-MA-general-0,2018,suffolk,147,0.4157,21.2547,1,mid
+53946,2018-MA-general-0,2018,massinc polling group,502,9.7926,19.5888,1,early
+54094,2018-MA-general-0,2018,suffolk,50,12.557,21.9605,1,mid
+55850,2018-MA-general-0,2018,massinc polling group,46,5.1937,20.8797,1,mid
+56133,2018-MA-general-0,2018,u. massachusetts - lowell,30,5.9956,17.5603,2,late
+56512,2018-MA-general-0,2018,suffolk,9,-1.4833,20.9892,1,late
+56585,2018-MA-general-0,2018,western new england university,10,9.4849,24.2316,2,late
+56606,2018-MA-general-0,2018,massinc polling group,9,0.5425,21.6473,1,late
+54087,2018-MD-general-0,2018,goucher college,51,17.119,20.7389,1,mid
+56124,2018-MD-general-0,2018,gonzales research & media services,31,3.0455,14.7894,1,mid
+53545,2018-ME-general-0,2018,suffolk,92,6.3327,45.5788,1,mid
+56161,2018-ME-general-0,2018,self-made insights,37,-9.3747,18.0316,1,mid
+56313,2018-ME-general-0,2018,digital research,21,-4.5619,32.0578,1,late
+56319,2018-ME-general-0,2018,pan atlantic research,30,-2.3521,35.9518,1,late
+56597,2018-ME-general-0,2018,emerson,8,-18.7616,12.2932,1,late
+53550,2018-MI-general-0,2018,marist college,110,12.9281,11.7985,1,mid
+53551,2018-MI-general-0,2018,glengariff group inc.,291,19.5621,19.0931,1,early
+53552,2018-MI-general-0,2018,emerson,108,18.0005,20.6258,1,mid
+53659,2018-MI-general-0,2018,strategic national,84,11.0099,16.2833,1,mid
+53668,2018-MI-general-0,2018,gravis marketing (2020 and earlier),82,11.9675,17.35,1,mid
+53669,2018-MI-general-0,2018,surveymonkey,127,4.6319,11.3007,6,mid
+53933,2018-MI-general-0,2018,strategic national,58,13.8174,10.8882,1,mid
+53938,2018-MI-general-0,2018,glengariff group inc.,60,19.3561,17.6397,1,mid
+54065,2018-MI-general-0,2018,tarrance,84,6.0065,18.7882,1,mid
+54082,2018-MI-general-0,2018,target insyght,53,9.1523,12.8299,1,mid
+54146,2018-MI-general-0,2018,mitchell,54,7.0471,10.2371,1,mid
+55873,2018-MI-general-0,2018,ipsos,46,16.045,7.9234,2,mid
+55897,2018-MI-general-0,2018,epic-mra,42,19.2056,17.4759,1,mid
+56022,2018-MI-general-0,2018,glengariff group inc.,35,13.9578,18.2606,1,mid
+56153,2018-MI-general-0,2018,mitchell,30,2.9073,16.433,1,late
+56362,2018-MI-general-0,2018,mrg (marketing resource group),19,11.1406,17.9332,1,late
+56379,2018-MI-general-0,2018,tarrance,15,1.228,18.4569,1,late
+56452,2018-MI-general-0,2018,epic-mra,14,1.0552,18.2066,1,late
+56485,2018-MI-general-0,2018,michigan state university,15,1.0552,64.639,1,late
+56488,2018-MI-general-0,2018,mitchell,12,-0.5147,25.4146,1,late
+56507,2018-MI-general-0,2018,emerson,11,3.3205,12.7593,1,late
+56520,2018-MI-general-0,2018,glengariff group inc.,10,12.0639,18.011,1,late
+56620,2018-MI-general-0,2018,gravis marketing (2020 and earlier),7,7.0471,13.5199,1,late
+56738,2018-MI-general-0,2018,research co.,3,11.5447,24.4177,1,late
+56743,2018-MI-general-0,2018,target insyght,13,3.7795,12.8795,1,late
+56772,2018-MI-general-0,2018,mitchell,2,0.4336,14.3374,1,late
+56811,2018-MI-general-0,2018,change research,2,-4.5538,11.832,1,late
+56814,2018-MI-general-0,2018,trafalgar group,1,2.6796,5.6478,1,late
+56815,2018-MI-general-0,2018,mitchell,1,-3.4792,12.7156,1,late
+53592,2018-MN-general-0,2018,emerson,87,6.9682,23.6015,1,mid
+53670,2018-MN-general-0,2018,bk strategies,134,-3.6869,6.4528,1,mid
+53731,2018-MN-general-0,2018,suffolk,78,-2.0277,21.7292,1,mid
+53984,2018-MN-general-0,2018,surveyusa,59,-8.48,18.6244,1,mid
+54046,2018-MN-general-0,2018,mason-dixon,55,8.3699,12.3457,1,mid
+56149,2018-MN-general-0,2018,marist college,33,5.5069,13.2478,4,mid
+56196,2018-MN-general-0,2018,change research,24,-15.0734,7.701,1,late
+56330,2018-MN-general-0,2018,mason-dixon,20,0.8792,13.107,1,late
+56652,2018-MN-general-0,2018,surveyusa,6,0.3113,17.145,1,late
+56739,2018-MN-general-0,2018,research co.,3,-1.7077,24.4423,1,late
+56797,2018-MN-general-0,2018,change research,2,-9.174,10.7701,1,late
+66738,2018-MN-general-0,2018,st. cloud state,7,6.7439,26.1169,1,late
+53592,2018-MN-general-1,2018,emerson,87,-4.361,33.7425,1,mid
+53665,2018-MN-general-1,2018,marist college,110,5.526,13.2124,1,mid
+53670,2018-MN-general-1,2018,bk strategies,134,-0.7958,7.2244,1,mid
+53731,2018-MN-general-1,2018,suffolk,78,-2.1854,24.6761,1,mid
+53984,2018-MN-general-1,2018,surveyusa,59,-0.7958,19.8105,1,mid
+54046,2018-MN-general-1,2018,mason-dixon,55,-2.4986,15.3168,1,mid
+56149,2018-MN-general-1,2018,marist college,33,4.6979,14.5324,2,mid
+56196,2018-MN-general-1,2018,change research,24,-7.7698,7.9428,1,late
+56330,2018-MN-general-1,2018,mason-dixon,20,-4.3224,14.1385,1,late
+56652,2018-MN-general-1,2018,surveyusa,6,-2.0497,18.7829,1,late
+56739,2018-MN-general-1,2018,research co.,3,0.223,24.9264,1,late
+56797,2018-MN-general-1,2018,change research,2,-1.4632,11.1773,1,late
+66738,2018-MN-general-1,2018,st. cloud state,7,9.4073,31.2387,1,late
+53556,2018-MO-general-0,2018,remington,486,-0.3863,11.417,1,early
+53557,2018-MO-general-0,2018,remington,445,0.7335,11.3852,1,early
+53558,2018-MO-general-0,2018,remington,390,2.7708,11.1311,1,early
+53559,2018-MO-general-0,2018,remington,306,1.7413,9.4644,1,early
+53560,2018-MO-general-0,2018,gravis marketing (2020 and earlier),244,8.4357,13.0912,1,early
+53561,2018-MO-general-0,2018,mason-dixon,214,7.1202,17.9753,1,early
+53562,2018-MO-general-0,2018,emerson,191,6.1089,18.7056,1,early
+53563,2018-MO-general-0,2018,remington,121,3.869,10.2838,1,mid
+53647,2018-MO-general-0,2018,wpai,84,-1.8685,22.2883,1,mid
+53672,2018-MO-general-0,2018,fabrizio,483,1.4512,22.6803,1,early
+53673,2018-MO-general-0,2018,ppp,301,7.1202,11.642,1,early
+53674,2018-MO-general-0,2018,surveymonkey,246,-2.3367,5.3376,1,early
+53675,2018-MO-general-0,2018,onmessage inc.,202,4.9214,17.9191,1,early
+53677,2018-MO-general-0,2018,global strategy group,146,12.8148,14.0682,1,mid
+53678,2018-MO-general-0,2018,surveymonkey,127,6.323,10.6783,6,mid
+53689,2018-MO-general-0,2018,tjp strategies,201,10.3445,7.0357,1,early
+53690,2018-MO-general-0,2018,tjp strategies,89,5.9966,5.9598,1,mid
+53691,2018-MO-general-0,2018,tjp strategies,180,10.3445,12.0813,1,mid
+53839,2018-MO-general-0,2018,marist college,70,8.1378,17.3125,4,mid
+53979,2018-MO-general-0,2018,beacon/shaw,56,7.2099,15.9718,4,mid
+54048,2018-MO-general-0,2018,yougov,53,5.9966,12.1168,1,mid
+54064,2018-MO-general-0,2018,trafalgar group,54,2.6999,6.3672,1,mid
+55913,2018-MO-general-0,2018,wpai,117,4.8202,19.54,1,mid
+55933,2018-MO-general-0,2018,remington,40,3.869,6.8383,1,mid
+55957,2018-MO-general-0,2018,cnn/ssrs,38,8.2332,13.7517,2,mid
+56019,2018-MO-general-0,2018,beacon/shaw,35,5.9966,15.5512,4,mid
+56028,2018-MO-general-0,2018,vox populi polling,36,3.9966,11.5029,1,mid
+56034,2018-MO-general-0,2018,mclaughlin,35,-2.3367,17.2405,1,mid
+56137,2018-MO-general-0,2018,ipsos,30,5.3239,8.5201,2,late
+56155,2018-MO-general-0,2018,1st tuesday campaigns,31,3.6711,11.0472,1,mid
+56225,2018-MO-general-0,2018,the polling company inc./womantrend,24,2.9038,17.1657,1,late
+56325,2018-MO-general-0,2018,remington,19,4.9214,8.8489,1,late
+56417,2018-MO-general-0,2018,onmessage inc.,19,-1.6957,13.655,1,late
+56493,2018-MO-general-0,2018,remington,12,1.7413,7.7173,1,late
+56558,2018-MO-general-0,2018,cygnal,10,2.8651,20.8147,1,late
+56619,2018-MO-general-0,2018,beacon/shaw,7,5.4081,14.5869,4,late
+56654,2018-MO-general-0,2018,harrisx,6,8.0282,18.8034,1,late
+56689,2018-MO-general-0,2018,harrisx,5,8.8025,18.6908,1,late
+56695,2018-MO-general-0,2018,remington,4,5.9966,7.4707,1,late
+56714,2018-MO-general-0,2018,harrisx,7,8.1054,7.9242,1,late
+56720,2018-MO-general-0,2018,harrisx,4,5.013,18.2132,1,late
+56754,2018-MO-general-0,2018,harrisx,3,5.8881,18.0963,1,late
+56764,2018-MO-general-0,2018,trafalgar group,2,1.7895,6.0125,1,late
+56773,2018-MO-general-0,2018,marist college,5,9.4783,14.7407,4,late
+56782,2018-MO-general-0,2018,emerson,3,2.4026,14.4224,1,late
+56808,2018-MO-general-0,2018,harrisx,2,3.4719,18.2833,1,late
+56833,2018-MO-general-0,2018,harrisx,1,5.1097,18.476,1,late
+73030,2018-MO-general-0,2018,harrisx,5,8.2189,7.9326,1,late
+73031,2018-MO-general-0,2018,harrisx,6,8.2189,7.9326,1,late
+53572,2018-MS-general-0,2018,triumph campaigns,98,-4.8579,5.2292,1,mid
+53573,2018-MS-general-0,2018,triumph campaigns,209,-1.7458,12.0306,1,early
+55975,2018-MS-general-0,2018,surveymonkey,43,-0.0316,13.5673,1,mid
+56373,2018-MS-general-0,2018,marist college,19,-9.7475,16.1151,4,late
+56806,2018-MS-general-0,2018,change research,2,10.3219,11.236,1,late
+52648,2018-MT-general-0,2018,gravis marketing (2020 and earlier),146,3.7115,22.3223,1,mid
+52805,2018-MT-general-0,2018,surveymonkey,127,7.4203,10.7993,6,mid
+53679,2018-MT-general-0,2018,remington,119,-0.499,4.0743,1,mid
+53777,2018-MT-general-0,2018,wpai,76,-5.8308,18.1074,1,mid
+54049,2018-MT-general-0,2018,yougov,53,-1.483,23.9833,1,mid
+54138,2018-MT-general-0,2018,axis research,48,-3.6569,23.6742,1,mid
+55846,2018-MT-general-0,2018,gravis marketing (2020 and earlier),45,0.5984,14.9564,1,mid
+55928,2018-MT-general-0,2018,benenson strategy group/gs strategy group,51,3.87,11.2545,1,mid
+55955,2018-MT-general-0,2018,ppp,39,0.5984,17.8772,1,mid
+56088,2018-MT-general-0,2018,university of montana,67,23.6158,22.5717,1,mid
+56378,2018-MT-general-0,2018,msu - bozeman,31,-0.1855,5.3799,1,mid
+56394,2018-MT-general-0,2018,msu - billings,24,6.9313,24.6981,1,late
+56483,2018-MT-general-0,2018,university of montana,19,7.8596,21.1093,1,late
+56546,2018-MT-general-0,2018,gravis marketing (2020 and earlier),11,-0.4311,13.7359,1,late
+56655,2018-MT-general-0,2018,harrisx,6,3.7628,22.0265,1,late
+56690,2018-MT-general-0,2018,harrisx,5,3.5958,21.8624,1,late
+56715,2018-MT-general-0,2018,harrisx,7,5.103,16.1275,1,late
+56721,2018-MT-general-0,2018,harrisx,4,4.6582,21.7305,1,late
+56755,2018-MT-general-0,2018,harrisx,3,3.0676,21.5939,1,late
+56762,2018-MT-general-0,2018,change research,2,-6.8148,11.9634,1,late
+56809,2018-MT-general-0,2018,harrisx,2,2.354,21.7789,1,late
+56816,2018-MT-general-0,2018,trafalgar group,1,-2.5469,10.5872,1,late
+56834,2018-MT-general-0,2018,harrisx,1,4.8213,21.5829,1,late
+73032,2018-MT-general-0,2018,harrisx,5,4.0354,15.6057,1,late
+73033,2018-MT-general-0,2018,harrisx,6,4.2083,15.9521,1,late
+52655,2018-ND-general-0,2018,mason-dixon,144,6.5576,17.3584,1,mid
+52656,2018-ND-general-0,2018,gravis marketing (2020 and earlier),255,14.5199,31.2531,1,early
+52657,2018-ND-general-0,2018,tarrance,259,5.5291,21.4432,1,early
+52806,2018-ND-general-0,2018,surveymonkey,127,3.6251,23.4203,6,mid
+53977,2018-ND-general-0,2018,beacon/shaw,56,5.9225,14.7037,2,mid
+55966,2018-ND-general-0,2018,strategic research associates,40,0.0358,16.5248,1,mid
+56020,2018-ND-general-0,2018,beacon/shaw,35,-0.4226,14.2249,2,mid
+56356,2018-ND-general-0,2018,strategic research associates,18,-5.7613,15.5805,1,late
+56566,2018-ND-general-0,2018,trafalgar group,13,1.9054,6.6215,1,late
+56617,2018-ND-general-0,2018,beacon/shaw,7,2.2205,13.1686,2,late
+52644,2018-NE-general-0,2018,meeting street insights,282,-0.205,22.5882,1,early
+52645,2018-NE-general-0,2018,ppp,359,4.7265,11.2501,1,early
+56561,2018-NE-general-0,2018,dfm research,10,3.666,15.3338,1,late
+52649,2018-NJ-general-0,2018,fairleigh dickinson,169,-3.8521,22.3329,1,mid
+52650,2018-NJ-general-0,2018,monmouth,210,13.1615,17.4788,1,early
+52651,2018-NJ-general-0,2018,quinnipiac,239,9.4432,11.2185,1,early
+53680,2018-NJ-general-0,2018,gravis marketing (2020 and earlier),119,-9.1635,21.1332,1,mid
+53684,2018-NJ-general-0,2018,gravis marketing (2020 and earlier),83,2.7413,18.5846,1,mid
+53733,2018-NJ-general-0,2018,quinnipiac,78,-4.0444,13.6891,1,mid
+55951,2018-NJ-general-0,2018,stockton university,40,-9.4024,21.2218,1,mid
+56002,2018-NJ-general-0,2018,fairleigh dickinson,37,-4.1712,21.8966,2,mid
+56008,2018-NJ-general-0,2018,vox populi polling,36,-7.5444,12.5743,1,mid
+56012,2018-NJ-general-0,2018,quinnipiac,35,0.0345,9.8159,1,mid
+56075,2018-NJ-general-0,2018,yougov,32,-0.1808,13.2744,1,mid
+56278,2018-NJ-general-0,2018,quinnipiac,21,-4.176,11.9922,1,late
+56302,2018-NJ-general-0,2018,monmouth,22,0.3906,20.9355,3,late
+56304,2018-NJ-general-0,2018,national research,28,-9.1054,20.3131,1,late
+56416,2018-NJ-general-0,2018,rutgers-eagleton,18,-7.3542,16.3589,2,late
+56509,2018-NJ-general-0,2018,emerson,11,-5.6094,16.9329,1,late
+56589,2018-NJ-general-0,2018,vox populi polling,8,-3.5444,12.2064,1,late
+56677,2018-NJ-general-0,2018,stockton university,6,1.7006,18.1336,1,late
+56763,2018-NJ-general-0,2018,change research,2,-0.6748,10.6771,1,late
+56774,2018-NJ-general-0,2018,quinnipiac,2,4.2451,9.2053,1,late
+73169,2018-NJ-general-0,2018,national research,20,-9.1054,20.3131,1,late
+53625,2018-NM-general-0,2018,gbao,93,-4.1527,15.5248,1,mid
+53661,2018-NM-general-0,2018,emerson,80,29.653,27.1049,1,mid
+53732,2018-NM-general-0,2018,tarrance,96,-18.5036,26.4344,1,mid
+53772,2018-NM-general-0,2018,greenberg quinlan rosner,93,-9.3184,23.8446,1,mid
+54047,2018-NM-general-0,2018,research & polling,54,0.9302,13.0073,1,mid
+55901,2018-NM-general-0,2018,nson/in lux,43,28.2148,16.1055,1,mid
+55902,2018-NM-general-0,2018,in lux research,50,30.4964,15.2713,1,mid
+56479,2018-NM-general-0,2018,pacific market research,13,-10.9538,31.5421,1,late
+56508,2018-NM-general-0,2018,emerson,11,-7.0822,12.8598,1,late
+56642,2018-NM-general-0,2018,carroll strategies,8,-13.3899,9.1939,1,late
+56732,2018-NM-general-0,2018,research & polling,5,-3.4466,11.5505,1,late
+56803,2018-NM-general-0,2018,research co.,3,-10.3369,26.9271,1,late
+73179,2018-NM-general-0,2018,nson,100,-5.9619,29.7546,1,mid
+73180,2018-NM-general-0,2018,nson,112,-7.202,30.3943,1,mid
+52624,2018-NV-general-0,2018,mellman,201,-6.5134,21.0937,1,early
+52658,2018-NV-general-0,2018,ppp,189,-2.922,18.2443,1,early
+52659,2018-NV-general-0,2018,surveymonkey,197,1.1354,7.9542,1,early
+52660,2018-NV-general-0,2018,ppp,234,0.7765,16.6729,1,early
+52661,2018-NV-general-0,2018,ppp,499,-4.0427,18.5902,1,early
+52771,2018-NV-general-0,2018,gravis marketing (2020 and earlier),133,-0.5964,18.4171,1,mid
+52810,2018-NV-general-0,2018,surveymonkey,127,-3.1527,10.4738,6,mid
+53452,2018-NV-general-0,2018,suffolk,100,-6.4821,24.6876,1,mid
+53785,2018-NV-general-0,2018,ppp,77,0.247,20.7497,1,mid
+53942,2018-NV-general-0,2018,suffolk,57,-4.7645,24.154,1,mid
+54050,2018-NV-general-0,2018,gravis marketing (2020 and earlier),55,-3.0736,15.5206,1,mid
+54092,2018-NV-general-0,2018,ipsos,50,-6.1867,9.2991,2,mid
+55956,2018-NV-general-0,2018,cnn/ssrs,38,-1.2181,15.0704,2,mid
+56115,2018-NV-general-0,2018,marist college,34,-7.2539,17.4,4,mid
+56123,2018-NV-general-0,2018,siena/nyt,27,-4.8474,17.3644,2,late
+56204,2018-NV-general-0,2018,emerson,25,-12.7336,17.7769,1,late
+56293,2018-NV-general-0,2018,vox populi polling,22,-3.2475,16.2801,1,late
+56294,2018-NV-general-0,2018,kaiser family foundation,35,-6.3711,21.8997,1,mid
+56317,2018-NV-general-0,2018,ppp,21,-3.1199,16.4097,1,late
+56414,2018-NV-general-0,2018,ipsos,18,-7.7579,8.5913,2,late
+56601,2018-NV-general-0,2018,cnn/ssrs,8,-1.8699,15.9147,2,late
+56651,2018-NV-general-0,2018,harrisx,6,-5.1363,18.5391,1,late
+56683,2018-NV-general-0,2018,gravis marketing (2020 and earlier),11,-3.0736,14.0549,1,late
+56687,2018-NV-general-0,2018,harrisx,5,-8.3866,18.6662,1,late
+56712,2018-NV-general-0,2018,harrisx,7,-1.9633,8.0806,1,late
+56718,2018-NV-general-0,2018,harrisx,4,-6.1404,18.5997,1,late
+56723,2018-NV-general-0,2018,trafalgar group,5,-8.7396,4.0855,1,late
+56752,2018-NV-general-0,2018,harrisx,3,-7.3378,18.3272,1,late
+56778,2018-NV-general-0,2018,emerson,2,-0.445,8.8954,1,late
+56800,2018-NV-general-0,2018,harrisx,2,-5.7904,18.0957,1,late
+56831,2018-NV-general-0,2018,harrisx,1,-2.7339,18.2034,1,late
+73034,2018-NV-general-0,2018,harrisx,5,-1.8768,8.0166,1,late
+73035,2018-NV-general-0,2018,harrisx,6,-1.8768,8.0166,1,late
+52694,2018-NY-general-0,2018,siena,152,3.0793,13.0083,1,mid
+52695,2018-NY-general-0,2018,quinnipiac,189,9.2105,9.3314,1,early
+52696,2018-NY-general-0,2018,siena,235,8.8578,12.5883,1,early
+52697,2018-NY-general-0,2018,siena,208,2.4713,14.7397,1,early
+53886,2018-NY-general-0,2018,liberty opinion research,68,-16.758,4.0074,1,mid
+54003,2018-NY-general-0,2018,quinnipiac,113,-2.9649,11.1212,1,mid
+55942,2018-NY-general-0,2018,siena,40,1.5562,13.8466,1,mid
+56301,2018-NY-general-0,2018,quinnipiac,21,-6.5268,11.9244,1,late
+56733,2018-NY-general-0,2018,siena,5,-9.2682,15.7489,1,late
+56740,2018-NY-general-0,2018,research co.,3,-3.5646,21.9172,1,late
+52606,2018-OH-general-0,2018,quinnipiac,147,13.1527,10.4382,1,mid
+52607,2018-OH-general-0,2018,suffolk,148,11.8193,21.4479,1,mid
+52608,2018-OH-general-0,2018,fallon research & communications,165,10.6987,14.8652,1,mid
+52611,2018-OH-general-0,2018,surveyusa,231,8.7082,7.7005,1,early
+52634,2018-OH-general-0,2018,baldwin wallace university,242,10.2955,13.715,1,early
+52635,2018-OH-general-0,2018,surveymonkey,246,-1.5842,5.2617,1,early
+52692,2018-OH-general-0,2018,marist college,137,7.7594,14.134,1,mid
+52808,2018-OH-general-0,2018,surveymonkey,127,-2.5444,11.9082,6,mid
+53874,2018-OH-general-0,2018,change research,63,-1.8473,13.7898,1,mid
+53959,2018-OH-general-0,2018,morning consult,56,13.6655,7.7142,1,mid
+54069,2018-OH-general-0,2018,baldwin wallace university,52,14.6341,11.2366,1,mid
+54141,2018-OH-general-0,2018,triton polling & research,47,3.9122,10.3952,1,mid
+55872,2018-OH-general-0,2018,marist college,47,7.4384,16.305,2,mid
+55874,2018-OH-general-0,2018,ipsos,47,4.6101,8.6983,2,mid
+55911,2018-OH-general-0,2018,america first policies,159,-2.1962,29.0069,1,mid
+56094,2018-OH-general-0,2018,baldwin wallace university,29,13.1527,11.4419,1,late
+56130,2018-OH-general-0,2018,suffolk,29,12.7955,21.4602,1,late
+56276,2018-OH-general-0,2018,university of akron,33,9.3689,13.1582,1,mid
+56541,2018-OH-general-0,2018,baldwin wallace university,10,16.675,10.8423,1,late
+56544,2018-OH-general-0,2018,emerson,9,-0.5293,19.1692,1,late
+56646,2018-OH-general-0,2018,cygnal,6,4.1696,20.8045,1,late
+56661,2018-OH-general-0,2018,gravis marketing (2020 and earlier),7,3.996,15.0907,1,late
+56804,2018-OH-general-0,2018,research co.,3,8.37,23.5952,1,late
+56818,2018-OH-general-0,2018,change research,2,3.5693,11.1632,1,late
+73425,2018-OH-general-0,2018,trz communication,119,-2.0843,7.8243,1,mid
+52619,2018-PA-general-0,2018,franklin and marshall college,149,10.8581,28.1293,1,mid
+52620,2018-PA-general-0,2018,muhlenberg,208,6.9144,28.9855,1,early
+52621,2018-PA-general-0,2018,franklin and marshall college,225,13.385,32.3297,1,early
+52646,2018-PA-general-0,2018,ppp,235,6.9144,10.101,1,early
+52647,2018-PA-general-0,2018,surveymonkey,246,-3.6119,4.8184,1,early
+52693,2018-PA-general-0,2018,suffolk,134,6.5073,24.4685,1,mid
+52807,2018-PA-general-0,2018,surveymonkey,127,-0.7097,11.2801,6,mid
+53662,2018-PA-general-0,2018,self-made insights,83,-11.0598,5.382,1,mid
+53765,2018-PA-general-0,2018,marist college,82,3.398,14.9936,1,mid
+53810,2018-PA-general-0,2018,franklin and marshall college,72,7.2768,39.0231,2,mid
+54104,2018-PA-general-0,2018,rasmussen,54,2.47,13.5528,1,mid
+54148,2018-PA-general-0,2018,muhlenberg,48,7.369,26.951,1,mid
+55875,2018-PA-general-0,2018,ipsos,48,5.6198,8.4389,2,mid
+55900,2018-PA-general-0,2018,franklin and marshall college,44,8.6939,39.4266,2,mid
+56200,2018-PA-general-0,2018,morning consult,35,5.9018,10.2709,1,mid
+56628,2018-PA-general-0,2018,franklin and marshall college,9,7.4664,37.4942,2,late
+56682,2018-PA-general-0,2018,muhlenberg,5,1.8081,24.7086,1,late
+56741,2018-PA-general-0,2018,research co.,3,4.8092,22.6428,1,late
+56758,2018-PA-general-0,2018,change research,2,-5.7171,5.7115,1,late
+67643,2018-PA-general-0,2018,global strategy group,140,5.9621,12.5386,1,mid
+53988,2018-RI-general-0,2018,socialsphere,155,2.4219,21.6906,1,mid
+54133,2018-RI-general-0,2018,fleming & associates,50,-1.8112,25.533,1,mid
+56114,2018-RI-general-0,2018,u. new hampshire,31,3.5072,20.5189,1,mid
+56160,2018-RI-general-0,2018,socialsphere,28,4.1133,20.953,1,late
+56518,2018-RI-general-0,2018,fleming & associates,13,-2.4171,25.1138,1,late
+53475,2018-TN-general-0,2018,triton polling & research,286,-1.2309,10.8656,1,early
+53477,2018-TN-general-0,2018,surveymonkey,127,-6.9257,10.7815,6,mid
+53478,2018-TN-general-0,2018,ppp,118,14.4666,20.1545,1,mid
+53479,2018-TN-general-0,2018,ppp,235,16.6843,11.2981,1,early
+53480,2018-TN-general-0,2018,garin hart yang,380,16.6843,19.062,1,early
+53481,2018-TN-general-0,2018,wpai,118,6.8276,24.8194,1,mid
+53482,2018-TN-general-0,2018,wpai,264,4.9131,24.0089,1,early
+53483,2018-TN-general-0,2018,wpai,324,-0.7511,25.6192,1,early
+53484,2018-TN-general-0,2018,emerson,115,18.5321,19.1556,1,mid
+53485,2018-TN-general-0,2018,mason-dixon,201,14.308,17.9571,1,early
+53486,2018-TN-general-0,2018,middle tennessee state u.,222,23.4372,20.5078,1,early
+53487,2018-TN-general-0,2018,gravis marketing (2020 and earlier),329,13.3762,21.6481,1,early
+53488,2018-TN-general-0,2018,garin hart yang,209,21.8068,17.8721,1,early
+53489,2018-TN-general-0,2018,ppp,189,14.308,18.4289,1,early
+53490,2018-TN-general-0,2018,surveymonkey,197,11.9898,6.4256,1,early
+53611,2018-TN-general-0,2018,gravis marketing (2020 and earlier),87,6.5894,17.4984,1,mid
+53876,2018-TN-general-0,2018,marist college,70,14.1749,17.3133,2,mid
+53976,2018-TN-general-0,2018,beacon/shaw,56,8.1525,15.0204,2,mid
+54058,2018-TN-general-0,2018,cnn/ssrs,52,17.9166,13.5901,2,mid
+54093,2018-TN-general-0,2018,triton polling & research,55,7.4002,10.3128,1,mid
+54115,2018-TN-general-0,2018,vox populi polling,49,12.9372,17.6296,1,mid
+55974,2018-TN-general-0,2018,surveymonkey,43,10.9372,7.3989,1,mid
+56017,2018-TN-general-0,2018,beacon/shaw,35,4.7809,15.2417,2,mid
+56076,2018-TN-general-0,2018,yougov,32,2.2416,12.385,1,mid
+56118,2018-TN-general-0,2018,siena/nyt,26,-1.5212,17.7176,2,late
+56201,2018-TN-general-0,2018,garin hart yang,42,13.1111,18.1074,1,mid
+56270,2018-TN-general-0,2018,ipsos,26,9.9555,8.2863,2,late
+56291,2018-TN-general-0,2018,ssrs,24,12.0866,14.3659,1,late
+56577,2018-TN-general-0,2018,marist college,10,6.781,17.797,2,late
+56580,2018-TN-general-0,2018,vox populi polling,8,4.9372,12.7744,1,late
+56604,2018-TN-general-0,2018,cygnal,10,4.8448,21.0568,1,late
+56616,2018-TN-general-0,2018,beacon/shaw,7,1.4467,14.2069,2,late
+56633,2018-TN-general-0,2018,emerson,7,2.1506,16.4232,1,late
+56641,2018-TN-general-0,2018,cnn/ssrs,8,8.2719,13.1215,2,late
+56681,2018-TN-general-0,2018,east tennessee state university,8,10.9372,22.9568,1,late
+56704,2018-TN-general-0,2018,targoz market research,25,9.499,15.9591,2,late
+56705,2018-TN-general-0,2018,targoz market research,6,10.9372,21.2585,1,late
+52597,2018-TX-general-0,2018,quinnipiac,161,-9.7721,11.5133,1,mid
+52598,2018-TX-general-0,2018,quinnipiac,203,-0.7092,10.6677,1,early
+52630,2018-TX-general-0,2018,texas lyceum,576,2.5875,16.6667,1,early
+52631,2018-TX-general-0,2018,wpai,327,-18.3428,18.5309,1,early
+52632,2018-TX-general-0,2018,ppp,168,-4.0792,12.8475,1,mid
+52735,2018-TX-general-0,2018,u. texas,142,-3.906,10.7769,1,mid
+52737,2018-TX-general-0,2018,yougov,137,-7.968,12.7199,2,mid
+52776,2018-TX-general-0,2018,baselice & associates,162,-11.6982,19.404,1,mid
+52801,2018-TX-general-0,2018,gravis marketing (2020 and earlier),122,-7.0899,17.6943,1,mid
+53463,2018-TX-general-0,2018,quinnipiac,98,-3.9343,9.681,1,mid
+53466,2018-TX-general-0,2018,texas lyceum,104,-0.0911,23.0183,2,mid
+53476,2018-TX-general-0,2018,ppp,96,-1.958,14.2286,1,mid
+53681,2018-TX-general-0,2018,ppp,292,-7.1686,15.9565,1,early
+53682,2018-TX-general-0,2018,greenberg quinlan rosner,154,-3.9343,10.8233,1,mid
+53736,2018-TX-general-0,2018,marist college,82,-1.6678,13.9908,1,mid
+53776,2018-TX-general-0,2018,emerson,73,1.7875,24.2409,1,mid
+53956,2018-TX-general-0,2018,crosswind media & public relations,58,-0.7092,13.7213,1,mid
+53971,2018-TX-general-0,2018,dixie strategies,60,-2.1266,21.9438,1,mid
+54073,2018-TX-general-0,2018,quinnipiac,50,-6.5034,12.4133,1,mid
+54091,2018-TX-general-0,2018,ipsos,53,5.6745,8.804,2,mid
+54114,2018-TX-general-0,2018,vox populi polling,49,2.5875,19.685,1,mid
+54134,2018-TX-general-0,2018,ppp,47,-0.6043,17.481,2,mid
+54167,2018-TX-general-0,2018,chism strategies,55,-1.6319,9.0695,1,mid
+56077,2018-TX-general-0,2018,yougov,32,-3.7955,12.0261,1,mid
+56079,2018-TX-general-0,2018,emerson,32,-2.5579,22.3121,1,mid
+56090,2018-TX-general-0,2018,siena/nyt,26,-3.9264,13.2586,2,late
+56154,2018-TX-general-0,2018,quinnipiac,28,-6.5034,13.7226,1,late
+56208,2018-TX-general-0,2018,wpai,24,-6.8862,13.0235,1,late
+56232,2018-TX-general-0,2018,tulchin research,23,-1.6678,17.6984,1,late
+56237,2018-TX-general-0,2018,cnn/ssrs,24,-3.6523,13.2506,2,late
+56386,2018-TX-general-0,2018,gbao,16,-1.5792,10.3986,1,late
+56413,2018-TX-general-0,2018,ipsos,19,1.458,7.3205,2,late
+56481,2018-TX-general-0,2018,u. texas,16,-3.6625,11.1931,1,late
+56513,2018-TX-general-0,2018,quinnipiac,9,-2.5672,9.5379,1,late
+56562,2018-TX-general-0,2018,dixie strategies,11,-8.0508,17.8876,1,late
+56590,2018-TX-general-0,2018,university of texas at tyler,9,-1.8276,11.546,2,late
+56632,2018-TX-general-0,2018,emerson,7,-0.592,13.1191,1,late
+56702,2018-TX-general-0,2018,change research,4,2.5875,8.4262,1,late
+56817,2018-TX-general-0,2018,trafalgar group,1,-6.7514,4.872,1,late
+52719,2018-UT-general-0,2018,university of utah,141,-15.8646,14.7526,1,mid
+52720,2018-UT-general-0,2018,dan jones,292,-20.3379,10.5936,1,early
+52721,2018-UT-general-0,2018,dan jones,350,-20.9598,12.5317,1,early
+52722,2018-UT-general-0,2018,dan jones,427,-8.3433,15.017,1,early
+53869,2018-UT-general-0,2018,dan jones,67,2.9266,13.3056,1,mid
+53899,2018-UT-general-0,2018,lighthouse research,71,-17.9345,15.7931,1,mid
+56202,2018-UT-general-0,2018,university of utah,28,-10.0235,16.2185,1,late
+52652,2018-VA-general-0,2018,roanoke college,160,-2.0342,22.9225,1,mid
+52653,2018-VA-general-0,2018,christopher newport u.,251,10.9528,6.7339,1,early
+52654,2018-VA-general-0,2018,psrai,420,1.2952,15.561,2,early
+52718,2018-VA-general-0,2018,quinnipiac,134,3.6801,9.2512,1,mid
+53542,2018-VA-general-0,2018,virginia commonwealth u.,99,14.3468,16.1706,1,mid
+53764,2018-VA-general-0,2018,roanoke college,79,3.6801,22.0588,1,mid
+53870,2018-VA-general-0,2018,cygnal,74,-11.6275,9.2981,1,mid
+54070,2018-VA-general-0,2018,ssrs,58,4.9004,17.4945,3,mid
+53686,2018-WA-general-0,2018,ppp,167,1.3143,16.2785,1,mid
+56148,2018-WA-general-0,2018,elway,28,-1.6501,26.2169,1,late
+53650,2018-WI-general-0,2018,emerson,101,6.2758,17.8806,1,mid
+53651,2018-WI-general-0,2018,marist college,110,7.4424,11.4717,1,mid
+53664,2018-WI-general-0,2018,surveymonkey,127,5.2585,11.0614,6,mid
+53666,2018-WI-general-0,2018,marquette law school,142,-0.7248,13.9013,1,mid
+53667,2018-WI-general-0,2018,ppp,235,2.4962,11.9929,1,early
+53730,2018-WI-general-0,2018,marquette law school,79,-5.5401,15.2631,2,mid
+53791,2018-WI-general-0,2018,suffolk,74,-2.5763,21.5908,1,mid
+54074,2018-WI-general-0,2018,marquette law school,51,1.4741,15.1349,2,mid
+55876,2018-WI-general-0,2018,ipsos,46,4.6391,8.2291,2,mid
+56142,2018-WI-general-0,2018,marquette law school,30,0.1607,11.6404,2,late
+56163,2018-WI-general-0,2018,marist college,33,3.5989,15.8583,2,mid
+56207,2018-WI-general-0,2018,ppp,26,-0.1988,12.8896,1,late
+56415,2018-WI-general-0,2018,ipsos,19,6.6163,7.5984,2,late
+56602,2018-WI-general-0,2018,marquette law school,9,0.1522,8.1657,2,late
+56671,2018-WI-general-0,2018,emerson,6,-1.914,16.8456,1,late
+56805,2018-WI-general-0,2018,research co.,3,1.5224,24.5874,1,late
+52636,2018-WV-general-0,2018,monmouth,140,5.1032,19.1068,3,mid
+52637,2018-WV-general-0,2018,gravis marketing (2020 and earlier),168,10.5891,19.4154,1,mid
+52638,2018-WV-general-0,2018,hart research associates,174,9.6541,17.7486,1,mid
+52639,2018-WV-general-0,2018,global strategy group,174,4.9814,18.506,2,mid
+52640,2018-WV-general-0,2018,wpai,180,-5.6116,27.7641,1,mid
+52641,2018-WV-general-0,2018,zogby,402,5.0443,37.3828,1,early
+52642,2018-WV-general-0,2018,research america,443,12.1661,27.1056,1,early
+52643,2018-WV-general-0,2018,harper polling,719,20.5236,20.496,1,early
+52744,2018-WV-general-0,2018,ppp,146,4.3029,17.2575,1,mid
+52809,2018-WV-general-0,2018,surveymonkey,127,10.5386,12.8755,6,mid
+53683,2018-WV-general-0,2018,trafalgar group,113,8.2437,9.5288,1,mid
+53813,2018-WV-general-0,2018,harper polling,72,3.4288,18.8513,1,mid
+53820,2018-WV-general-0,2018,research america,72,6.1344,29.2,1,mid
+54051,2018-WV-general-0,2018,emerson,52,11.6298,15.209,1,mid
+55898,2018-WV-general-0,2018,1892 polling,42,-3.3894,22.2222,1,mid
+55963,2018-WV-general-0,2018,strategic research associates,41,6.1344,18.1489,1,mid
+56013,2018-WV-general-0,2018,global strategy group,44,10.8963,19.404,1,mid
+56037,2018-WV-general-0,2018,tarrance,42,1.055,18.1195,1,mid
+56145,2018-WV-general-0,2018,public opinion strategies,28,-2.1549,20.573,1,late
+56226,2018-WV-general-0,2018,the polling company inc./womantrend,24,0.8659,17.6984,1,late
+56298,2018-WV-general-0,2018,vox populi polling,22,2.6106,12.6286,1,late
+56355,2018-WV-general-0,2018,strategic research associates,18,14.7924,16.9046,1,late
+56440,2018-WV-general-0,2018,fabrizio,19,-5.6391,18.7384,2,late
+56629,2018-WV-general-0,2018,research america,7,2.4929,29.31,1,late
+56634,2018-WV-general-0,2018,emerson,6,3.1421,11.0693,1,late
+56761,2018-WY-general-0,2018,change research,2,6.1101,11.507,1,late
+67028,2020-AK-general-0,2020,ppp,118,6.5097,12.6127,1,mid
+67577,2020-AK-general-0,2020,alaska survey research,119,-0.6195,15.9013,1,mid
+70015,2020-AK-general-0,2020,harstad,41,12.2601,18.252,1,mid
+70622,2020-AK-general-0,2020,alaska survey research,30,9.0112,16.0488,1,late
+71162,2020-AK-general-0,2020,harstad,21,14.4343,17.7417,1,late
+71163,2020-AK-general-0,2020,harstad,28,13.359,18.1159,1,late
+71173,2020-AK-general-0,2020,siena/nyt,20,3.6029,28.5557,1,late
+71298,2020-AK-general-0,2020,patinkin research strategies,30,14.4343,17.9191,1,late
+71560,2020-AK-general-0,2020,ppp,14,9.8296,14.6876,1,late
+71735,2020-AK-general-0,2020,change research,15,10.0623,10.2017,1,late
+72193,2020-AK-general-0,2020,gravis marketing (2020 and earlier),6,10.1332,13.95,1,late
+63171,2020-AL-general-0,2020,jmc analytics,321,12.347,21.7521,1,early
+63515,2020-AL-general-0,2020,mason-dixon,271,11.6973,17.2598,1,early
+66864,2020-AL-general-0,2020,fm3 research,169,17.0962,18.2647,1,mid
+67048,2020-AL-general-0,2020,auburn university at montgomery,117,9.8136,22.3181,1,mid
+67076,2020-AL-general-0,2020,wpai,124,9.2818,21.5598,1,mid
+67879,2020-AL-general-0,2020,morning consult,93,0.8527,18.1533,1,mid
+69643,2020-AL-general-0,2020,morning consult,44,-0.5373,16.8974,1,mid
+70580,2020-AL-general-0,2020,auburn university at montgomery,31,8.01,9.5581,1,mid
+71235,2020-AL-general-0,2020,fm3 research,20,21.4456,13.14,1,late
+71434,2020-AL-general-0,2020,moore information,20,4.6035,20.3649,1,late
+71959,2020-AL-general-0,2020,cygnal,11,6.1967,15.8574,1,late
+72223,2020-AL-general-0,2020,auburn university at montgomery,6,9.121,11.9694,1,late
+72295,2020-AL-general-0,2020,swayable,8,11.593,42.7697,1,late
+72591,2020-AL-general-0,2020,data for progress,2,8.393,9.4316,1,late
+72617,2020-AL-general-0,2020,morning consult,3,6.9634,12.8219,1,late
+72763,2020-AL-general-0,2020,swayable,2,5.0776,33.249,1,late
+57556,2020-AZ-general-1,2020,oh predictive insights/mbqf,629,-4.5717,18.5094,1,early
+58013,2020-AZ-general-1,2020,oh predictive insights/mbqf,551,-3.4731,18.7242,1,early
+58960,2020-AZ-general-1,2020,oh predictive insights/mbqf,447,3.3976,19.0938,1,early
+59584,2020-AZ-general-1,2020,fabrizio ward,461,-3.4731,18.7242,1,early
+59598,2020-AZ-general-1,2020,bendixen & amandi international,418,-2.3495,22.8938,1,early
+59778,2020-AZ-general-1,2020,change research,402,0.7433,12.032,1,early
+62508,2020-AZ-general-1,2020,emerson,372,-0.8111,12.1936,1,early
+63024,2020-AZ-general-1,2020,oh predictive insights/mbqf,335,0.9472,17.4794,1,early
+63234,2020-AZ-general-1,2020,ppp,304,2.1959,14.9213,1,early
+64459,2020-AZ-general-1,2020,highground,268,5.5051,29.1275,1,early
+64718,2020-AZ-general-1,2020,ppp,245,3.2685,16.8176,1,early
+64749,2020-AZ-general-1,2020,oh predictive insights/mbqf,244,5.3428,18.2066,1,early
+64752,2020-AZ-general-1,2020,fabrizio,284,-4.5234,10.8644,1,early
+64820,2020-AZ-general-1,2020,latino decisions,237,11.9362,11.2566,1,early
+64835,2020-AZ-general-1,2020,monmouth,234,4.0335,12.5088,1,early
+64841,2020-AZ-general-1,2020,marist college,233,0.8763,4.2574,1,early
+65742,2020-AZ-general-1,2020,oh predictive insights/mbqf,209,7.3279,17.7533,1,early
+66309,2020-AZ-general-1,2020,oh predictive insights/mbqf,176,12.2572,18.327,1,mid
+66530,2020-AZ-general-1,2020,highground,165,8.4496,26.683,1,mid
+66724,2020-AZ-general-1,2020,beacon/shaw,154,12.593,11.2152,1,mid
+66820,2020-AZ-general-1,2020,civiqs,141,7.3279,7.7865,1,mid
+66892,2020-AZ-general-1,2020,siena/nyt,140,8.2387,17.8966,1,mid
+66904,2020-AZ-general-1,2020,redfield & wilton strategies,139,15.7228,13.4736,1,mid
+66956,2020-AZ-general-1,2020,change research,128,6.9288,32.8634,1,mid
+66969,2020-AZ-general-1,2020,data orbital,127,5.4259,17.8897,1,mid
+66976,2020-AZ-general-1,2020,gravis marketing (2020 and earlier),129,-6.895,21.5183,1,mid
+67007,2020-AZ-general-1,2020,global strategy group,132,5.3428,13.655,1,mid
+67026,2020-AZ-general-1,2020,change research,133,6.3461,11.4031,1,mid
+67055,2020-AZ-general-1,2020,yougov,116,2.1959,10.4325,1,mid
+67078,2020-AZ-general-1,2020,oh predictive insights/mbqf,119,7.1242,17.3864,1,mid
+67087,2020-AZ-general-1,2020,change research,114,4.867,29.7263,1,mid
+67621,2020-AZ-general-1,2020,spry strategies,110,5.0815,15.8753,1,mid
+67652,2020-AZ-general-1,2020,ppp,104,7.3279,13.0539,1,mid
+67661,2020-AZ-general-1,2020,cnn/ssrs,102,5.1774,12.2472,1,mid
+67665,2020-AZ-general-1,2020,marist college,104,10.4164,12.6694,1,mid
+67685,2020-AZ-general-1,2020,morning consult,100,15.8323,12.1013,1,mid
+67808,2020-AZ-general-1,2020,change research,100,-0.1756,29.7656,1,mid
+67838,2020-AZ-general-1,2020,redfield & wilton strategies,103,18.105,12.6902,1,mid
+67934,2020-AZ-general-1,2020,data for progress,93,8.7616,9.032,1,mid
+67973,2020-AZ-general-1,2020,oh predictive insights/mbqf,91,3.145,18.1689,1,mid
+68005,2020-AZ-general-1,2020,emerson,85,9.0459,16.0526,1,mid
+68011,2020-AZ-general-1,2020,change research,86,4.1722,25.2882,1,mid
+68113,2020-AZ-general-1,2020,onmessage inc.,91,-2.3495,26.0417,1,mid
+68153,2020-AZ-general-1,2020,redfield & wilton strategies,77,19.4896,12.7874,1,mid
+68338,2020-AZ-general-1,2020,beacon/shaw,63,15.7376,12.656,2,mid
+68520,2020-AZ-general-1,2020,redfield & wilton strategies,60,14.134,12.88,1,mid
+68533,2020-AZ-general-1,2020,change research,58,3.9005,22.0765,1,mid
+68584,2020-AZ-general-1,2020,benenson strategy group/gs strategy group,56,0.8763,6.7134,1,mid
+69420,2020-AZ-general-1,2020,gravis marketing (2020 and earlier),53,3.145,16.0173,1,mid
+69423,2020-AZ-general-1,2020,yougov,53,5.3428,9.9129,1,mid
+69429,2020-AZ-general-1,2020,oh predictive insights/mbqf,54,8.2888,17.5298,1,mid
+69500,2020-AZ-general-1,2020,kaiser family foundation,51,7.6505,9.5339,1,mid
+69513,2020-AZ-general-1,2020,monmouth,49,1.5107,24.8426,3,mid
+69523,2020-AZ-general-1,2020,siena/nyt,49,6.3461,16.5197,1,mid
+69542,2020-AZ-general-1,2020,redfield & wilton strategies,48,17.1907,12.9303,1,mid
+69634,2020-AZ-general-1,2020,fabrizio,48,-0.2219,13.2919,1,mid
+69639,2020-AZ-general-1,2020,morning consult,44,7.7628,12.2614,1,mid
+69675,2020-AZ-general-1,2020,abc/washington post,44,0.7975,16.389,2,mid
+69681,2020-AZ-general-1,2020,change research,44,6.1611,40.3101,1,mid
+69698,2020-AZ-general-1,2020,ipsos,48,7.5406,19.2593,1,mid
+69973,2020-AZ-general-1,2020,data for progress,42,8.2387,24.1846,1,mid
+69981,2020-AZ-general-1,2020,hart research associates,45,9.8954,25.1277,1,mid
+70042,2020-AZ-general-1,2020,susquehanna,36,1.9983,21.698,1,mid
+70079,2020-AZ-general-1,2020,data for progress,36,7.3279,13.1832,1,mid
+70119,2020-AZ-general-1,2020,suffolk,34,7.7628,22.2421,1,mid
+70565,2020-AZ-general-1,2020,siena/nyt,31,10.01,16.8921,1,mid
+70587,2020-AZ-general-1,2020,morning consult,33,12.2572,10.4926,1,mid
+70603,2020-AZ-general-1,2020,highground,29,4.6023,26.6087,1,late
+70604,2020-AZ-general-1,2020,change research,30,6.1611,35.6799,1,late
+70639,2020-AZ-general-1,2020,data orbital,29,3.5708,19.5028,1,late
+70651,2020-AZ-general-1,2020,ipsos,27,8.52,16.9686,1,late
+70681,2020-AZ-general-1,2020,latino decisions,28,3.2685,18.6675,1,late
+70728,2020-AZ-general-1,2020,trafalgar group,25,-0.2999,10.3186,1,late
+70752,2020-AZ-general-1,2020,morning consult,23,6.5394,9.6358,1,late
+70764,2020-AZ-general-1,2020,morning consult,47,5.792,12.3947,1,mid
+71007,2020-AZ-general-1,2020,ipsos,20,9.4784,15.8954,1,late
+71067,2020-AZ-general-1,2020,oh predictive insights/mbqf,26,2.9136,17.2651,1,late
+71090,2020-AZ-general-1,2020,monmouth,21,6.826,20.8578,3,late
+71159,2020-AZ-general-1,2020,targoz market research,32,8.52,10.2786,1,mid
+71295,2020-AZ-general-1,2020,yougov,18,9.4784,9.9552,1,late
+71451,2020-AZ-general-1,2020,data orbital,16,4.5394,20.1061,1,late
+71461,2020-AZ-general-1,2020,rmg research,15,5.8858,14.6061,1,late
+71519,2020-AZ-general-1,2020,change research,15,8.9907,43.8651,1,late
+71546,2020-AZ-general-1,2020,rasmussen,15,-0.1273,13.882,1,late
+71621,2020-AZ-general-1,2020,ipsos,13,6.1611,16.0505,1,late
+71637,2020-AZ-general-1,2020,morning consult,14,1.9983,10.1773,1,late
+71750,2020-AZ-general-1,2020,susquehanna,12,-5.4423,20.5988,1,late
+71753,2020-AZ-general-1,2020,basswood research,64,-1.826,13.0886,1,mid
+71758,2020-AZ-general-1,2020,basswood research,29,-3.4966,13.0327,1,late
+72055,2020-AZ-general-1,2020,oh predictive insights/mbqf,9,2.9136,14.6608,1,late
+72067,2020-AZ-general-1,2020,patinkin research strategies,10,4.7212,13.7867,1,late
+72068,2020-AZ-general-1,2020,patinkin research strategies,31,2.9136,17.3794,1,mid
+72069,2020-AZ-general-1,2020,patinkin research strategies,51,2.9136,15.4597,1,mid
+72147,2020-AZ-general-1,2020,univision/university of arizona/latino decisions/north star opinion research,9,10.9838,15.0532,1,late
+72158,2020-AZ-general-1,2020,gravis marketing (2020 and earlier),6,2.9136,14.9107,1,late
+72161,2020-AZ-general-1,2020,the justice collaborative institute,9,8.7616,10.8977,1,late
+72166,2020-AZ-general-1,2020,ipsos,7,5.0189,14.6627,1,late
+72217,2020-AZ-general-1,2020,rasmussen,5,3.145,13.6948,1,late
+72296,2020-AZ-general-1,2020,swayable,8,9.2505,34.4945,1,late
+72412,2020-AZ-general-1,2020,y2 analytics,10,1.7321,14.553,1,late
+72417,2020-AZ-general-1,2020,cnn/ssrs,4,4.3838,11.7442,2,late
+72478,2020-AZ-general-1,2020,siena/nyt,4,5.1774,8.5398,1,late
+72495,2020-AZ-general-1,2020,emerson,3,0.4084,13.9436,1,late
+72585,2020-AZ-general-1,2020,data for progress,2,5.6505,8.3146,1,late
+72602,2020-AZ-general-1,2020,morning consult,3,1.4425,10.2159,1,late
+72632,2020-AZ-general-1,2020,data orbital,4,-1.168,19.5266,1,late
+72649,2020-AZ-general-1,2020,marist college,2,4.32,12.2792,2,late
+72653,2020-AZ-general-1,2020,ipsos,1,6.9288,16.755,1,late
+72726,2020-AZ-general-1,2020,change research,2,1.7321,24.9073,1,late
+72764,2020-AZ-general-1,2020,swayable,2,7.6505,29.7297,1,late
+58893,2020-CO-general-0,2020,ppp,450,5.0636,14.8799,1,early
+58930,2020-CO-general-0,2020,emerson,442,4.3397,10.6369,1,early
+60263,2020-CO-general-0,2020,keating research/onsight public affairs/martin campaigns,386,2.0358,20.7704,1,early
+66099,2020-CO-general-0,2020,montana state university bozeman/university of denver,198,11.5368,31.9594,1,early
+66140,2020-CO-general-0,2020,keating research/onsight public affairs/melanson,184,10.4568,17.7778,1,early
+66973,2020-CO-general-0,2020,ppp,126,2.5447,12.891,1,mid
+67686,2020-CO-general-0,2020,morning consult,100,-2.8765,17.9574,1,mid
+68200,2020-CO-general-0,2020,ppp,76,0.1342,14.5718,1,mid
+68291,2020-CO-general-0,2020,morning consult,65,0.8017,17.8233,1,mid
+68579,2020-CO-general-0,2020,fabrizio ward/hart research associates,59,-4.3885,12.8524,1,mid
+69433,2020-CO-general-0,2020,global strategy group,63,1.0951,13.1474,1,mid
+69645,2020-CO-general-0,2020,morning consult,44,-1.8509,17.8205,1,mid
+70691,2020-CO-general-0,2020,surveyusa,28,0.8017,11.1374,1,late
+70753,2020-CO-general-0,2020,morning consult,23,1.5679,13.111,1,late
+70765,2020-CO-general-0,2020,morning consult,47,-7.072,18.6563,1,mid
+71069,2020-CO-general-0,2020,civiqs,20,2.0358,10.2519,1,late
+71098,2020-CO-general-0,2020,keating research/onsight public affairs/melanson,21,1.3264,20.6958,1,late
+71352,2020-CO-general-0,2020,rbi strategies & research,18,5.6742,21.1511,1,late
+71368,2020-CO-general-0,2020,yougov,25,-0.4523,14.0872,1,late
+71449,2020-CO-general-0,2020,rmg research,19,0.1342,13.315,1,late
+71638,2020-CO-general-0,2020,morning consult,14,-0.8475,13.6896,1,late
+72580,2020-CO-general-0,2020,keating research/onsight public affairs/melanson,2,2.0358,20.6876,1,late
+72584,2020-CO-general-0,2020,data for progress,2,-0.4523,14.1291,1,late
+72603,2020-CO-general-0,2020,morning consult,3,-1.2361,14.3641,1,late
+72777,2020-CO-general-0,2020,swayable,2,4.2568,22.1435,1,late
+70561,2020-DE-general-0,2020,university of delaware,37,13.5843,12.2625,1,mid
+66011,2020-GA-general-0,2020,cygnal,190,-5.1445,19.88,1,early
+66290,2020-GA-general-0,2020,bk strategies,174,-3.9258,16.3661,1,mid
+66312,2020-GA-general-0,2020,civiqs,169,3.9952,8.1138,1,mid
+66824,2020-GA-general-0,2020,ppp,143,2.9449,16.9963,1,mid
+66917,2020-GA-general-0,2020,beacon/shaw,133,-1.627,11.3333,1,mid
+67060,2020-GA-general-0,2020,gravis marketing (2020 and earlier),124,-3.6732,21.3564,1,mid
+67616,2020-GA-general-0,2020,garin hart yang,111,2.9449,14.0432,1,mid
+67622,2020-GA-general-0,2020,spry strategies,110,-0.6765,15.897,1,mid
+67688,2020-GA-general-0,2020,morning consult,100,-1.627,8.5868,1,mid
+67821,2020-GA-general-0,2020,monmouth,99,-5.6985,26.5973,3,mid
+67860,2020-GA-general-0,2020,yougov,95,-0.4514,10.3159,1,mid
+67982,2020-GA-general-0,2020,hit strategies,95,5.525,30.8219,1,mid
+67996,2020-GA-general-0,2020,surveyusa,87,-1.7081,18.8604,1,mid
+68109,2020-GA-general-0,2020,ppp,81,1.8213,21.4408,1,mid
+68122,2020-GA-general-0,2020,garin hart yang,82,3.9489,17.693,1,mid
+68583,2020-GA-general-0,2020,fabrizio ward/hart research associates,59,2.8739,13.1564,1,mid
+69469,2020-GA-general-0,2020,harrisx,65,-5.3125,7.0725,1,mid
+69566,2020-GA-general-0,2020,redfield & wilton strategies,48,1.8213,14.5349,1,mid
+69575,2020-GA-general-0,2020,gbao,48,2.8522,17.1803,1,mid
+69644,2020-GA-general-0,2020,morning consult,44,2.9707,8.1741,1,mid
+69646,2020-GA-general-0,2020,u. georgia spia,44,-0.7988,9.4866,1,mid
+69690,2020-GA-general-0,2020,monmouth,43,-5.131,27.2014,3,mid
+69709,2020-GA-general-0,2020,siena/nyt,43,-1.9762,24.1682,1,mid
+69937,2020-GA-general-0,2020,data for progress,45,0.6308,14.5385,2,mid
+69991,2020-GA-general-0,2020,yougov,39,-3.7967,9.6224,1,mid
+70047,2020-GA-general-0,2020,quinnipiac,37,2.8522,9.1628,1,mid
+70049,2020-GA-general-0,2020,civiqs,35,3.9489,10.9737,1,mid
+70131,2020-GA-general-0,2020,hart research associates,37,-1.3366,26.2895,1,mid
+70137,2020-GA-general-0,2020,redfield & wilton strategies,38,7.4393,14.1958,1,mid
+70695,2020-GA-general-0,2020,u. georgia spia,28,-6.4844,9.9438,1,late
+70712,2020-GA-general-0,2020,landmark communications,27,0.1997,18.0133,1,late
+70715,2020-GA-general-0,2020,ppp,25,2.9707,21.7665,1,late
+70755,2020-GA-general-0,2020,morning consult,23,-2.7242,6.1732,1,late
+70766,2020-GA-general-0,2020,morning consult,47,1.2151,8.3148,1,mid
+70982,2020-GA-general-0,2020,surveyusa,22,-1.5495,16.5778,1,late
+71000,2020-GA-general-0,2020,quinnipiac,22,8.0713,8.9448,1,late
+71010,2020-GA-general-0,2020,data for progress,23,2.9707,14.6966,1,late
+71435,2020-GA-general-0,2020,emerson,15,0.0553,21.8065,1,late
+71454,2020-GA-general-0,2020,siena/nyt,15,1.8213,15.32,1,late
+71566,2020-GA-general-0,2020,garin hart yang,20,7.2001,17.8775,2,late
+71640,2020-GA-general-0,2020,morning consult,14,-0.4009,6.6421,1,late
+71754,2020-GA-general-0,2020,opinion insight,62,1.8213,14.2045,1,mid
+71759,2020-GA-general-0,2020,opinion insight,19,1.8213,14.2045,1,late
+71763,2020-GA-general-0,2020,landmark communications,13,-4.0859,21.0234,1,late
+71888,2020-GA-general-0,2020,yougov,11,0.746,9.8637,1,late
+71944,2020-GA-general-0,2020,u. georgia spia,11,3.0235,9.5436,1,late
+72040,2020-GA-general-0,2020,civiqs,8,8.0713,9.9673,1,late
+72146,2020-GA-general-0,2020,monmouth,7,3.912,20.6588,3,late
+72181,2020-GA-general-0,2020,citizen data,14,9.6398,11.3276,1,late
+72187,2020-GA-general-0,2020,ppp,6,5.118,16.6068,1,late
+72299,2020-GA-general-0,2020,swayable,8,0.1752,30.0739,1,late
+72336,2020-GA-general-0,2020,landmark communications,6,1.9271,14.1093,1,late
+72517,2020-GA-general-0,2020,emerson,3,3.1684,13.8329,1,late
+72605,2020-GA-general-0,2020,morning consult,3,2.9082,6.2354,1,late
+72661,2020-GA-general-0,2020,landmark communications,2,-0.3685,20.8451,1,late
+72738,2020-GA-general-0,2020,data for progress,2,6.9759,9.9246,1,late
+72766,2020-GA-general-0,2020,swayable,2,0.4825,25.2993,1,late
+60106,2020-IA-general-0,2020,emerson,384,-0.7152,12.9453,1,early
+63144,2020-IA-general-0,2020,ppp,324,-0.0189,11.9818,1,early
+66047,2020-IA-general-0,2020,ppp,186,5.6228,9.6261,1,early
+66740,2020-IA-general-0,2020,ppp,152,9.072,11.7942,1,mid
+66767,2020-IA-general-0,2020,civiqs,148,10.0251,12.4179,1,mid
+66796,2020-IA-general-0,2020,selzer,146,10.17,16.6516,1,mid
+67003,2020-IA-general-0,2020,gqr,128,8.8826,13.0152,1,mid
+67623,2020-IA-general-0,2020,spry strategies,110,8.8457,16.302,1,mid
+67920,2020-IA-general-0,2020,monmouth,92,5.0222,26.4271,3,mid
+67935,2020-IA-general-0,2020,data for progress,93,9.072,10.3159,1,mid
+67954,2020-IA-general-0,2020,rmg research,96,12.0624,26.2429,1,mid
+68110,2020-IA-general-0,2020,ppp,81,10.0251,14.7346,1,mid
+68585,2020-IA-general-0,2020,fabrizio ward/hart research associates,59,1.5361,13.1214,1,mid
+69560,2020-IA-general-0,2020,selzer,47,10.2475,17.4477,1,mid
+69710,2020-IA-general-0,2020,siena/nyt,42,9.2383,24.3271,1,mid
+69943,2020-IA-general-0,2020,monmouth,42,8.2027,26.268,3,mid
+70073,2020-IA-general-0,2020,raba research,38,20.1326,13.9918,1,mid
+70080,2020-IA-general-0,2020,data for progress,36,8.5114,15.2149,2,mid
+70132,2020-IA-general-0,2020,hart research associates,37,6.7992,26.0417,1,mid
+70629,2020-IA-general-0,2020,civiqs,28,9.9571,13.9098,1,late
+70648,2020-IA-general-0,2020,quinnipiac,29,12.0624,8.7113,1,late
+70726,2020-IA-general-0,2020,yougov,25,11.2437,10.8505,1,late
+71083,2020-IA-general-0,2020,data for progress,23,11.2437,13.4905,1,late
+71465,2020-IA-general-0,2020,insideradvantage,15,11.9359,27.2503,1,late
+71548,2020-IA-general-0,2020,monmouth,15,9.577,20.9091,3,late
+71553,2020-IA-general-0,2020,siena/nyt,14,5.6757,14.9197,1,late
+71562,2020-IA-general-0,2020,emerson,13,2.5844,23.7063,1,late
+71733,2020-IA-general-0,2020,rmg research,13,10.17,14.029,1,late
+71755,2020-IA-general-0,2020,opinion insight,62,0.2775,13.5292,1,mid
+71760,2020-IA-general-0,2020,opinion insight,26,5.6757,14.0432,1,late
+72063,2020-IA-general-0,2020,raba research,10,13.0492,14.9725,1,late
+72220,2020-IA-general-0,2020,quinnipiac,7,4.6716,8.6804,1,late
+72420,2020-IA-general-0,2020,selzer,5,2.2538,13.9314,1,late
+72489,2020-IA-general-0,2020,emerson,3,9.9465,16.7918,1,late
+72492,2020-IA-general-0,2020,insideradvantage,4,0.9537,26.0069,1,late
+72577,2020-IA-general-0,2020,civiqs,2,9.892,12.0743,1,late
+72621,2020-IA-general-0,2020,ppp,1,7.8519,12.084,1,late
+72741,2020-IA-general-0,2020,data for progress,2,11.0546,11.1662,1,late
+72756,2020-IA-general-0,2020,change research,2,7.8519,9.7095,1,late
+68502,2020-ID-general-0,2020,spry strategies,63,-0.9815,18.5002,1,mid
+72623,2020-IL-general-0,2020,research co.,2,9.6995,25.1496,1,late
+72716,2020-IL-general-0,2020,victory research,2,15.6787,9.6943,1,late
+64808,2020-KS-general-0,2020,ppp,237,0.1332,7.4895,1,early
+66556,2020-KS-general-0,2020,nmb research,168,-1.5423,23.9486,1,mid
+66701,2020-KS-general-0,2020,civiqs,155,10.8331,17.2338,1,mid
+67956,2020-KS-general-0,2020,ppp,89,10.8615,13.6147,1,mid
+68032,2020-KS-general-0,2020,surveyusa,86,9.8157,9.2393,1,mid
+69938,2020-KS-general-0,2020,data for progress,45,12.0379,13.8192,2,mid
+70055,2020-KS-general-0,2020,co/efficient,48,7.1599,15.3225,1,mid
+70056,2020-KS-general-0,2020,gbao,37,14.3107,18.9296,1,mid
+70072,2020-KS-general-0,2020,civiqs,35,4.5111,15.7929,1,mid
+70686,2020-KS-general-0,2020,vcreek/amg,34,16.0719,3.686,1,mid
+71545,2020-KS-general-0,2020,co/efficient,14,-1.2954,4.4491,1,late
+71558,2020-KS-general-0,2020,ppp,14,12.0379,12.9631,1,late
+71673,2020-KS-general-0,2020,siena/nyt,14,7.4925,15.0201,1,late
+72165,2020-KS-general-0,2020,gbao,7,12.5874,18.0217,2,late
+72240,2020-KS-general-0,2020,vcreek/amg,7,8.0927,9.6029,1,late
+72723,2020-KS-general-0,2020,data for progress,2,5.7879,9.256,1,late
+58958,2020-KY-general-0,2020,change research,506,18.1746,6.6694,1,early
+59586,2020-KY-general-0,2020,fabrizio ward,461,19.2733,17.9191,1,early
+64504,2020-KY-general-0,2020,garin hart yang,295,16.7341,15.0031,1,early
+64510,2020-KY-general-0,2020,change research,287,20.3485,9.52,1,early
+66765,2020-KY-general-0,2020,rmg research,163,21.5831,24.6876,1,mid
+66846,2020-KY-general-0,2020,civiqs,141,-2.9073,12.2484,1,mid
+67116,2020-KY-general-0,2020,garin hart yang,114,15.6974,14.5034,1,mid
+67624,2020-KY-general-0,2020,spry strategies,110,-4.6995,15.1413,1,mid
+67880,2020-KY-general-0,2020,morning consult,93,1.2474,13.652,1,mid
+67928,2020-KY-general-0,2020,bluegrass data analytics,97,17.1906,3.4821,1,mid
+67931,2020-KY-general-0,2020,bluegrass data analytics,205,17.7844,3.203,1,early
+67947,2020-KY-general-0,2020,quinnipiac,92,14.9722,11.7949,1,mid
+69487,2020-KY-general-0,2020,quinnipiac,50,7.5826,8.9905,1,mid
+69640,2020-KY-general-0,2020,morning consult,44,3.4946,14.6338,1,mid
+69939,2020-KY-general-0,2020,data for progress,45,12.2983,14.1582,2,mid
+71443,2020-KY-general-0,2020,mason-dixon,19,10.6711,17.0432,1,late
+71672,2020-KY-general-0,2020,cygnal,14,8.9168,17.1152,1,late
+72239,2020-KY-general-0,2020,bluegrass community and technical college,6,8.7414,44.0414,1,late
+72618,2020-KY-general-0,2020,morning consult,3,7.9173,11.8892,1,late
+72779,2020-KY-general-0,2020,swayable,2,17.4135,28.6936,1,late
+58954,2020-ME-general-0,2020,pan atlantic research,601,-18.3147,23.0201,1,early
+59573,2020-ME-general-0,2020,fabrizio ward,461,-10.3332,18.4256,1,early
+64344,2020-ME-general-0,2020,colby college,264,10.3835,11.6697,1,early
+64717,2020-ME-general-0,2020,ppp,245,13.6515,12.7169,1,early
+66552,2020-ME-general-0,2020,victory geek,169,18.8845,20.8047,1,mid
+66980,2020-ME-general-0,2020,moore information,132,-0.549,20.1317,1,mid
+66994,2020-ME-general-0,2020,ppp,123,13.7525,11.096,1,mid
+67653,2020-ME-general-0,2020,ppp,103,14.8251,19.9652,1,mid
+67790,2020-ME-general-0,2020,colby college,102,15.2312,13.5185,1,mid
+67936,2020-ME-general-0,2020,data for progress,93,12.4329,12.4036,1,mid
+67948,2020-ME-general-0,2020,quinnipiac,92,13.6515,13.7412,1,mid
+67978,2020-ME-general-0,2020,rmg research,93,17.0722,22.3329,1,mid
+68001,2020-ME-general-0,2020,digital research,86,17.4217,26.2603,2,mid
+68108,2020-ME-general-0,2020,ppp,81,14.5834,18.7769,1,mid
+68578,2020-ME-general-0,2020,fabrizio ward/hart research associates,59,10.3565,14.3659,1,mid
+69410,2020-ME-general-0,2020,citizen data,57,18.2636,18.4137,1,mid
+69488,2020-ME-general-0,2020,quinnipiac,50,21.7071,8.6677,1,mid
+69524,2020-ME-general-0,2020,siena/nyt,48,13.969,17.9152,1,mid
+69587,2020-ME-general-0,2020,suffolk,44,15.1704,22.8542,1,mid
+69705,2020-ME-general-0,2020,moore information,42,9.2071,23.8095,1,mid
+69967,2020-ME-general-0,2020,colby college,41,13.8582,13.6986,1,mid
+70081,2020-ME-general-0,2020,data for progress,36,14.9542,15.9558,1,mid
+70610,2020-ME-general-0,2020,digital research,30,10.37,24.0943,2,late
+71085,2020-ME-general-0,2020,pan atlantic research,28,17.3962,19.0945,1,late
+72076,2020-ME-general-0,2020,colby college,9,12.7626,12.6246,1,late
+72179,2020-ME-general-0,2020,surveyusa,7,10.306,10.9113,1,late
+72511,2020-ME-general-0,2020,emerson,3,11.1343,17.5166,1,late
+72801,2020-ME-general-0,2020,change research,1,13.7525,11.0744,1,late
+57656,2020-MI-general-0,2020,emerson,604,-0.5572,15.6115,1,early
+59737,2020-MI-general-0,2020,target insyght,404,16.0605,13.383,1,early
+59754,2020-MI-general-0,2020,target insyght,558,14.5618,14.1497,1,early
+60105,2020-MI-general-0,2020,mrg (marketing resource group),390,2.3989,20.1434,1,early
+62437,2020-MI-general-0,2020,denno research,406,-1.4635,21.1505,1,early
+62538,2020-MI-general-0,2020,emerson,366,5.6511,11.0679,1,early
+63238,2020-MI-general-0,2020,glengariff group inc.,301,2.85,19.9903,1,early
+63318,2020-MI-general-0,2020,baldwin wallace university/oakland university/ohio northern university,288,11.3731,12.9658,1,early
+64470,2020-MI-general-0,2020,quinnipiac,259,5.4256,14.0166,1,early
+64755,2020-MI-general-0,2020,øptimus,241,-2.9203,22.3167,1,early
+64982,2020-MI-general-0,2020,mrg (marketing resource group),228,7.3736,21.4661,1,early
+65002,2020-MI-general-0,2020,hodas & associates,232,7.4719,17.8659,1,early
+65005,2020-MI-general-0,2020,hodas & associates,343,-2.8614,19.0669,1,early
+65060,2020-MI-general-0,2020,ppp,216,6.7164,11.7394,1,early
+65668,2020-MI-general-0,2020,spry strategies,216,0.6507,20.1603,1,early
+65861,2020-MI-general-0,2020,beacon/shaw,196,10.4778,14.9984,1,early
+65907,2020-MI-general-0,2020,hodas & associates,206,10.6124,19.2735,1,early
+66008,2020-MI-general-0,2020,ppp,188,9.1261,9.3752,1,early
+66400,2020-MI-general-0,2020,hodas & associates,182,12.1307,19.1194,1,early
+66406,2020-MI-general-0,2020,change research,170,3.2986,3.5662,1,mid
+66468,2020-MI-general-0,2020,hodas & associates,384,13.1558,19.7074,1,early
+66695,2020-MI-general-0,2020,ppp,157,8.6275,7.1879,1,mid
+66748,2020-MI-general-0,2020,epic-mra,153,15.5241,18.5876,1,mid
+66769,2020-MI-general-0,2020,kiaer research,149,18.2827,22.0994,1,mid
+66818,2020-MI-general-0,2020,tipp,144,12.9169,13.1576,1,mid
+66823,2020-MI-general-0,2020,mrg (marketing resource group),141,7.4281,24.7785,1,mid
+66894,2020-MI-general-0,2020,siena/nyt,139,12.1716,22.3295,1,mid
+66902,2020-MI-general-0,2020,hodas & associates,136,13.537,18.3942,1,mid
+66908,2020-MI-general-0,2020,redfield & wilton strategies,140,20.2339,14.0527,1,mid
+66958,2020-MI-general-0,2020,change research,128,5.975,15.628,1,mid
+66975,2020-MI-general-0,2020,ppp,129,7.585,9.3187,1,mid
+67089,2020-MI-general-0,2020,change research,114,5.8096,12.9754,1,mid
+67579,2020-MI-general-0,2020,ppp,116,5.975,10.4937,1,mid
+67625,2020-MI-general-0,2020,spry strategies,110,10.1796,16.6551,1,mid
+67645,2020-MI-general-0,2020,beacon/shaw,106,9.9106,15.1729,1,mid
+67655,2020-MI-general-0,2020,gravis marketing (2020 and earlier),104,9.6464,14.8765,1,mid
+67663,2020-MI-general-0,2020,cnn/ssrs,102,15.674,11.3709,1,mid
+67689,2020-MI-general-0,2020,morning consult,100,14.9494,8.7682,1,mid
+67810,2020-MI-general-0,2020,change research,100,2.6305,26.2688,1,mid
+67830,2020-MI-general-0,2020,mrg (marketing resource group),105,7.7422,22.321,1,mid
+67842,2020-MI-general-0,2020,redfield & wilton strategies,102,17.8229,13.6318,1,mid
+67875,2020-MI-general-0,2020,ppp,97,7.585,13.159,1,mid
+67906,2020-MI-general-0,2020,hodas & associates,110,11.307,18.038,1,mid
+67955,2020-MI-general-0,2020,epic-mra,96,9.3938,18.2899,1,mid
+68013,2020-MI-general-0,2020,change research,86,1.5085,26.0085,1,mid
+68101,2020-MI-general-0,2020,tarrance,82,3.2396,17.8561,1,mid
+68155,2020-MI-general-0,2020,redfield & wilton strategies,77,8.6275,14.004,1,mid
+68206,2020-MI-general-0,2020,change research,72,3.5459,12.9755,1,mid
+68238,2020-MI-general-0,2020,trafalgar group,72,-3.3012,10.0735,1,mid
+68306,2020-MI-general-0,2020,ppp,66,7.585,12.8509,1,mid
+68477,2020-MI-general-0,2020,tarrance,61,-0.642,18.8953,1,mid
+68483,2020-MI-general-0,2020,hodas & associates,80,13.9652,17.5825,1,mid
+68522,2020-MI-general-0,2020,redfield & wilton strategies,61,11.9191,11.5329,1,mid
+68527,2020-MI-general-0,2020,glengariff group inc.,61,1.9601,19.7439,1,mid
+68535,2020-MI-general-0,2020,change research,58,2.4494,11.8705,1,mid
+68582,2020-MI-general-0,2020,benenson strategy group/gs strategy group,56,2.9339,7.2517,1,mid
+68586,2020-MI-general-0,2020,rasmussen,61,6.7681,11.323,1,mid
+69529,2020-MI-general-0,2020,epic-mra,49,2.9339,19.3379,1,mid
+69544,2020-MI-general-0,2020,redfield & wilton strategies,50,16.8874,12.0704,1,mid
+69641,2020-MI-general-0,2020,morning consult,44,6.3287,8.2993,1,mid
+69648,2020-MI-general-0,2020,mrg (marketing resource group),45,0.7217,20.3131,1,mid
+69661,2020-MI-general-0,2020,ipsos,48,4.8045,16.9911,1,mid
+69683,2020-MI-general-0,2020,change research,44,4.6657,18.6531,1,mid
+69701,2020-MI-general-0,2020,baldwin wallace university/oakland university/ohio northern university,42,3.1103,11.456,1,mid
+69940,2020-MI-general-0,2020,data for progress,45,3.9007,24.6165,1,mid
+69983,2020-MI-general-0,2020,hart research associates,45,6.9784,26.9684,1,mid
+69995,2020-MI-general-0,2020,marist college,41,4.2318,11.7109,2,mid
+70006,2020-MI-general-0,2020,trafalgar group,39,-1.8231,10.107,1,mid
+70057,2020-MI-general-0,2020,trafalgar group,36,-0.2405,10.1211,1,mid
+70129,2020-MI-general-0,2020,ppp,33,6.1479,14.9684,1,mid
+70589,2020-MI-general-0,2020,glengariff group inc.,31,4.6808,19.6664,1,mid
+70606,2020-MI-general-0,2020,change research,30,6.7934,15.6231,1,late
+70615,2020-MI-general-0,2020,ipsos,28,5.8096,15.0801,1,late
+70632,2020-MI-general-0,2020,tarrance,29,0.4104,17.693,1,late
+70692,2020-MI-general-0,2020,emerson,27,8.7402,15.0477,1,late
+70719,2020-MI-general-0,2020,baldwin wallace university/oakland university/ohio northern university,26,4.831,9.7453,1,late
+70724,2020-MI-general-0,2020,yougov,25,1.5794,9.2947,1,late
+70737,2020-MI-general-0,2020,siena/nyt,23,-0.5408,19.1581,1,late
+70756,2020-MI-general-0,2020,morning consult,23,8.3951,6.5035,1,late
+70767,2020-MI-general-0,2020,morning consult,47,7.332,7.8297,1,mid
+70785,2020-MI-general-0,2020,ipsos,21,6.616,16.6844,1,late
+70979,2020-MI-general-0,2020,epic-mra,22,5.4256,19.74,1,late
+71178,2020-MI-general-0,2020,harris poll,19,5.8096,8.2946,1,late
+71238,2020-MI-general-0,2020,trafalgar group,19,-3.1972,10.3816,1,late
+71367,2020-MI-general-0,2020,mitchell,16,4.8045,12.0259,1,late
+71462,2020-MI-general-0,2020,ipsos,14,3.5459,15.302,1,late
+71521,2020-MI-general-0,2020,change research,15,3.4374,14.3202,1,late
+71623,2020-MI-general-0,2020,data for progress,16,3.7772,13.1998,1,late
+71625,2020-MI-general-0,2020,beacon/shaw,14,6.1363,10.4634,2,late
+71641,2020-MI-general-0,2020,morning consult,14,4.9494,6.4425,1,late
+71649,2020-MI-general-0,2020,trafalgar group,16,-3.9807,9.9447,1,late
+71679,2020-MI-general-0,2020,ppp,12,7.7564,12.9749,1,late
+71738,2020-MI-general-0,2020,epic-mra,15,5.4256,19.74,1,late
+71756,2020-MI-general-0,2020,opinion insight,62,2.8282,14.1752,1,mid
+71761,2020-MI-general-0,2020,opinion insight,28,7.1716,13.7791,1,late
+71890,2020-MI-general-0,2020,gravis marketing (2020 and earlier),10,10.1107,15.6145,1,late
+72058,2020-MI-general-0,2020,ipsos,8,4.6657,16.2499,1,late
+72065,2020-MI-general-0,2020,glengariff group inc.,9,9.2919,18.8815,1,late
+72074,2020-MI-general-0,2020,abc/washington post,9,3.4716,12.3286,2,late
+72152,2020-MI-general-0,2020,siena/nyt,8,7.1716,12.8777,1,late
+72170,2020-MI-general-0,2020,mitchell,7,8.3667,13.6988,1,late
+72182,2020-MI-general-0,2020,citizen data,14,2.309,11.3233,1,late
+72302,2020-MI-general-0,2020,swayable,8,15.0827,26.624,1,late
+72311,2020-MI-general-0,2020,kiaer research,6,12.6971,16.4832,1,late
+72333,2020-MI-general-0,2020,ppp,4,8.4868,13.5541,1,late
+72335,2020-MI-general-0,2020,rmg research,5,8.1728,13.6019,1,late
+72416,2020-MI-general-0,2020,cnn/ssrs,4,11.9473,11.5379,2,late
+72483,2020-MI-general-0,2020,epic-mra,6,3.9007,18.6675,1,late
+72487,2020-MI-general-0,2020,emerson,3,4.2132,14.5557,1,late
+72493,2020-MI-general-0,2020,mitchell,5,3.955,12.8157,1,late
+72508,2020-MI-general-0,2020,ipsos,2,5.6511,16.0079,1,late
+72587,2020-MI-general-0,2020,targoz market research,4,9.6229,10.2484,1,late
+72607,2020-MI-general-0,2020,morning consult,3,4.4851,6.244,1,late
+72624,2020-MI-general-0,2020,research co.,2,15.1366,24.2595,1,late
+72728,2020-MI-general-0,2020,change research,2,3.4374,26.8457,1,late
+72769,2020-MI-general-0,2020,swayable,2,5.4827,25.3134,1,late
+67851,2020-MN-general-0,2020,ppp,103,4.6654,9.336,1,mid
+67998,2020-MN-general-0,2020,emerson,85,-2.0243,14.6467,1,mid
+68460,2020-MN-general-0,2020,harper polling,63,-3.2985,23.7485,1,mid
+68473,2020-MN-general-0,2020,harper polling,159,7.9008,23.7608,1,mid
+68481,2020-MN-general-0,2020,ppp,60,3.2094,12.5693,1,mid
+68565,2020-MN-general-0,2020,surveyusa,57,7.5648,21.5869,1,mid
+69416,2020-MN-general-0,2020,siena/nyt,54,4.4329,13.6622,1,mid
+69424,2020-MN-general-0,2020,yougov,53,2.3665,11.0765,1,mid
+69567,2020-MN-general-0,2020,redfield & wilton strategies,47,11.5619,15.5328,1,mid
+69978,2020-MN-general-0,2020,suffolk,40,6.8834,24.7291,1,mid
+69988,2020-MN-general-0,2020,mason-dixon,41,3.2094,13.7791,1,mid
+70660,2020-MN-general-0,2020,surveyusa,28,2.9625,13.19,1,late
+71455,2020-MN-general-0,2020,change research,19,-1.3316,10.6259,1,late
+71539,2020-MN-general-0,2020,civiqs,14,5.6607,12.1151,1,late
+71632,2020-MN-general-0,2020,surveyusa,14,-4.503,18.8209,1,late
+72056,2020-MN-general-0,2020,gravis marketing (2020 and earlier),8,9.5379,16.1611,1,late
+72171,2020-MN-general-0,2020,surveyusa,7,-2.2312,17.6897,1,late
+72405,2020-MN-general-0,2020,ppp,4,3.998,13.8337,1,late
+72503,2020-MN-general-0,2020,st. cloud state,5,13.4217,29.1022,1,late
+72586,2020-MN-general-0,2020,targoz market research,4,3.5989,8.9811,1,late
+72625,2020-MN-general-0,2020,research co.,2,6.6801,24.5874,1,late
+72740,2020-MN-general-0,2020,data for progress,2,4.5246,8.0205,1,late
+72782,2020-MN-general-0,2020,swayable,2,3.3205,23.0674,1,late
+63322,2020-MS-general-0,2020,chism strategies,301,-0.181,19.9357,1,early
+64719,2020-MS-general-0,2020,mason-dixon,249,-0.2614,16.4858,1,early
+66275,2020-MS-general-0,2020,impact management group,180,-21.0701,16.7578,1,mid
+66780,2020-MS-general-0,2020,ppp,159,1.2664,12.6559,1,mid
+68045,2020-MS-general-0,2020,garin hart yang,86,4.5373,18.6675,1,mid
+69580,2020-MS-general-0,2020,the tyson group,65,8.9207,20.573,1,mid
+69586,2020-MS-general-0,2020,the tyson group,236,-21.5521,18.2818,1,early
+72041,2020-MS-general-0,2020,civiqs,8,1.8219,20.403,1,late
+72739,2020-MS-general-0,2020,data for progress,2,7.0625,18.3264,1,late
+64883,2020-MT-general-0,2020,ppp,235,10.0243,11.7811,1,early
+66072,2020-MT-general-0,2020,montana state university bozeman/university of denver,190,18.185,25.3383,1,early
+66978,2020-MT-general-0,2020,university of montana,130,14.7862,21.3715,1,mid
+67067,2020-MT-general-0,2020,ppp,116,12.2465,9.0732,1,mid
+67079,2020-MT-general-0,2020,civiqs,113,7.941,11.9269,1,mid
+67626,2020-MT-general-0,2020,spry strategies,110,6.4615,15.6666,1,mid
+67867,2020-MT-general-0,2020,emerson,93,3.2268,18.1882,1,mid
+68577,2020-MT-general-0,2020,fabrizio ward/hart research associates,59,6.9315,12.8743,1,mid
+70662,2020-MT-general-0,2020,emerson,27,0.3947,20.9678,1,late
+70732,2020-MT-general-0,2020,ppp,24,10.0243,13.0535,1,late
+70992,2020-MT-general-0,2020,msu - bozeman,32,12.1077,6.4471,1,mid
+71363,2020-MT-general-0,2020,rmg research,16,7.941,13.0152,1,late
+71677,2020-MT-general-0,2020,strategies 360,14,8.9717,21.0503,1,late
+71747,2020-MT-general-0,2020,siena/nyt,14,6.8664,13.8731,1,late
+72062,2020-MT-general-0,2020,ppp,7,11.077,11.8794,1,late
+72162,2020-MT-general-0,2020,msu - billings,10,11.077,19.2768,1,late
+72762,2020-MT-general-0,2020,change research,1,5.8577,11.3028,1,late
+58512,2020-NC-general-0,2020,ppp,504,3.0612,20.2357,1,early
+59587,2020-NC-general-0,2020,fabrizio ward,461,3.0314,20.0774,1,early
+59605,2020-NC-general-0,2020,ppp,413,4.0993,18.0856,1,early
+60059,2020-NC-general-0,2020,meredith college,393,0.7644,15.2032,1,early
+63321,2020-NC-general-0,2020,anzalone liszt grove,296,4.1522,16.6023,1,early
+64639,2020-NC-general-0,2020,marist college,250,7.3211,5.1678,1,early
+64641,2020-NC-general-0,2020,east carolina university,249,-0.6181,9.033,1,early
+64715,2020-NC-general-0,2020,public opinion strategies,293,-2.5212,13.5613,1,early
+65758,2020-NC-general-0,2020,harper polling,210,-3.729,27.692,1,early
+65761,2020-NC-general-0,2020,ppp,202,9.8726,8.6645,1,early
+65937,2020-NC-general-0,2020,surveyusa,191,4.3266,21.5383,1,early
+66024,2020-NC-general-0,2020,meredith college,189,13.6518,20.983,1,early
+66073,2020-NC-general-0,2020,civiqs,183,11.7167,7.9894,1,early
+66289,2020-NC-general-0,2020,east carolina university,178,-0.1536,11.1354,1,mid
+66509,2020-NC-general-0,2020,neighborhood research,166,4.7678,37.5784,1,mid
+66529,2020-NC-general-0,2020,meeting street insights,174,3.8134,22.0663,1,mid
+66721,2020-NC-general-0,2020,harper polling,159,-0.8761,27.0073,1,mid
+66729,2020-NC-general-0,2020,ppp,153,4.2076,12.5374,1,mid
+66855,2020-NC-general-0,2020,gravis marketing (2020 and earlier),139,0.7277,17.4131,1,mid
+66888,2020-NC-general-0,2020,ppp,133,6.5885,10.266,1,mid
+66895,2020-NC-general-0,2020,siena/nyt,138,5.5303,18.8802,1,mid
+66905,2020-NC-general-0,2020,redfield & wilton strategies,139,12.9377,13.518,1,mid
+66918,2020-NC-general-0,2020,beacon/shaw,133,4.4582,12.9929,1,mid
+66953,2020-NC-general-0,2020,east carolina university,131,1.8266,10.5622,1,mid
+66959,2020-NC-general-0,2020,change research,128,12.6962,22.9512,1,mid
+67044,2020-NC-general-0,2020,ppp,118,11.1289,14.092,1,mid
+67090,2020-NC-general-0,2020,change research,114,9.5189,16.6778,1,mid
+67586,2020-NC-general-0,2020,cardinal point analytics (cardinalgps),111,5.2146,19.9569,1,mid
+67627,2020-NC-general-0,2020,spry strategies,110,2.5877,17.8227,1,mid
+67654,2020-NC-general-0,2020,ppp,103,10.9175,12.0018,1,mid
+67669,2020-NC-general-0,2020,marist college,104,11.7167,12.3373,1,mid
+67691,2020-NC-general-0,2020,morning consult,100,12.67,7.9166,1,mid
+67811,2020-NC-general-0,2020,change research,100,14.8701,37.622,1,mid
+67834,2020-NC-general-0,2020,cardinal point analytics (cardinalgps),102,1.594,15.8202,1,mid
+67839,2020-NC-general-0,2020,redfield & wilton strategies,105,15.0796,12.8798,1,mid
+67859,2020-NC-general-0,2020,yougov,95,12.1714,10.1438,1,mid
+67937,2020-NC-general-0,2020,data for progress,93,10.7155,9.4216,1,mid
+67983,2020-NC-general-0,2020,hit strategies,95,21.8266,30.0,1,mid
+67985,2020-NC-general-0,2020,ppp,95,6.1744,11.6157,1,mid
+68006,2020-NC-general-0,2020,emerson,85,5.1374,17.303,1,mid
+68014,2020-NC-general-0,2020,change research,86,7.3211,22.3133,1,mid
+68051,2020-NC-general-0,2020,harper polling,85,5.6241,21.0666,1,mid
+68076,2020-NC-general-0,2020,east carolina university,82,7.1774,9.4475,1,mid
+68156,2020-NC-general-0,2020,redfield & wilton strategies,78,12.4148,12.0298,1,mid
+68178,2020-NC-general-0,2020,morning consult,72,11.1289,7.4804,1,mid
+68207,2020-NC-general-0,2020,change research,72,12.4649,18.782,1,mid
+68307,2020-NC-general-0,2020,east carolina university,65,2.3967,10.3562,1,mid
+68339,2020-NC-general-0,2020,beacon/shaw,63,9.1829,14.7624,2,mid
+68464,2020-NC-general-0,2020,monmouth,63,2.9175,27.2001,3,mid
+68523,2020-NC-general-0,2020,redfield & wilton strategies,61,13.7314,12.3407,1,mid
+68536,2020-NC-general-0,2020,change research,58,9.195,23.6859,1,mid
+68576,2020-NC-general-0,2020,benenson strategy group/gs strategy group,56,5.5303,7.7055,1,mid
+69408,2020-NC-general-0,2020,rasmussen,56,4.8475,11.0555,1,mid
+69442,2020-NC-general-0,2020,trafalgar group,53,2.7019,10.459,1,mid
+69444,2020-NC-general-0,2020,surveyusa,51,9.8726,19.1608,1,mid
+69462,2020-NC-general-0,2020,cnn/ssrs,51,3.4753,13.0488,2,mid
+69502,2020-NC-general-0,2020,kaiser family foundation,51,6.9548,10.9102,1,mid
+69504,2020-NC-general-0,2020,suffolk,50,6.6125,25.1312,1,mid
+69525,2020-NC-general-0,2020,siena/nyt,48,8.1557,19.3071,1,mid
+69545,2020-NC-general-0,2020,redfield & wilton strategies,49,14.4703,10.3576,1,mid
+69570,2020-NC-general-0,2020,emerson,46,8.3119,15.1124,1,mid
+69638,2020-NC-general-0,2020,morning consult,44,12.4148,7.2524,1,mid
+69650,2020-NC-general-0,2020,harper polling,44,9.1437,19.82,1,mid
+69662,2020-NC-general-0,2020,ipsos,48,6.1744,18.5137,1,mid
+69684,2020-NC-general-0,2020,change research,44,7.3211,18.922,1,mid
+69992,2020-NC-general-0,2020,yougov,39,13.4545,9.4565,1,mid
+70010,2020-NC-general-0,2020,meredith college,42,3.3578,16.7033,1,mid
+70044,2020-NC-general-0,2020,u. massachusetts - lowell,39,8.3483,11.7517,1,mid
+70106,2020-NC-general-0,2020,anzalone liszt grove,36,14.5926,12.7311,1,mid
+70133,2020-NC-general-0,2020,hart research associates,37,15.5108,25.823,1,mid
+70576,2020-NC-general-0,2020,ppp,29,8.4933,12.1424,1,late
+70607,2020-NC-general-0,2020,change research,30,5.9933,26.259,1,late
+70614,2020-NC-general-0,2020,east carolina university,30,1.5044,8.7184,1,late
+70616,2020-NC-general-0,2020,ipsos,28,7.4446,18.6364,1,late
+70657,2020-NC-general-0,2020,data for progress,29,14.1862,8.6104,1,late
+70743,2020-NC-general-0,2020,surveyusa,23,13.1902,16.7667,1,late
+70758,2020-NC-general-0,2020,morning consult,23,8.6448,5.6753,1,late
+70768,2020-NC-general-0,2020,morning consult,47,9.4444,7.0565,1,mid
+70780,2020-NC-general-0,2020,monmouth,23,5.4188,21.3972,3,late
+70786,2020-NC-general-0,2020,ipsos,21,6.3721,17.1821,1,late
+70797,2020-NC-general-0,2020,rmg research,23,14.0217,15.0172,1,late
+70990,2020-NC-general-0,2020,susquehanna,23,4.0488,22.2112,1,late
+70998,2020-NC-general-0,2020,siena/nyt,21,6.9548,20.3936,1,late
+71070,2020-NC-general-0,2020,civiqs,20,8.0766,8.5681,1,late
+71161,2020-NC-general-0,2020,emerson,20,3.0752,15.7406,1,late
+71441,2020-NC-general-0,2020,abc/washington post,17,4.4472,15.5064,2,late
+71452,2020-NC-general-0,2020,east carolina university,16,3.288,9.0357,1,late
+71463,2020-NC-general-0,2020,ipsos,14,1.8266,16.1186,1,late
+71522,2020-NC-general-0,2020,change research,15,8.0766,19.9155,1,late
+71643,2020-NC-general-0,2020,morning consult,14,8.4933,5.8097,1,late
+71662,2020-NC-general-0,2020,rasmussen,13,1.8266,13.8889,1,late
+71746,2020-NC-general-0,2020,meredith college,15,8.0843,16.6966,1,late
+71752,2020-NC-general-0,2020,data for progress,16,6.3721,12.2068,1,late
+71889,2020-NC-general-0,2020,yougov,11,8.3483,10.5903,1,late
+71891,2020-NC-general-0,2020,trafalgar group,12,-0.0602,9.5432,1,late
+72054,2020-NC-general-0,2020,rmg research,8,9.5189,13.655,1,late
+72057,2020-NC-general-0,2020,ppp,7,5.1233,11.7151,1,late
+72059,2020-NC-general-0,2020,ipsos,7,2.8792,16.2676,1,late
+72061,2020-NC-general-0,2020,surveyusa,8,5.0524,17.1316,1,late
+72139,2020-NC-general-0,2020,harper polling,9,5.1974,22.2682,1,late
+72153,2020-NC-general-0,2020,gravis marketing (2020 and earlier),7,4.0488,18.0873,1,late
+72183,2020-NC-general-0,2020,citizen data,14,8.5771,10.98,1,late
+72207,2020-NC-general-0,2020,u. massachusetts - lowell,8,6.0819,11.6565,1,late
+72215,2020-NC-general-0,2020,siena/nyt,7,5.1974,10.8541,1,late
+72303,2020-NC-general-0,2020,swayable,8,1.2266,27.5472,1,late
+72321,2020-NC-general-0,2020,cardinal point analytics (cardinalgps),6,-4.2393,15.3487,1,late
+72326,2020-NC-general-0,2020,rasmussen,5,5.1233,13.7213,1,late
+72331,2020-NC-general-0,2020,marist college,6,12.2433,11.3509,2,late
+72332,2020-NC-general-0,2020,east carolina university,6,3.4521,9.567,1,late
+72397,2020-NC-general-0,2020,meeting street insights,7,6.271,18.4819,1,late
+72418,2020-NC-general-0,2020,cnn/ssrs,4,4.6113,12.1848,2,late
+72515,2020-NC-general-0,2020,emerson,3,5.1053,11.9706,1,late
+72581,2020-NC-general-0,2020,data for progress,2,6.9812,11.3237,1,late
+72610,2020-NC-general-0,2020,morning consult,3,7.2771,5.5956,1,late
+72635,2020-NC-general-0,2020,frederick polls llc,3,5.9933,15.3825,1,late
+72659,2020-NC-general-0,2020,ipsos,2,3.9543,15.0403,1,late
+72729,2020-NC-general-0,2020,change research,2,5.9933,21.9843,1,late
+72770,2020-NC-general-0,2020,swayable,1,8.2266,16.0889,1,late
+71675,2020-NE-general-0,2020,cygnal,13,-2.1191,19.4206,1,late
+65887,2020-NJ-general-0,2020,monmouth,198,9.8216,33.7253,1,early
+68512,2020-NJ-general-0,2020,emerson,57,13.7427,22.9571,1,mid
+71176,2020-NJ-general-0,2020,stockton university,21,11.7295,14.4618,1,late
+72205,2020-NJ-general-0,2020,rutgers-eagleton,10,15.9813,10.736,2,late
+72304,2020-NJ-general-0,2020,swayable,8,5.3849,26.2149,1,late
+72626,2020-NJ-general-0,2020,research co.,2,9.8216,23.7576,1,late
+66817,2020-NM-general-0,2020,ppp,143,10.8019,15.9995,1,mid
+68491,2020-NM-general-0,2020,research & polling,62,3.8411,9.903,1,mid
+70593,2020-NM-general-0,2020,ppp,33,4.5983,12.1232,1,mid
+71528,2020-NM-general-0,2020,gbao,17,5.3129,17.3158,2,late
+72400,2020-NM-general-0,2020,research & polling,5,2.0621,8.7664,1,late
+64801,2020-OK-general-0,2020,amber integrated,240,1.9796,20.7433,1,early
+67940,2020-OK-general-0,2020,dfm research,96,12.4774,20.0574,1,mid
+68569,2020-OK-general-0,2020,soonerpoll.com,56,4.333,21.1484,1,mid
+69956,2020-OK-general-0,2020,amber integrated,44,10.4724,25.1494,1,mid
+71629,2020-OK-general-0,2020,soonerpoll.com,14,10.6247,1.8752,1,late
+70076,2020-OR-general-0,2020,civiqs,35,3.9475,11.189,1,mid
+58465,2020-SC-general-0,2020,change research,508,-9.1244,4.7817,1,early
+58955,2020-SC-general-0,2020,wpai,601,-16.0209,21.3818,1,early
+59753,2020-SC-general-0,2020,change research,409,2.889,13.216,1,early
+62561,2020-SC-general-0,2020,benchmark research,379,-17.295,24.7178,1,early
+63091,2020-SC-general-0,2020,change research,328,8.2419,10.8862,1,early
+63470,2020-SC-general-0,2020,east carolina university,275,-4.1909,6.2621,1,early
+64515,2020-SC-general-0,2020,marist college,256,-8.2655,4.4524,1,early
+64979,2020-SC-general-0,2020,brilliant corners research & strategies,237,5.9714,13.7925,1,early
+66546,2020-SC-general-0,2020,civiqs,161,10.4158,20.1434,1,mid
+67578,2020-SC-general-0,2020,gravis marketing (2020 and earlier),109,2.5507,18.4875,1,mid
+67684,2020-SC-general-0,2020,anzalone liszt grove,106,6.1605,17.9679,1,mid
+67881,2020-SC-general-0,2020,morning consult,93,9.2664,15.5098,1,mid
+67951,2020-SC-general-0,2020,quinnipiac,92,10.4158,12.4329,1,mid
+68008,2020-SC-general-0,2020,ppp,95,7.1191,9.8273,1,mid
+69491,2020-SC-general-0,2020,quinnipiac,50,10.4158,10.7499,1,mid
+69637,2020-SC-general-0,2020,morning consult,44,9.3169,14.3818,1,mid
+69993,2020-SC-general-0,2020,yougov,39,9.2922,10.4023,1,mid
+69997,2020-SC-general-0,2020,brilliant corners research & strategies,40,12.6886,18.6805,1,mid
+70070,2020-SC-general-0,2020,quinnipiac,37,10.4158,9.2757,1,mid
+70082,2020-SC-general-0,2020,data for progress,36,9.3164,13.341,2,mid
+70670,2020-SC-general-0,2020,gbao,36,11.4685,13.1564,1,mid
+70761,2020-SC-general-0,2020,morning consult,23,3.7492,12.25,1,late
+70769,2020-SC-general-0,2020,morning consult,47,11.1783,14.1308,1,mid
+70790,2020-SC-general-0,2020,anzalone liszt grove,29,10.4158,10.7513,1,late
+71011,2020-SC-general-0,2020,data for progress,23,11.4911,13.4225,1,late
+71096,2020-SC-general-0,2020,siena/nyt,20,3.4391,19.1261,1,late
+71233,2020-SC-general-0,2020,brilliant corners research & strategies,18,12.5897,20.6941,1,late
+71646,2020-SC-general-0,2020,morning consult,14,12.5897,11.7326,1,late
+72032,2020-SC-general-0,2020,starboard communications,8,0.4582,13.1102,1,late
+72071,2020-SC-general-0,2020,data for progress,7,10.4158,9.0883,1,late
+72157,2020-SC-general-0,2020,east carolina university,9,8.5134,13.5457,1,late
+72613,2020-SC-general-0,2020,morning consult,3,7.9876,12.2025,1,late
+72724,2020-SC-general-0,2020,data for progress,2,7.2579,11.9498,1,late
+72785,2020-SC-general-0,2020,swayable,2,16.4424,24.4649,1,late
+72864,2020-SC-general-0,2020,øptimus,1,-0.1673,13.3144,1,late
+72794,2020-SD-general-0,2020,nielson brothers,6,13.5758,21.2719,1,late
+71749,2020-TN-general-0,2020,cygnal,12,5.2459,16.9333,1,late
+72786,2020-TN-general-0,2020,swayable,2,6.3703,22.1393,1,late
+57962,2020-TX-general-0,2020,emerson,555,-31.8294,25.5218,1,early
+62992,2020-TX-general-0,2020,beacon research,348,-9.0199,21.6803,1,early
+64640,2020-TX-general-0,2020,marist college,250,1.0102,4.5759,1,early
+66043,2020-TX-general-0,2020,university of texas at tyler,190,-11.4124,13.2281,1,early
+66919,2020-TX-general-0,2020,beacon/shaw,133,-2.2961,12.0018,1,mid
+66979,2020-TX-general-0,2020,ppp,131,0.8081,17.6676,1,mid
+67054,2020-TX-general-0,2020,university of texas at tyler,119,-7.9861,8.0892,2,mid
+67057,2020-TX-general-0,2020,yougov,116,-0.101,10.4962,1,mid
+67617,2020-TX-general-0,2020,quinnipiac,106,-0.6892,13.2191,1,mid
+67629,2020-TX-general-0,2020,spry strategies,106,-2.1066,15.5131,1,mid
+67882,2020-TX-general-0,2020,morning consult,93,2.582,4.7088,1,mid
+67883,2020-TX-general-0,2020,global strategy group/latino decisions,97,8.7226,16.8044,1,mid
+68082,2020-TX-general-0,2020,yougov,82,1.3416,14.3445,1,mid
+68480,2020-TX-general-0,2020,data for progress,70,2.9223,5.042,1,mid
+68492,2020-TX-general-0,2020,university of texas at tyler,62,-6.9306,15.172,2,mid
+68513,2020-TX-general-0,2020,ppp,62,5.1371,15.9862,1,mid
+69565,2020-TX-general-0,2020,yougov,46,4.1519,10.1473,1,mid
+69578,2020-TX-general-0,2020,the tyson group,70,7.5735,12.8274,1,mid
+69642,2020-TX-general-0,2020,morning consult,44,2.7562,4.5275,1,mid
+69711,2020-TX-general-0,2020,siena/nyt,42,2.399,19.0347,1,mid
+69955,2020-TX-general-0,2020,quinnipiac,43,1.2034,10.0068,1,mid
+69975,2020-TX-general-0,2020,data for progress,42,7.3349,17.6475,1,mid
+70046,2020-TX-general-0,2020,u. massachusetts - lowell,39,-1.2121,12.4421,1,mid
+70630,2020-TX-general-0,2020,civiqs,28,8.8238,12.0128,1,late
+70658,2020-TX-general-0,2020,data for progress,29,6.4508,5.8905,1,late
+70682,2020-TX-general-0,2020,crosswind media & public relations,28,-0.4458,11.3712,1,late
+70694,2020-TX-general-0,2020,u. texas,30,1.2034,11.8804,1,late
+70762,2020-TX-general-0,2020,morning consult,23,-0.6892,3.3669,1,late
+70770,2020-TX-general-0,2020,morning consult,47,2.1053,4.6644,1,mid
+71169,2020-TX-general-0,2020,ppp,19,6.7411,14.7694,1,late
+71437,2020-TX-general-0,2020,data for progress,16,6.3696,12.5938,1,late
+71458,2020-TX-general-0,2020,cygnal,15,0.8689,18.4289,1,late
+71556,2020-TX-general-0,2020,quinnipiac,15,3.3773,9.4527,1,late
+71647,2020-TX-general-0,2020,morning consult,14,4.1519,3.4229,1,late
+71884,2020-TX-general-0,2020,university of texas at tyler,14,-0.9197,13.811,2,late
+71955,2020-TX-general-0,2020,u. houston,14,1.8327,10.9778,1,late
+71957,2020-TX-general-0,2020,data for progress,9,7.7714,10.4455,1,late
+71967,2020-TX-general-0,2020,siena/nyt,9,-1.7289,14.3026,1,late
+72149,2020-TX-general-0,2020,univision/university of houston/latino decisions/north star opinion research,9,4.0167,15.467,1,late
+72186,2020-TX-general-0,2020,citizen data,14,9.6535,12.2789,1,late
+72206,2020-TX-general-0,2020,u. massachusetts - lowell,8,4.5227,12.2813,1,late
+72229,2020-TX-general-0,2020,rmg research,6,3.2324,13.8272,1,late
+72308,2020-TX-general-0,2020,swayable,8,5.099,20.2784,1,late
+72498,2020-TX-general-0,2020,gravis marketing (2020 and earlier),6,3.3773,16.1542,1,late
+72518,2020-TX-general-0,2020,emerson,3,5.8174,13.3514,1,late
+72583,2020-TX-general-0,2020,data for progress,2,6.8063,11.1225,1,late
+72614,2020-TX-general-0,2020,morning consult,3,5.1905,3.4239,1,late
+72774,2020-TX-general-0,2020,swayable,1,-3.101,9.4347,1,late
+68212,2020-VA-general-0,2020,roanoke college,73,11.4997,18.7463,1,mid
+69467,2020-VA-general-0,2020,virginia commonwealth u.,57,6.1837,14.9977,1,mid
+69713,2020-VA-general-0,2020,christopher newport u.,43,2.1899,13.5235,1,mid
+71068,2020-VA-general-0,2020,civiqs,20,-0.7556,8.267,1,late
+71071,2020-VA-general-0,2020,reconnect research/roanoke college,22,6.1837,17.2648,1,late
+71359,2020-VA-general-0,2020,cygnal,23,-4.6613,17.1554,1,late
+71360,2020-VA-general-0,2020,cygnal,39,-1.8784,17.9268,1,mid
+71659,2020-VA-general-0,2020,washington post/george mason university,15,6.6542,11.0688,1,late
+72078,2020-VA-general-0,2020,christopher newport u.,7,9.1808,11.1858,1,late
+72189,2020-VA-general-0,2020,virginia commonwealth u.,12,6.1837,14.6592,1,late
+72309,2020-VA-general-0,2020,swayable,8,7.3042,28.9869,1,late
+72402,2020-VA-general-0,2020,roanoke college,5,4.9254,12.8804,1,late
+72590,2020-VA-general-0,2020,data for progress,2,3.0557,14.3031,1,late
+72775,2020-VA-general-0,2020,swayable,2,9.3042,33.7175,1,late
+70703,2020-WV-general-0,2020,research america,28,21.2363,24.4423,1,late
+72935,2021-GA-runoff-0,2020,remington,57,-5.3998,7.1714,1,mid
+73121,2021-GA-runoff-0,2020,insideradvantage,50,-1.2331,12.7551,1,mid
+73446,2021-GA-runoff-0,2020,surveyusa,36,0.8077,17.4954,1,mid
+73492,2021-GA-runoff-0,2020,rmg research,42,-0.1805,7.6435,1,mid
+73495,2021-GA-runoff-0,2020,trafalgar group,33,-0.4986,9.6885,1,mid
+73525,2021-GA-runoff-0,2020,data for progress,46,-3.2739,6.9105,1,mid
+73672,2021-GA-runoff-0,2020,fabrizio ward/hart research associates,32,0.8946,8.5068,1,mid
+73702,2021-GA-runoff-0,2020,trafalgar group,26,-0.9267,10.0338,1,late
+73789,2021-GA-runoff-0,2020,insideradvantage,22,-2.4728,20.658,1,late
+73801,2021-GA-runoff-0,2020,emerson,20,-3.2331,16.5223,1,late
+73831,2021-GA-runoff-0,2020,wick,22,-5.4382,6.8255,1,late
+73835,2021-GA-runoff-0,2020,trafalgar group,20,-3.9967,9.6124,1,late
+73838,2021-GA-runoff-0,2020,rmg research,22,0.8502,7.348,1,late
+73860,2021-GA-runoff-0,2020,surveyusa,16,3.9215,17.1365,1,late
+73886,2021-GA-runoff-0,2020,insideradvantage,14,-3.1939,20.6319,1,late
+73888,2021-GA-runoff-0,2020,reconnect research/probolsky research,14,-2.4096,11.4538,1,late
+73898,2021-GA-runoff-0,2020,open model project,9,-5.334,7.4716,1,late
+73906,2021-GA-runoff-0,2020,trafalgar group,9,1.5192,9.9667,1,late
+73908,2021-GA-runoff-0,2020,jmc analytics,7,6.9302,20.2722,1,late
+73955,2021-GA-runoff-0,2020,mellman,14,1.8597,17.8191,1,late
+73956,2021-GA-runoff-0,2020,gravis marketing (2020 and earlier),6,1.8597,10.1874,1,late
+73957,2021-GA-runoff-0,2020,atlasintel,4,3.1413,6.0437,1,late
+73958,2021-GA-runoff-0,2020,university of nevada las vegas lee business school,2,-2.3706,18.7999,1,late
+73959,2021-GA-runoff-0,2020,targoz market research,2,0.8077,10.8081,2,late
+73991,2021-GA-runoff-0,2020,national research,2,-0.1342,21.9754,1,late
+73992,2021-GA-runoff-0,2020,insideradvantage,2,-1.3359,20.555,1,late
+73993,2021-GA-runoff-0,2020,atlasintel,1,3.3541,11.8696,1,late
+74006,2021-GA-runoff-0,2020,trafalgar group,1,-0.3138,9.672,1,late
+66312,2021-GA-runoff-1,2020,civiqs,232,14.7954,9.4226,1,early
+66933,2021-GA-runoff-1,2020,ppp,193,1.5268,16.393,1,early
+67060,2021-GA-runoff-1,2020,gravis marketing (2020 and earlier),187,-15.0289,22.5491,1,early
+70049,2021-GA-runoff-1,2020,civiqs,98,9.2759,11.5757,1,mid
+71000,2021-GA-runoff-1,2020,quinnipiac,85,6.2456,8.9175,1,mid
+71010,2021-GA-runoff-1,2020,data for progress,86,2.6742,15.189,1,mid
+71435,2021-GA-runoff-1,2020,emerson,78,3.4616,22.3126,1,mid
+71454,2021-GA-runoff-1,2020,siena/nyt,78,2.5635,15.2869,1,mid
+72040,2021-GA-runoff-1,2020,civiqs,71,13.8214,10.6398,1,mid
+72146,2021-GA-runoff-1,2020,monmouth,70,5.4817,21.2295,2,mid
+72935,2021-GA-runoff-1,2020,remington,57,-3.1186,7.1091,1,mid
+73121,2021-GA-runoff-1,2020,insideradvantage,50,-1.0568,12.8852,1,mid
+73164,2021-GA-runoff-1,2020,vcreek/amg,56,-6.1887,34.9919,1,mid
+73446,2021-GA-runoff-1,2020,surveyusa,36,5.1288,17.5911,1,mid
+73492,2021-GA-runoff-1,2020,rmg research,42,0.04,7.7222,1,mid
+73495,2021-GA-runoff-1,2020,trafalgar group,33,-7.2186,9.6432,1,mid
+73525,2021-GA-runoff-1,2020,data for progress,46,1.0051,6.9779,1,mid
+73672,2021-GA-runoff-1,2020,fabrizio ward/hart research associates,32,-1.0124,8.6012,1,mid
+73702,2021-GA-runoff-1,2020,trafalgar group,26,-5.2607,10.0443,1,late
+73789,2021-GA-runoff-1,2020,insideradvantage,22,-3.3223,20.573,1,late
+73801,2021-GA-runoff-1,2020,emerson,20,-4.4877,16.5194,1,late
+73831,2021-GA-runoff-1,2020,wick,22,-4.6413,6.8052,1,late
+73835,2021-GA-runoff-1,2020,trafalgar group,20,-8.9454,9.5745,1,late
+73838,2021-GA-runoff-1,2020,rmg research,22,-1.0568,7.2747,1,late
+73860,2021-GA-runoff-1,2020,surveyusa,16,5.1288,17.0926,1,late
+73886,2021-GA-runoff-1,2020,insideradvantage,14,-0.8351,20.8736,1,late
+73888,2021-GA-runoff-1,2020,reconnect research/probolsky research,14,-0.9112,11.4538,1,late
+73898,2021-GA-runoff-1,2020,open model project,9,-6.3364,7.3623,1,late
+73906,2021-GA-runoff-1,2020,trafalgar group,9,-1.2747,9.9432,1,late
+73908,2021-GA-runoff-1,2020,jmc analytics,7,7.0032,20.0351,1,late
+73955,2021-GA-runoff-1,2020,mellman,14,1.0051,17.8191,1,late
+73956,2021-GA-runoff-1,2020,gravis marketing (2020 and earlier),6,-0.0044,10.2989,1,late
+73957,2021-GA-runoff-1,2020,atlasintel,4,2.198,6.0627,1,late
+73958,2021-GA-runoff-1,2020,university of nevada las vegas lee business school,2,-3.0223,18.8787,1,late
+73959,2021-GA-runoff-1,2020,targoz market research,2,-0.5722,10.8504,2,late
+73991,2021-GA-runoff-1,2020,national research,2,-0.9888,21.9754,1,late
+73992,2021-GA-runoff-1,2020,insideradvantage,2,-2.5984,20.4285,1,late
+73993,2021-GA-runoff-1,2020,atlasintel,1,1.9041,11.9243,1,late
+74006,2021-GA-runoff-1,2020,trafalgar group,1,-3.4129,9.6514,1,late
+81391,2022-AL-general-0,2022,cygnal,10,1.6648,16.8398,1,late
+80677,2022-AR-general-0,2022,hendrix college,57,18.2153,15.6844,1,mid
+81163,2022-AR-general-0,2022,hendrix college,21,11.9734,11.5297,1,late
+81501,2022-AR-general-0,2022,u. of arkansas,8,-0.038,19.4648,1,late
+76546,2022-AZ-general-0,2022,oh predictive insights/mbqf,422,6.4003,14.1655,1,early
+78994,2022-AZ-general-0,2022,blueprint polling,176,15.1562,19.5052,1,mid
+79288,2022-AZ-general-0,2022,change research,134,5.3527,16.1294,1,mid
+79520,2022-AZ-general-0,2022,beacon research,111,10.7107,18.093,2,mid
+79609,2022-AZ-general-0,2022,onmessage inc.,98,0.3842,17.8693,1,mid
+79619,2022-AZ-general-0,2022,fabrizio,117,0.3842,13.402,1,mid
+79650,2022-AZ-general-0,2022,center street pac,92,12.0127,14.6981,3,mid
+79779,2022-AZ-general-0,2022,beacon/shaw,84,3.7035,10.6595,1,mid
+79872,2022-AZ-general-0,2022,trafalgar group,73,-1.4013,10.1186,1,mid
+79878,2022-AZ-general-0,2022,rmg research,78,2.5347,14.2557,1,mid
+80568,2022-AZ-general-0,2022,insideradvantage,62,2.1507,21.5346,1,mid
+80570,2022-AZ-general-0,2022,emerson,62,-3.1383,17.3866,1,mid
+80600,2022-AZ-general-0,2022,echelon insights,62,11.8618,14.1226,1,mid
+80641,2022-AZ-general-0,2022,center street pac,60,18.4719,15.0629,2,mid
+80676,2022-AZ-general-0,2022,trafalgar group,52,-3.6878,10.0627,1,mid
+80714,2022-AZ-general-0,2022,oh predictive insights/mbqf,60,9.642,18.2476,1,mid
+80750,2022-AZ-general-0,2022,fabrizio/impact,54,2.9639,21.043,2,mid
+80755,2022-AZ-general-0,2022,data for progress,50,-3.9395,13.7046,1,mid
+80825,2022-AZ-general-0,2022,suffolk,44,2.464,21.8079,1,mid
+80833,2022-AZ-general-0,2022,marist college,47,5.8774,8.5247,1,mid
+80873,2022-AZ-general-0,2022,beacon/shaw,43,1.9846,11.4795,1,mid
+80933,2022-AZ-general-0,2022,yougov,35,-1.9618,8.6923,1,mid
+80960,2022-AZ-general-0,2022,cnn/ssrs,37,3.4521,12.369,2,mid
+80994,2022-AZ-general-0,2022,oh predictive insights/mbqf,33,11.4635,18.2722,1,mid
+81027,2022-AZ-general-0,2022,center street pac,30,16.9383,15.5091,2,late
+81050,2022-AZ-general-0,2022,insideradvantage,28,0.0307,20.7031,1,late
+81057,2022-AZ-general-0,2022,onmessage inc.,58,6.119,27.4348,1,mid
+81058,2022-AZ-general-0,2022,onmessage inc.,29,-1.6214,18.7053,1,late
+81092,2022-AZ-general-0,2022,highground,26,-1.5775,24.3618,1,late
+81121,2022-AZ-general-0,2022,trafalgar group,22,-3.926,9.8885,1,late
+81188,2022-AZ-general-0,2022,co/efficient,18,-3.0228,9.844,1,late
+81192,2022-AZ-general-0,2022,wick,26,-2.3689,10.486,1,late
+81229,2022-AZ-general-0,2022,susquehanna,21,-1.5214,18.0549,1,late
+81269,2022-AZ-general-0,2022,data for progress,22,-4.9921,11.913,1,late
+81280,2022-AZ-general-0,2022,insideradvantage,14,-2.7194,20.6505,1,late
+81354,2022-AZ-general-0,2022,siena/nyt,13,1.2579,17.1788,1,late
+81359,2022-AZ-general-0,2022,oh predictive insights/mbqf,13,-2.8645,17.7225,1,late
+81365,2022-AZ-general-0,2022,fabrizio,13,-4.4545,13.0972,2,late
+81366,2022-AZ-general-0,2022,wick,9,-2.5988,9.269,1,late
+81379,2022-AZ-general-0,2022,ascend action,29,-0.6443,11.3721,1,late
+81381,2022-AZ-general-0,2022,hart research associates,26,-0.5477,22.09,1,late
+81386,2022-AZ-general-0,2022,center street pac,9,10.0079,14.4381,2,late
+81401,2022-AZ-general-0,2022,phillips academy,9,-4.3525,10.8229,1,late
+81411,2022-AZ-general-0,2022,bsp research/shaw & company,13,-0.3889,14.2267,2,late
+81429,2022-AZ-general-0,2022,beacon/shaw,9,-2.8182,10.8319,1,late
+81455,2022-AZ-general-0,2022,civiqs,6,-4.9921,11.9766,1,late
+81490,2022-AZ-general-0,2022,remington,6,-3.9395,9.7908,1,late
+81499,2022-AZ-general-0,2022,highground,6,-3.4604,21.8767,1,late
+81502,2022-AZ-general-0,2022,insideradvantage,6,-4.9921,18.9394,1,late
+81508,2022-AZ-general-0,2022,marist college,6,-0.7368,9.1781,1,late
+81521,2022-AZ-general-0,2022,emerson,7,-5.4097,10.4382,1,late
+81531,2022-AZ-general-0,2022,kaconsulting llc,5,-3.9169,21.46,1,late
+81545,2022-AZ-general-0,2022,patriot polling,6,-4.2668,12.7299,1,late
+81581,2022-AZ-general-0,2022,research co.,2,-0.9105,22.638,1,late
+81596,2022-AZ-general-0,2022,data orbital,2,-3.197,19.1932,1,late
+81618,2022-AZ-general-0,2022,data for progress,2,-6.0022,7.4319,1,late
+81626,2022-AZ-general-0,2022,targoz market research,2,-1.7604,16.1324,2,late
+81629,2022-AZ-general-0,2022,trafalgar group,1,-6.5728,9.6296,1,late
+79181,2022-CO-general-0,2022,global strategy group,153,0.2469,28.7238,1,mid
+79727,2022-CO-general-0,2022,mclaughlin,105,-6.327,22.4778,1,mid
+79825,2022-CO-general-0,2022,trafalgar group,81,-8.5304,10.2928,1,mid
+79890,2022-CO-general-0,2022,ppp,69,-1.467,15.4962,1,mid
+79895,2022-CO-general-0,2022,tarrance,75,-13.9946,17.5419,1,mid
+80745,2022-CO-general-0,2022,emerson,50,-3.2536,12.1141,1,mid
+80832,2022-CO-general-0,2022,trafalgar group,45,-8.4683,10.1275,1,mid
+80893,2022-CO-general-0,2022,keating research/magellan strategies,43,-2.8521,11.3337,1,mid
+80967,2022-CO-general-0,2022,data for progress,33,-5.1571,10.8274,1,mid
+80993,2022-CO-general-0,2022,marist college,33,-7.1821,9.9081,1,mid
+81011,2022-CO-general-0,2022,onmessage inc.,42,-13.9483,18.3128,1,mid
+81122,2022-CO-general-0,2022,global strategy group,28,-1.3204,13.6779,4,late
+81155,2022-CO-general-0,2022,civiqs,21,-1.363,17.2153,1,late
+81318,2022-CO-general-0,2022,co/efficient,14,3.3395,13.8757,1,late
+81404,2022-CO-general-0,2022,emerson,10,-6.4939,10.4824,1,late
+81439,2022-CO-general-0,2022,yougov,20,-0.7615,14.0985,1,late
+81463,2022-CO-general-0,2022,trafalgar group,7,-13.4464,9.8428,1,late
+81615,2022-CO-general-0,2022,data for progress,3,-7.6788,5.2795,1,late
+81620,2022-CO-general-0,2022,co/efficient,1,-6.5366,12.3379,1,late
+75004,2022-FL-general-0,2022,the political matrix/the listener group,499,-4.2124,14.049,1,early
+75617,2022-FL-general-0,2022,st. pete polls,448,14.4645,5.131,1,early
+75620,2022-FL-general-0,2022,susquehanna,455,4.228,15.8062,1,early
+75710,2022-FL-general-0,2022,the political matrix/the listener group,447,6.7876,9.904,1,early
+75728,2022-FL-general-0,2022,change research,448,13.2909,6.9256,1,early
+75907,2022-FL-general-0,2022,redfield & wilton strategies,441,2.617,11.8932,2,early
+76584,2022-FL-general-0,2022,vcreek/amg,407,11.5876,30.787,1,early
+77182,2022-FL-general-0,2022,saint leo u.,381,-7.5503,24.9797,1,early
+77820,2022-FL-general-0,2022,st. pete polls,354,9.5572,3.6054,1,early
+77892,2022-FL-general-0,2022,redfield & wilton strategies,364,1.7525,15.1303,2,early
+78368,2022-FL-general-0,2022,suffolk,283,8.5876,22.08,1,early
+78436,2022-FL-general-0,2022,mason-dixon,271,8.8953,17.4784,1,early
+78484,2022-FL-general-0,2022,u. north florida,261,1.5876,17.8376,1,early
+78684,2022-FL-general-0,2022,saint leo u.,241,-7.7218,25.9919,1,early
+78934,2022-FL-general-0,2022,phillips academy,183,19.4447,26.2874,1,early
+79062,2022-FL-general-0,2022,ppp,165,9.7694,17.2684,1,mid
+79353,2022-FL-general-0,2022,center street pac,122,6.3851,17.4249,3,mid
+79365,2022-FL-general-0,2022,center street pac,249,-8.998,16.3521,3,early
+79626,2022-FL-general-0,2022,clarity,100,16.5876,4.9515,1,mid
+79716,2022-FL-general-0,2022,change research,95,16.5876,10.5427,1,mid
+79742,2022-FL-general-0,2022,u. north florida,88,20.9354,7.0724,1,mid
+79746,2022-FL-general-0,2022,center street pac,86,6.5559,14.5563,2,mid
+79858,2022-FL-general-0,2022,impact research,82,13.4297,13.1448,1,mid
+79910,2022-FL-general-0,2022,clarity,70,15.4887,3.6419,1,mid
+79967,2022-FL-general-0,2022,fabrizio/impact,69,14.5043,20.8243,1,mid
+79968,2022-FL-general-0,2022,susquehanna,66,13.2909,21.9541,1,mid
+80562,2022-FL-general-0,2022,insideradvantage,63,14.3654,20.192,1,mid
+80601,2022-FL-general-0,2022,echelon insights,62,6.6975,13.3516,1,mid
+80639,2022-FL-general-0,2022,center street pac,59,9.4106,14.273,2,mid
+80671,2022-FL-general-0,2022,sachs media,59,13.4297,17.5264,1,mid
+80672,2022-FL-general-0,2022,sachs media,80,14.3149,18.9296,1,mid
+80715,2022-FL-general-0,2022,suffolk,51,11.958,23.0985,1,mid
+80732,2022-FL-general-0,2022,civiqs,49,14.5043,16.8754,1,mid
+80838,2022-FL-general-0,2022,activote,44,10.3376,49.4094,1,mid
+80895,2022-FL-general-0,2022,siena,44,8.7224,16.6913,1,mid
+80903,2022-FL-general-0,2022,clarity,42,16.5876,3.8005,1,mid
+80915,2022-FL-general-0,2022,mason-dixon,41,9.7694,14.1385,1,mid
+81160,2022-FL-general-0,2022,rmg research,26,11.3244,15.3243,1,late
+81166,2022-FL-general-0,2022,florida atlantic university,23,10.2331,15.4426,1,late
+81262,2022-FL-general-0,2022,u. north florida,15,5.2474,16.3613,1,late
+81270,2022-FL-general-0,2022,data for progress,16,9.2192,8.3686,1,late
+81306,2022-FL-general-0,2022,stetson university center for public opinion research,19,9.3711,15.9248,1,late
+81449,2022-FL-general-0,2022,african american research collaborative,28,14.1486,9.7503,1,late
+81450,2022-FL-general-0,2022,insideradvantage,7,10.3376,18.8654,1,late
+81453,2022-FL-general-0,2022,civiqs,6,9.3711,13.2844,1,late
+81460,2022-FL-general-0,2022,victory insights,7,12.3947,20.9275,1,late
+81513,2022-FL-general-0,2022,siena,7,8.077,16.0262,1,late
+81530,2022-FL-general-0,2022,yougov,8,9.2192,9.3726,1,late
+81546,2022-FL-general-0,2022,amber integrated,6,6.4752,18.5351,1,late
+81583,2022-FL-general-0,2022,research co.,2,6.3835,22.4396,1,late
+81613,2022-FL-general-0,2022,data for progress,2,4.3427,6.9994,1,late
+89464,2022-FL-general-0,2022,sachs media,505,8.3523,17.9768,1,early
+89465,2022-FL-general-0,2022,sachs media,371,14.5876,19.7941,1,early
+89466,2022-FL-general-0,2022,sachs media,16,11.0931,21.9117,1,late
+74487,2022-GA-general-0,2022,trafalgar group/insideradvantage,609,-3.3379,9.8112,1,early
+75459,2022-GA-general-0,2022,ppp,460,1.1502,17.0956,1,early
+77893,2022-GA-general-0,2022,redfield & wilton strategies,364,5.9274,16.5336,2,early
+78126,2022-GA-general-0,2022,nrsc,335,-2.0083,12.4046,1,early
+78339,2022-GA-general-0,2022,quinnipiac,288,-2.0083,6.0565,1,early
+78346,2022-GA-general-0,2022,u. georgia spia,288,-4.8363,12.6249,1,early
+78497,2022-GA-general-0,2022,wick,275,-1.9546,8.4161,1,early
+78550,2022-GA-general-0,2022,blueprint polling,245,-4.2788,16.0695,1,early
+78722,2022-GA-general-0,2022,emerson,219,-5.1132,10.4505,1,early
+78828,2022-GA-general-0,2022,grassroots targeting,206,-12.2328,4.2742,1,early
+78858,2022-GA-general-0,2022,surveyusa,195,4.2857,8.2137,1,early
+79159,2022-GA-general-0,2022,east carolina university,152,-0.1264,12.2552,1,mid
+79266,2022-GA-general-0,2022,quinnipiac,134,9.2267,6.7454,1,mid
+79271,2022-GA-general-0,2022,moore information,145,-0.9774,13.2979,1,mid
+79289,2022-GA-general-0,2022,change research,134,3.3704,15.4105,1,mid
+79330,2022-GA-general-0,2022,data for progress,125,-3.0607,9.2061,1,mid
+79374,2022-GA-general-0,2022,fabrizio/impact,120,2.1154,20.5988,1,mid
+79472,2022-GA-general-0,2022,u. georgia spia,109,3.0858,12.4923,1,mid
+79489,2022-GA-general-0,2022,surveyusa,107,9.3674,18.8266,1,mid
+79511,2022-GA-general-0,2022,beacon/shaw,105,3.568,12.5862,1,mid
+79516,2022-GA-general-0,2022,pem management corporation,107,-6.2047,37.7753,1,mid
+79521,2022-GA-general-0,2022,beacon research,111,8.9127,14.913,2,mid
+79527,2022-GA-general-0,2022,insideradvantage,104,2.2484,14.322,1,mid
+79646,2022-GA-general-0,2022,research affiliates,99,2.1805,25.0377,1,mid
+79731,2022-GA-general-0,2022,phillips academy,93,-2.7792,11.5938,1,mid
+79879,2022-GA-general-0,2022,emerson,71,-2.8769,18.6153,1,mid
+79881,2022-GA-general-0,2022,trafalgar group,73,-1.8267,9.8378,1,mid
+80563,2022-GA-general-0,2022,insideradvantage,62,-4.2741,19.9583,1,mid
+80602,2022-GA-general-0,2022,echelon insights,62,10.1337,14.6124,1,mid
+80631,2022-GA-general-0,2022,quinnipiac,57,5.145,7.9545,1,mid
+80640,2022-GA-general-0,2022,center street pac,57,8.6215,15.7169,2,mid
+80691,2022-GA-general-0,2022,u. georgia spia,53,-2.7552,12.9008,1,mid
+80692,2022-GA-general-0,2022,marist college,54,4.6406,9.3182,1,mid
+80718,2022-GA-general-0,2022,yougov,50,1.0226,8.4856,1,mid
+80756,2022-GA-general-0,2022,data for progress,49,-0.9774,10.8047,1,mid
+80852,2022-GA-general-0,2022,beacon/shaw,43,4.7697,11.3316,1,mid
+80942,2022-GA-general-0,2022,insideradvantage,35,2.9873,19.9926,1,mid
+80943,2022-GA-general-0,2022,surveyusa,35,12.6589,10.3646,1,mid
+81008,2022-GA-general-0,2022,emerson,32,1.378,10.7007,1,mid
+81013,2022-GA-general-0,2022,trafalgar group,28,0.6691,10.1236,1,late
+81020,2022-GA-general-0,2022,u. georgia spia,35,2.3633,10.7994,1,mid
+81029,2022-GA-general-0,2022,quinnipiac,29,6.2391,8.8639,1,late
+81030,2022-GA-general-0,2022,moore information,28,-3.1996,13.882,1,late
+81051,2022-GA-general-0,2022,civiqs,28,2.1805,14.6664,1,late
+81107,2022-GA-general-0,2022,insideradvantage,23,2.2556,20.2484,1,late
+81112,2022-GA-general-0,2022,landmark communications,22,-0.8688,21.7155,1,late
+81191,2022-GA-general-0,2022,wick,26,-0.9774,10.6542,1,late
+81200,2022-GA-general-0,2022,data for progress,22,0.0752,10.6963,1,late
+81232,2022-GA-general-0,2022,trafalgar group,16,-3.4931,9.7356,1,late
+81244,2022-GA-general-0,2022,east carolina university,21,1.3335,11.6007,1,late
+81276,2022-GA-general-0,2022,moore information,14,-5.5229,14.1752,1,late
+81284,2022-GA-general-0,2022,co/efficient,14,-4.7302,11.6511,1,late
+81307,2022-GA-general-0,2022,rasmussen,15,-6.4719,10.4044,1,late
+81338,2022-GA-general-0,2022,insideradvantage,12,-3.3481,19.5815,1,late
+81355,2022-GA-general-0,2022,siena/nyt,12,2.3193,18.174,1,late
+81368,2022-GA-general-0,2022,u. georgia spia,12,-1.3082,10.7879,1,late
+81382,2022-GA-general-0,2022,hart research associates,18,2.2484,21.3549,1,late
+81458,2022-GA-general-0,2022,beacon/shaw,9,0.172,11.4698,1,late
+81485,2022-GA-general-0,2022,echelon insights,6,-6.7133,20.8746,2,late
+81488,2022-GA-general-0,2022,emerson,8,0.9793,10.2947,1,late
+81494,2022-GA-general-0,2022,remington,6,-5.2327,9.2339,1,late
+81495,2022-GA-general-0,2022,surveyusa,6,5.5443,9.2428,1,late
+81504,2022-GA-general-0,2022,moore information,6,-6.3538,13.402,1,late
+81509,2022-GA-general-0,2022,marist college,6,3.2779,9.0916,1,late
+81525,2022-GA-general-0,2022,patinkin research strategies,7,3.2779,15.17,1,late
+81547,2022-GA-general-0,2022,amber integrated,6,-4.2032,17.9025,1,late
+81579,2022-GA-general-0,2022,landmark communications,1,-1.4066,8.8381,1,late
+81584,2022-GA-general-0,2022,research co.,2,-0.9774,22.6757,1,late
+81592,2022-GA-general-0,2022,trafalgar group,2,-4.3038,9.4139,1,late
+81594,2022-GA-general-0,2022,east carolina university,3,-0.9774,9.4939,1,late
+81595,2022-GA-general-0,2022,insideradvantage,2,-3.0607,18.9312,1,late
+81619,2022-GA-general-0,2022,data for progress,2,-2.0083,6.9933,1,late
+81625,2022-GA-general-0,2022,targoz market research,2,0.8545,16.0633,2,late
+81778,2022-GA-general-0,2022,atlasintel,1,-3.2637,12.6712,2,late
+81780,2022-GA-general-0,2022,the political matrix/the listener group,1,17.0226,14.0232,1,late
+81698,2022-GA-runoff-0,2022,fabrizio/impact,19,1.2755,20.3742,1,late
+81717,2022-GA-runoff-0,2022,phillips academy,9,-3.6447,12.1594,1,late
+81719,2022-GA-runoff-0,2022,frederick polls llc,10,-2.8061,10.6496,1,late
+81734,2022-GA-runoff-0,2022,emerson,6,-1.2061,11.2584,1,late
+81740,2022-GA-runoff-0,2022,surveyusa,6,0.2867,8.4839,1,late
+81741,2022-GA-runoff-0,2022,cnn/ssrs,7,2.8781,6.9917,2,late
+81754,2022-GA-runoff-0,2022,patriot polling,4,-1.0297,12.7702,1,late
+81756,2022-GA-runoff-0,2022,u. massachusetts - lowell,8,2.3485,7.9091,1,late
+81759,2022-GA-runoff-0,2022,insideradvantage,2,-0.6828,13.4756,1,late
+81760,2022-GA-runoff-0,2022,data for progress,1,-0.8061,8.1334,1,late
+81761,2022-GA-runoff-0,2022,mitchell,2,2.457,16.7955,1,late
+81762,2022-GA-runoff-0,2022,trafalgar group,1,0.9502,9.2247,1,late
+81764,2022-GA-runoff-0,2022,landmark communications,2,2.7551,12.5999,1,late
+78806,2022-IA-general-0,2022,change research,211,8.7486,10.7295,1,early
+79324,2022-IA-general-0,2022,change research,127,6.8205,7.2054,1,mid
+79389,2022-IA-general-0,2022,selzer,118,2.8945,19.3087,1,mid
+79426,2022-IA-general-0,2022,cygnal,117,3.5653,17.4132,1,mid
+80596,2022-IA-general-0,2022,change research,61,7.849,9.4917,1,mid
+80962,2022-IA-general-0,2022,cygnal,35,-3.155,17.3495,1,mid
+80965,2022-IA-general-0,2022,emerson,35,-0.1446,11.844,1,mid
+81033,2022-IA-general-0,2022,change research,41,6.8205,10.9628,1,mid
+81077,2022-IA-general-0,2022,selzer,27,8.8261,18.1019,1,late
+81161,2022-IA-general-0,2022,tarrance,20,0.6179,17.3086,1,late
+81189,2022-IA-general-0,2022,change research,21,8.971,10.6562,1,late
+81281,2022-IA-general-0,2022,civiqs,14,3.8635,16.6041,1,late
+81367,2022-IA-general-0,2022,cygnal,12,0.6026,17.0213,1,late
+81560,2022-IA-general-0,2022,selzer,5,-0.5691,13.0648,1,late
+79437,2022-IL-general-0,2022,victory research,112,-3.4082,10.564,1,mid
+79877,2022-IL-general-0,2022,victory geek,72,9.1468,19.7168,1,mid
+80848,2022-IL-general-0,2022,emerson,46,7.8939,11.7376,1,mid
+81062,2022-IL-general-0,2022,ppp,28,0.6947,14.701,1,late
+81095,2022-IL-general-0,2022,research america,28,10.1001,12.1777,1,late
+81279,2022-IL-general-0,2022,emerson,15,-4.4984,11.1732,1,late
+81282,2022-IL-general-0,2022,civiqs,14,1.0823,15.3677,1,late
+81585,2022-IL-general-0,2022,research co.,2,2.7829,21.9107,1,late
+79892,2022-IN-general-0,2022,change research,76,18.0473,5.4385,1,mid
+80894,2022-IN-general-0,2022,arw strategies,43,18.864,21.9146,1,mid
+81606,2022-IN-general-0,2022,civiqs,1,8.8519,15.9979,1,late
+79748,2022-KS-general-0,2022,battleground connect,90,1.7121,9.398,1,mid
+80603,2022-KS-general-0,2022,echelon insights,62,2.315,27.3568,1,mid
+80717,2022-KS-general-0,2022,emerson,51,8.1021,12.4462,1,mid
+81438,2022-KS-general-0,2022,emerson,10,-1.2215,10.8073,1,late
+78350,2022-KY-general-0,2022,mason-dixon,290,6.5985,16.5281,1,early
+80680,2022-MD-general-0,2022,goucher college,57,-5.9004,14.0181,1,mid
+78909,2022-MO-general-0,2022,remington,194,-8.2986,11.7723,1,early
+78972,2022-MO-general-0,2022,surveyusa,177,-2.3967,8.5182,1,mid
+79856,2022-MO-general-0,2022,yougov,84,1.009,12.5672,1,mid
+79868,2022-MO-general-0,2022,remington,75,1.5647,10.7106,1,mid
+80689,2022-MO-general-0,2022,surveyusa,51,0.3996,17.6665,1,mid
+80872,2022-MO-general-0,2022,emerson,42,0.519,9.7604,1,mid
+81346,2022-MO-general-0,2022,remington,14,3.9752,10.5361,1,late
+81405,2022-MO-general-0,2022,emerson,11,-0.755,10.4508,1,late
+81464,2022-MO-general-0,2022,surveyusa,7,3.7625,13.7567,1,late
+81510,2022-MO-general-0,2022,trafalgar group,7,2.1464,9.566,1,late
+81607,2022-MO-general-0,2022,civiqs,1,-2.1368,13.7586,1,late
+77895,2022-NC-general-0,2022,redfield & wilton strategies,363,1.9814,18.7011,2,early
+78713,2022-NC-general-0,2022,cygnal,222,1.5889,22.2206,1,early
+78714,2022-NC-general-0,2022,emerson,218,-4.0601,10.2807,1,early
+78938,2022-NC-general-0,2022,emerson,183,-4.29,11.0964,1,early
+78957,2022-NC-general-0,2022,global strategy group,188,3.2993,13.8889,1,early
+78978,2022-NC-general-0,2022,meeting street insights,176,2.2004,21.9754,1,mid
+78997,2022-NC-general-0,2022,east carolina university,172,-5.2911,17.2157,1,mid
+79040,2022-NC-general-0,2022,cygnal,170,1.1915,19.5073,1,mid
+79160,2022-NC-general-0,2022,surveyusa,149,8.0612,18.2735,1,mid
+79229,2022-NC-general-0,2022,cygnal,142,-2.2107,19.4796,1,mid
+79297,2022-NC-general-0,2022,trafalgar group,130,0.6024,10.0933,1,mid
+79518,2022-NC-general-0,2022,pem management corporation,107,6.1908,40.1271,1,mid
+79648,2022-NC-general-0,2022,blueprint polling,94,7.8447,17.2868,1,mid
+79775,2022-NC-general-0,2022,cygnal,85,3.2993,19.2201,1,mid
+79891,2022-NC-general-0,2022,ppp,70,4.5041,20.044,1,mid
+79978,2022-NC-general-0,2022,trafalgar group,65,0.2019,10.2422,1,mid
+80617,2022-NC-general-0,2022,east carolina university,59,0.3394,10.3545,1,mid
+80710,2022-NC-general-0,2022,emerson,53,0.5966,11.253,1,mid
+80729,2022-NC-general-0,2022,civiqs,49,4.3302,17.5908,1,mid
+80829,2022-NC-general-0,2022,global strategy group,49,3.2993,13.587,1,mid
+80867,2022-NC-general-0,2022,meredith college,46,2.9347,16.6218,1,mid
+80868,2022-NC-general-0,2022,cygnal,43,3.6413,17.5421,1,mid
+80905,2022-NC-general-0,2022,surveyusa,37,2.1228,17.3753,1,mid
+81015,2022-NC-general-0,2022,ppp,31,2.2004,18.1315,1,mid
+81088,2022-NC-general-0,2022,east carolina university,26,-3.0837,11.7461,1,late
+81145,2022-NC-general-0,2022,trafalgar group,20,-1.2364,9.9694,1,late
+81193,2022-NC-general-0,2022,wick,26,-1.5447,10.6432,1,late
+81254,2022-NC-general-0,2022,cygnal,17,-0.923,18.4855,1,late
+81261,2022-NC-general-0,2022,marist college,19,3.2993,10.0563,1,late
+81409,2022-NC-general-0,2022,meredith college,9,1.9136,15.9463,1,late
+81451,2022-NC-general-0,2022,emerson,10,-2.571,10.2632,1,late
+81454,2022-NC-general-0,2022,civiqs,6,3.2993,15.1396,1,late
+81483,2022-NC-general-0,2022,activote,5,2.2466,42.1006,1,late
+81491,2022-NC-general-0,2022,remington,6,-4.2276,9.3787,1,late
+81552,2022-NC-general-0,2022,east carolina university,5,-1.6552,8.5261,1,late
+81574,2022-NC-general-0,2022,trafalgar group,2,-3.3674,9.4448,1,late
+81603,2022-NC-general-0,2022,data for progress,2,-2.9507,7.8487,1,late
+74407,2022-NH-general-0,2022,u. new hampshire,624,4.9358,6.4229,1,early
+75265,2022-NH-general-0,2022,u. new hampshire,477,1.5196,6.9748,1,early
+76906,2022-NH-general-0,2022,u. new hampshire,386,-3.732,11.4407,1,early
+78084,2022-NH-general-0,2022,trafalgar group,331,-2.637,11.0681,1,early
+78298,2022-NH-general-0,2022,st. anselm,300,-0.4892,10.3365,1,early
+78703,2022-NH-general-0,2022,st. anselm,229,-3.3259,9.4897,1,early
+78740,2022-NH-general-0,2022,phillips academy,214,2.1097,22.0838,2,early
+78794,2022-NH-general-0,2022,u. new hampshire,204,-8.2747,12.3865,1,early
+79291,2022-NH-general-0,2022,change research,134,0.7624,15.797,1,mid
+79424,2022-NH-general-0,2022,data for progress,123,-5.0946,11.7597,1,mid
+80666,2022-NH-general-0,2022,emerson,54,2.2267,13.597,1,mid
+80722,2022-NH-general-0,2022,arg,50,4.6285,18.9956,1,mid
+80723,2022-NH-general-0,2022,u. new hampshire,50,-0.4611,12.6705,1,mid
+80856,2022-NH-general-0,2022,suffolk,43,-0.0988,21.8379,1,mid
+80925,2022-NH-general-0,2022,data for progress,39,-1.8231,9.3215,1,mid
+80929,2022-NH-general-0,2022,trafalgar group,39,-5.9165,9.9139,1,mid
+80930,2022-NH-general-0,2022,st. anselm,41,-2.8282,12.0126,1,mid
+81022,2022-NH-general-0,2022,fabrizio/impact,33,-2.1335,20.5112,1,mid
+81169,2022-NH-general-0,2022,fabrizio,20,-7.2666,17.3536,1,late
+81224,2022-NH-general-0,2022,insideradvantage,16,-8.822,17.5989,1,late
+81231,2022-NH-general-0,2022,emerson,20,-5.0296,14.4673,1,late
+81272,2022-NH-general-0,2022,data for progress,20,-2.967,7.6113,1,late
+81324,2022-NH-general-0,2022,co/efficient,13,-9.3499,10.1194,1,late
+81413,2022-NH-general-0,2022,st. anselm,10,-10.4026,6.8301,1,late
+81469,2022-NH-general-0,2022,trafalgar group,7,-10.7523,8.6909,1,late
+81486,2022-NH-general-0,2022,u. massachusetts - lowell,14,1.5196,17.9019,1,late
+81519,2022-NH-general-0,2022,emerson,7,-4.6576,12.2407,1,late
+81568,2022-NH-general-0,2022,wick,3,-9.4534,14.2638,1,late
+81569,2022-NH-general-0,2022,u. new hampshire,2,-7.3091,4.9108,1,late
+81572,2022-NH-general-0,2022,insideradvantage,3,-7.4943,14.7225,1,late
+81578,2022-NH-general-0,2022,phillips academy,2,-5.479,10.1672,1,late
+81609,2022-NH-general-0,2022,data for progress,3,-6.2572,5.1626,1,late
+75744,2022-NV-general-0,2022,vcreek/amg,451,-14.3154,23.3981,1,early
+76506,2022-NV-general-0,2022,wpai,419,-3.4334,26.0889,1,early
+76603,2022-NV-general-0,2022,mellman,412,4.1578,19.1761,1,early
+77968,2022-NV-general-0,2022,trafalgar group,344,-4.5666,11.3617,1,early
+78127,2022-NV-general-0,2022,nrsc,356,-5.3473,19.8602,1,early
+78372,2022-NV-general-0,2022,oh predictive insights/mbqf,286,10.5905,16.5483,1,early
+78668,2022-NV-general-0,2022,blueprint polling,229,-8.3707,16.9928,1,early
+78745,2022-NV-general-0,2022,suffolk,216,-4.8786,23.941,1,early
+78771,2022-NV-general-0,2022,oh predictive insights/mbqf,213,9.4546,16.9594,1,early
+78910,2022-NV-general-0,2022,mclaughlin,202,-1.8771,17.9191,1,early
+79077,2022-NV-general-0,2022,university of nevada,165,27.1981,11.1913,1,mid
+79290,2022-NV-general-0,2022,change research,134,2.5689,16.0103,1,mid
+79362,2022-NV-general-0,2022,emerson,121,3.0851,5.8804,1,mid
+79522,2022-NV-general-0,2022,beacon research,111,8.005,28.9445,2,mid
+79804,2022-NV-general-0,2022,trafalgar group,82,-3.4392,10.1491,1,mid
+79807,2022-NV-general-0,2022,suffolk,83,6.9276,24.0103,1,mid
+79896,2022-NV-general-0,2022,fabrizio/impact,76,2.1054,22.4029,2,mid
+80620,2022-NV-general-0,2022,emerson,59,-1.4035,12.0333,1,mid
+80753,2022-NV-general-0,2022,trafalgar group,49,-5.2364,10.1885,1,mid
+80757,2022-NV-general-0,2022,data for progress,50,-1.8771,12.3014,1,mid
+80759,2022-NV-general-0,2022,insideradvantage,49,-4.064,22.4732,1,mid
+80896,2022-NV-general-0,2022,oh predictive insights/mbqf,40,-3.0746,15.3276,1,mid
+80961,2022-NV-general-0,2022,cnn/ssrs,37,-0.2173,12.3483,2,mid
+81019,2022-NV-general-0,2022,suffolk,32,1.4403,22.4103,1,mid
+81146,2022-NV-general-0,2022,yougov,20,-1.8328,9.7523,1,late
+81168,2022-NV-general-0,2022,wpai,21,-3.0746,22.7155,1,late
+81177,2022-NV-general-0,2022,wpai,35,1.5237,23.2432,1,mid
+81178,2022-NV-general-0,2022,wpai,49,2.9018,24.6575,1,mid
+81187,2022-NV-general-0,2022,rasmussen,22,-6.2964,15.4962,1,late
+81203,2022-NV-general-0,2022,insideradvantage,19,-2.8124,19.2322,1,late
+81234,2022-NV-general-0,2022,phillips academy,16,0.9671,9.8884,1,late
+81256,2022-NV-general-0,2022,bsp research/shaw & company,20,1.4479,13.3451,2,late
+81273,2022-NV-general-0,2022,data for progress,20,-1.8328,12.5863,1,late
+81286,2022-NV-general-0,2022,university of nevada,20,13.4839,18.3699,1,late
+81312,2022-NV-general-0,2022,echelon insights,13,-1.8657,21.7446,2,late
+81316,2022-NV-general-0,2022,trafalgar group,14,-5.2044,9.5108,1,late
+81356,2022-NV-general-0,2022,siena/nyt,15,-0.8019,12.0207,1,late
+81377,2022-NV-general-0,2022,oh predictive insights/mbqf,12,1.5791,19.83,1,late
+81383,2022-NV-general-0,2022,hart research associates,17,0.2734,21.46,1,late
+81418,2022-NV-general-0,2022,suffolk,11,0.3217,22.4691,1,late
+81430,2022-NV-general-0,2022,emerson,10,-6.1738,5.1504,1,late
+81437,2022-NV-general-0,2022,susquehanna,12,-6.9829,21.9907,1,late
+81518,2022-NV-general-0,2022,cygnal,6,-3.6077,18.6908,1,late
+81532,2022-NV-general-0,2022,kaconsulting llc,5,0.3217,22.4242,1,late
+81558,2022-NV-general-0,2022,insideradvantage,4,-7.2121,19.3452,1,late
+81586,2022-NV-general-0,2022,research co.,2,-1.8328,22.9071,1,late
+81612,2022-NV-general-0,2022,data for progress,2,-2.8852,9.4656,1,late
+81775,2022-NV-general-0,2022,trafalgar group,1,-5.922,9.5702,1,late
+79589,2022-NY-general-0,2022,siena,103,9.0019,12.9079,1,mid
+79590,2022-NY-general-0,2022,emerson,103,12.2907,11.0509,1,mid
+79715,2022-NY-general-0,2022,mclaughlin,91,3.1663,18.5876,1,mid
+80572,2022-NY-general-0,2022,emerson,63,14.1301,10.7278,1,mid
+80837,2022-NY-general-0,2022,siena,44,6.8041,16.0457,1,mid
+81034,2022-NY-general-0,2022,marist college,33,8.6522,9.6479,1,mid
+81098,2022-NY-general-0,2022,siena,25,7.2015,14.3659,1,late
+81111,2022-NY-general-0,2022,quinnipiac,23,-1.5751,6.3413,1,late
+81158,2022-NY-general-0,2022,surveyusa,21,1.4805,15.4448,1,late
+81283,2022-NY-general-0,2022,civiqs,14,1.3888,16.9692,1,late
+81337,2022-NY-general-0,2022,emerson,15,0.2106,10.6016,1,late
+81372,2022-NY-general-0,2022,kaconsulting llc,10,-0.4387,22.2601,1,late
+81402,2022-NY-general-0,2022,trafalgar group,8,-2.3753,9.0872,1,late
+81419,2022-NY-general-0,2022,emerson,8,5.2967,10.0783,1,late
+81456,2022-NY-general-0,2022,data for progress,11,3.8197,12.4563,1,late
+81466,2022-NY-general-0,2022,long island university,13,19.2583,10.963,1,late
+81577,2022-NY-general-0,2022,activote,2,5.9249,34.4086,1,late
+81587,2022-NY-general-0,2022,research co.,2,6.3331,21.7313,1,late
+74544,2022-OH-general-0,2022,ppp,599,3.4829,18.784,1,early
+75936,2022-OH-general-0,2022,redfield & wilton strategies,441,8.9733,11.7339,2,early
+79053,2022-OH-general-0,2022,suffolk,168,3.3984,24.6731,1,mid
+79322,2022-OH-general-0,2022,center street pac,128,12.2832,14.8106,3,mid
+79333,2022-OH-general-0,2022,impact research,131,8.2421,13.0312,1,mid
+79366,2022-OH-general-0,2022,center street pac,179,3.861,15.7121,3,mid
+79517,2022-OH-general-0,2022,pem management corporation,107,13.8256,40.5571,1,mid
+79620,2022-OH-general-0,2022,center street pac,97,19.5954,15.408,3,mid
+79625,2022-OH-general-0,2022,impact research,103,9.3403,13.4269,1,mid
+79763,2022-OH-general-0,2022,emerson,84,2.5223,12.5108,1,mid
+79812,2022-OH-general-0,2022,trafalgar group,82,1.2416,9.7222,1,mid
+79873,2022-OH-general-0,2022,impact research,77,9.2072,12.8743,1,mid
+79970,2022-OH-general-0,2022,center street pac,67,16.9831,17.2842,2,mid
+80575,2022-OH-general-0,2022,suffolk,62,7.1991,21.6894,1,mid
+80605,2022-OH-general-0,2022,echelon insights,62,13.2573,14.2527,1,mid
+80658,2022-OH-general-0,2022,civiqs,56,2.8886,13.7712,1,mid
+80659,2022-OH-general-0,2022,emerson,56,1.0257,11.8037,1,mid
+80662,2022-OH-general-0,2022,fallon research & communications,58,9.4777,18.6635,1,mid
+80716,2022-OH-general-0,2022,marist college,54,5.0156,9.1564,1,mid
+80760,2022-OH-general-0,2022,baldwin wallace university,54,9.4371,12.522,1,mid
+80766,2022-OH-general-0,2022,change research,62,11.7324,9.2643,1,mid
+80815,2022-OH-general-0,2022,siena,47,9.4852,17.4816,1,mid
+80937,2022-OH-general-0,2022,center street pac,36,17.5645,17.3874,2,mid
+80987,2022-OH-general-0,2022,cygnal,31,4.0196,17.2196,1,mid
+81035,2022-OH-general-0,2022,emerson,32,5.2275,11.0856,1,mid
+81069,2022-OH-general-0,2022,trafalgar group,27,2.2725,10.1395,1,late
+81089,2022-OH-general-0,2022,suffolk,24,3.9405,21.7289,1,late
+81116,2022-OH-general-0,2022,ohio northern university institute for civics and public policy,24,8.4036,17.7467,1,late
+81124,2022-OH-general-0,2022,cygnal,21,1.5841,7.6683,1,late
+81142,2022-OH-general-0,2022,cygnal,23,2.3198,7.9605,1,late
+81143,2022-OH-general-0,2022,cygnal,25,2.7285,8.0527,1,late
+81173,2022-OH-general-0,2022,cygnal,19,2.8178,7.128,1,late
+81201,2022-OH-general-0,2022,data for progress,27,2.9566,10.3502,1,late
+81204,2022-OH-general-0,2022,cygnal,17,2.1233,7.155,1,late
+81208,2022-OH-general-0,2022,marist college,19,5.0156,9.6299,1,late
+81211,2022-OH-general-0,2022,siena,20,6.1145,16.8782,1,late
+81245,2022-OH-general-0,2022,cygnal,15,1.682,5.7209,1,late
+81301,2022-OH-general-0,2022,center street pac,13,10.1429,17.4659,2,late
+81305,2022-OH-general-0,2022,baldwin wallace university,16,10.4804,9.7146,1,late
+81308,2022-OH-general-0,2022,cygnal,13,0.7032,5.9388,1,late
+81343,2022-OH-general-0,2022,cygnal,11,1.0484,6.1852,1,late
+81360,2022-OH-general-0,2022,redfield & wilton strategies,23,5.6994,17.2819,2,late
+81364,2022-OH-general-0,2022,cygnal,9,1.2178,7.1889,1,late
+81442,2022-OH-general-0,2022,cygnal,7,1.1576,7.072,1,late
+81492,2022-OH-general-0,2022,remington,6,0.6199,9.7385,1,late
+81520,2022-OH-general-0,2022,cygnal,5,-0.5955,7.1921,1,late
+81540,2022-OH-general-0,2022,emerson,7,-3.1083,10.2745,1,late
+81571,2022-OH-general-0,2022,trafalgar group,3,-4.5632,9.0382,1,late
+81588,2022-OH-general-0,2022,research co.,2,-1.8855,22.08,1,late
+81605,2022-OH-general-0,2022,civiqs,1,0.9598,14.3602,1,late
+81614,2022-OH-general-0,2022,data for progress,3,-3.8855,7.0064,1,late
+81628,2022-OH-general-0,2022,targoz market research,2,1.9315,17.2135,2,late
+80606,2022-OK-general-0,2022,echelon insights,62,-0.6843,19.2394,1,mid
+80618,2022-OK-general-0,2022,soonerpoll.com,62,14.3209,27.3937,1,mid
+80808,2022-OK-general-0,2022,amber integrated,48,12.4764,22.237,1,mid
+80976,2022-OK-general-0,2022,soonerpoll.com,33,21.1374,35.5293,1,mid
+80980,2022-OK-general-0,2022,bruno political consulting,51,3.8024,4.0269,1,mid
+81086,2022-OK-general-0,2022,ascend action,27,17.4976,17.3605,1,late
+81091,2022-OK-general-0,2022,amber integrated,24,15.2248,21.976,1,late
+81375,2022-OK-general-0,2022,emerson,11,4.88,9.599,1,late
+81380,2022-OK-general-0,2022,ascend action,11,13.4067,15.0789,1,late
+81467,2022-OK-general-0,2022,amber integrated,11,17.8511,21.6412,1,late
+81601,2022-OK-general-0,2022,ascend action,2,11.6675,15.1846,1,late
+80606,2022-OK-general-1,2022,echelon insights,62,-7.532,19.565,1,mid
+80618,2022-OK-general-1,2022,soonerpoll.com,62,14.2798,26.6346,1,mid
+80808,2022-OK-general-1,2022,amber integrated,48,14.9922,22.1286,1,mid
+80976,2022-OK-general-1,2022,soonerpoll.com,33,17.9666,35.5232,1,mid
+80980,2022-OK-general-1,2022,bruno political consulting,51,13.3476,3.8024,1,mid
+81086,2022-OK-general-1,2022,ascend action,27,14.9922,17.3422,1,late
+81091,2022-OK-general-1,2022,amber integrated,24,13.066,21.5295,1,late
+81375,2022-OK-general-1,2022,emerson,11,3.6122,9.9122,1,late
+81380,2022-OK-general-1,2022,ascend action,11,20.5335,15.1012,1,late
+81467,2022-OK-general-1,2022,amber integrated,11,15.5238,21.1622,1,late
+81601,2022-OK-general-1,2022,ascend action,2,14.5858,15.3445,1,late
+80927,2022-OR-general-0,2022,emerson,38,8.1707,14.3462,1,mid
+81154,2022-OR-general-0,2022,civiqs,21,2.871,12.9271,1,late
+81197,2022-OR-general-0,2022,data for progress,21,-3.3206,10.6057,1,late
+81544,2022-OR-general-0,2022,emerson,7,4.7815,11.6845,1,late
+81608,2022-OR-general-0,2022,data for progress,2,-1.1228,7.1758,1,late
+78038,2022-PA-general-0,2022,data for progress,338,-2.7095,20.0028,1,early
+79215,2022-PA-general-0,2022,fabrizio/impact,142,1.3479,21.1899,1,mid
+79230,2022-PA-general-0,2022,cygnal,142,-0.2525,20.2705,1,mid
+79464,2022-PA-general-0,2022,blueprint polling,110,5.4734,15.6947,1,mid
+79515,2022-PA-general-0,2022,pem management corporation,107,2.3359,40.7276,1,mid
+79523,2022-PA-general-0,2022,beacon research,111,9.1694,15.0265,2,mid
+79621,2022-PA-general-0,2022,center street pac,99,14.1761,14.4307,3,mid
+79758,2022-PA-general-0,2022,public opinion strategies,90,16.3935,18.9302,1,mid
+79759,2022-PA-general-0,2022,global strategy group,112,7.0528,9.0237,1,mid
+79808,2022-PA-general-0,2022,trafalgar group,82,0.2968,9.9001,1,mid
+79847,2022-PA-general-0,2022,franklin and marshall college,79,12.7731,25.4103,1,mid
+79848,2022-PA-general-0,2022,emerson,77,0.2968,10.4937,1,mid
+79882,2022-PA-general-0,2022,susquehanna,71,0.3412,14.9326,1,mid
+80561,2022-PA-general-0,2022,raba research,66,5.0773,16.3786,1,mid
+80607,2022-PA-general-0,2022,echelon insights,62,17.5455,12.3242,1,mid
+80621,2022-PA-general-0,2022,yougov,57,0.0154,8.4808,1,mid
+80642,2022-PA-general-0,2022,center street pac,68,16.1187,14.1425,2,mid
+80667,2022-PA-general-0,2022,trafalgar group,54,-3.112,9.9071,1,mid
+80758,2022-PA-general-0,2022,muhlenberg,53,0.3412,25.5276,1,mid
+80804,2022-PA-general-0,2022,phillips academy,50,-2.8373,14.4713,1,mid
+80813,2022-PA-general-0,2022,insideradvantage,45,-1.4513,23.0917,1,mid
+80816,2022-PA-general-0,2022,marist college,47,5.8345,8.6483,1,mid
+80854,2022-PA-general-0,2022,franklin and marshall college,44,-1.5868,22.2062,1,mid
+80871,2022-PA-general-0,2022,emerson,43,-2.7415,11.4619,1,mid
+80916,2022-PA-general-0,2022,suffolk,39,2.3723,23.0211,1,mid
+80938,2022-PA-general-0,2022,center street pac,39,14.9282,15.1595,2,mid
+81061,2022-PA-general-0,2022,trafalgar group,28,-2.4264,10.0762,1,late
+81115,2022-PA-general-0,2022,fabrizio/impact,27,-2.9074,7.5953,1,late
+81152,2022-PA-general-0,2022,insideradvantage,20,-4.1636,19.8044,1,late
+81182,2022-PA-general-0,2022,echelon insights,19,-1.6643,22.4464,1,late
+81190,2022-PA-general-0,2022,wick,26,-9.8377,10.5111,1,late
+81216,2022-PA-general-0,2022,cnn/ssrs,22,4.0039,13.2634,2,late
+81225,2022-PA-general-0,2022,rasmussen,19,-2.7624,11.6849,1,late
+81233,2022-PA-general-0,2022,yougov,15,-3.0351,9.2214,1,late
+81298,2022-PA-general-0,2022,franklin and marshall college,16,-0.1602,22.6622,2,late
+81313,2022-PA-general-0,2022,insideradvantage,13,-7.9603,14.4333,1,late
+81327,2022-PA-general-0,2022,wick,12,-6.8533,10.6917,1,late
+81335,2022-PA-general-0,2022,co/efficient,11,-8.2609,6.2596,1,late
+81357,2022-PA-general-0,2022,siena/nyt,13,0.3412,17.2929,1,late
+81371,2022-PA-general-0,2022,patriot polling,27,-6.7445,12.4628,1,late
+81384,2022-PA-general-0,2022,hart research associates,20,-2.8129,22.035,1,late
+81421,2022-PA-general-0,2022,muhlenberg,11,-5.0351,23.1267,1,late
+81452,2022-PA-general-0,2022,suffolk,9,-3.0657,21.8734,1,late
+81457,2022-PA-general-0,2022,susquehanna,7,-6.0967,15.1636,1,late
+81465,2022-PA-general-0,2022,yougov,13,1.2632,12.9481,1,late
+81468,2022-PA-general-0,2022,emerson,8,-6.1845,10.4479,1,late
+81489,2022-PA-general-0,2022,remington,6,-8.3318,9.3026,1,late
+81507,2022-PA-general-0,2022,marist college,6,1.3479,9.197,1,late
+81511,2022-PA-general-0,2022,trafalgar group,5,-7.3956,9.7754,1,late
+81529,2022-PA-general-0,2022,insideradvantage,5,-7.4741,14.1309,1,late
+81589,2022-PA-general-0,2022,research co.,2,-4.0042,22.9071,1,late
+81617,2022-PA-general-0,2022,patriot polling,3,-8.4906,12.3625,1,late
+81627,2022-PA-general-0,2022,targoz market research,2,-4.2033,14.4033,2,late
+81779,2022-PA-general-0,2022,the political matrix/the listener group,1,0.9649,12.455,1,late
+80608,2022-SC-general-0,2022,echelon insights,62,7.2152,17.6758,1,mid
+79635,2022-SD-general-0,2022,moore information,234,3.2254,24.7645,1,early
+80814,2022-SD-general-0,2022,lake research,58,28.9384,30.7886,1,mid
+81007,2022-SD-general-0,2022,south dakota state university,29,14.5299,19.7693,1,late
+81275,2022-SD-general-0,2022,emerson,18,8.9235,6.7999,1,late
+80574,2022-VT-general-0,2022,trafalgar group,62,-34.9126,9.9921,1,mid
+80931,2022-VT-general-0,2022,u. new hampshire,36,-4.1316,12.4515,1,mid
+81417,2022-VT-general-0,2022,data for progress,13,-9.2778,9.0524,1,late
+74872,2022-WA-general-0,2022,ppp,531,3.2272,10.8467,1,early
+77484,2022-WA-general-0,2022,surveyusa,376,7.9494,21.8952,1,early
+77680,2022-WA-general-0,2022,ppp,362,0.3919,12.3626,1,early
+78461,2022-WA-general-0,2022,ppp,263,-4.6605,15.545,1,early
+79075,2022-WA-general-0,2022,ppp,159,-2.4627,10.422,1,mid
+79250,2022-WA-general-0,2022,tarrance,142,-9.0561,18.2597,1,mid
+79378,2022-WA-general-0,2022,surveyusa,121,6.878,19.0572,1,mid
+79399,2022-WA-general-0,2022,elway,120,8.7052,27.4976,1,mid
+79789,2022-WA-general-0,2022,mclaughlin,83,-7.9274,21.6203,1,mid
+79925,2022-WA-general-0,2022,trafalgar group,68,-11.5139,9.6242,1,mid
+79976,2022-WA-general-0,2022,ppp,62,-4.2058,18.3407,1,mid
+80749,2022-WA-general-0,2022,elway,54,0.3919,27.8849,1,mid
+80810,2022-WA-general-0,2022,trafalgar group,45,-12.2397,9.6229,1,mid
+80846,2022-WA-general-0,2022,ppp,41,-1.5071,13.8762,1,mid
+80928,2022-WA-general-0,2022,emerson,38,-5.0473,13.6849,1,mid
+80992,2022-WA-general-0,2022,strategies 360,43,0.1107,25.7585,2,mid
+81010,2022-WA-general-0,2022,onmessage inc.,42,-10.0051,18.9003,1,mid
+81153,2022-WA-general-0,2022,civiqs,21,0.0327,14.6062,1,late
+81170,2022-WA-general-0,2022,surveyusa,20,-5.6617,18.7153,1,late
+81181,2022-WA-general-0,2022,ppp,19,-3.9123,13.45,1,late
+81183,2022-WA-general-0,2022,co/efficient,19,-11.3248,9.0953,1,late
+81222,2022-WA-general-0,2022,kaconsulting llc,17,-7.8839,22.1235,1,late
+81345,2022-WA-general-0,2022,triton polling & research,12,-9.1339,20.5259,1,late
+81347,2022-WA-general-0,2022,trafalgar group,11,-13.3211,8.4875,1,late
+81349,2022-WA-general-0,2022,moore information,17,-14.5506,21.7391,1,late
+81427,2022-WA-general-0,2022,insideradvantage,8,-12.8557,19.2549,1,late
+81602,2022-WA-general-0,2022,moore information,3,-14.9743,21.1861,1,late
+76396,2022-WI-general-0,2022,clarity,423,1.0091,15.3808,1,early
+79210,2022-WI-general-0,2022,marquette law school,141,3.2313,13.8302,1,mid
+79760,2022-WI-general-0,2022,marquette law school,85,8.3015,14.8059,2,mid
+79778,2022-WI-general-0,2022,beacon/shaw,84,5.1758,10.3366,1,mid
+79869,2022-WI-general-0,2022,trafalgar group,75,3.3925,9.4929,1,mid
+80632,2022-WI-general-0,2022,marquette law school,58,-0.0326,14.7252,2,mid
+80657,2022-WI-general-0,2022,civiqs,56,-0.0218,13.2156,1,mid
+80673,2022-WI-general-0,2022,onmessage inc.,56,-3.2462,13.2738,1,mid
+80690,2022-WI-general-0,2022,siena,54,2.0618,16.1677,1,mid
+80704,2022-WI-general-0,2022,emerson,51,-2.9124,12.6471,1,mid
+80772,2022-WI-general-0,2022,trafalgar group,50,-1.3018,9.6583,1,mid
+80845,2022-WI-general-0,2022,ppp,42,1.0091,18.5336,1,mid
+80855,2022-WI-general-0,2022,fabrizio/impact,44,-4.1455,20.5638,1,mid
+80874,2022-WI-general-0,2022,beacon/shaw,43,-3.3387,10.7204,1,mid
+80880,2022-WI-general-0,2022,data for progress,46,-1.0317,10.21,1,mid
+80978,2022-WI-general-0,2022,yougov,32,-0.001,8.883,1,mid
+81032,2022-WI-general-0,2022,marquette law school,30,-2.0521,14.4365,2,late
+81060,2022-WI-general-0,2022,clarity,28,2.0618,12.0425,1,late
+81217,2022-WI-general-0,2022,cnn/ssrs,22,2.1169,13.0073,2,late
+81271,2022-WI-general-0,2022,data for progress,17,-4.1455,7.4723,1,late
+81370,2022-WI-general-0,2022,patriot polling,16,-7.8516,13.0658,1,late
+81385,2022-WI-general-0,2022,hart research associates,24,-1.1185,21.1822,1,late
+81425,2022-WI-general-0,2022,clarity,8,3.1368,11.9746,1,late
+81426,2022-WI-general-0,2022,wick,9,-3.2484,9.5183,1,late
+81428,2022-WI-general-0,2022,beacon/shaw,9,-2.2167,10.7415,1,late
+81445,2022-WI-general-0,2022,emerson,10,-3.7137,10.244,1,late
+81447,2022-WI-general-0,2022,marquette law school,7,-1.6242,14.2076,2,late
+81470,2022-WI-general-0,2022,siena,8,-1.1648,16.5869,1,late
+81557,2022-WI-general-0,2022,trafalgar group,4,-1.7601,9.3594,1,late
+81590,2022-WI-general-0,2022,research co.,2,-4.9909,22.1422,1,late
+81604,2022-WI-general-0,2022,civiqs,1,-0.001,13.6671,1,late
+81611,2022-WI-general-0,2022,data for progress,3,-4.9909,6.625,1,late
+81890,2024-AZ-general-0,2024,ppp,686,-1.4098,15.5238,1,early
+82094,2024-AZ-general-0,2024,"normington, petts & associates",652,2.8007,13.1214,1,early
+82213,2024-AZ-general-0,2024,oh predictive insights/mbqf,635,10.6954,12.9301,1,early
+83278,2024-AZ-general-0,2024,noble predictive insights,477,10.0375,12.3047,1,early
+84353,2024-AZ-general-0,2024,ppp,395,3.032,20.9882,1,early
+84365,2024-AZ-general-0,2024,national research,393,-2.4625,28.4091,1,early
+84596,2024-AZ-general-0,2024,cygnal,377,0.9083,18.7053,1,early
+85582,2024-AZ-general-0,2024,ppp,304,-3.5614,18.6232,1,early
+85834,2024-AZ-general-0,2024,j.l. partners,278,-4.6847,22.2112,1,early
+86165,2024-AZ-general-0,2024,emerson,260,5.8118,11.7394,1,early
+86167,2024-AZ-general-0,2024,noble predictive insights,266,9.4423,11.7126,1,early
+86220,2024-AZ-general-0,2024,rasmussen,253,-5.9107,11.4691,1,early
+86496,2024-AZ-general-0,2024,emerson,235,-1.2625,9.9986,1,early
+86577,2024-AZ-general-0,2024,raba research,219,10.0375,30.5782,1,early
+86669,2024-AZ-general-0,2024,the tyson group,208,4.3869,22.7239,1,early
+86747,2024-AZ-general-0,2024,emerson,190,0.0262,11.3052,1,early
+86869,2024-AZ-general-0,2024,data orbital,190,2.1028,19.7217,1,early
+86897,2024-AZ-general-0,2024,siena/nyt,180,1.5485,18.2316,2,mid
+86964,2024-AZ-general-0,2024,yougov,173,12.8317,9.7122,1,mid
+86988,2024-AZ-general-0,2024,noble predictive insights,175,9.7327,11.9778,1,mid
+87015,2024-AZ-general-0,2024,benenson strategy group/gs strategy group,176,3.2847,21.7387,1,mid
+87026,2024-AZ-general-0,2024,florida atlantic university/mainstreet research,168,6.3573,21.3754,2,mid
+87160,2024-AZ-general-0,2024,fabrizio/impact,154,0.7633,17.9025,1,mid
+87207,2024-AZ-general-0,2024,emerson,140,2.874,11.5679,1,mid
+87219,2024-AZ-general-0,2024,north star opinion research,138,-1.1638,21.6414,1,mid
+87326,2024-AZ-general-0,2024,remington,127,-2.4625,16.6744,1,mid
+87469,2024-AZ-general-0,2024,j.l. partners,117,-3.6119,22.403,1,mid
+87512,2024-AZ-general-0,2024,ppp,117,0.6303,17.2809,1,mid
+87525,2024-AZ-general-0,2024,ppp,108,5.2298,14.8424,1,mid
+87542,2024-AZ-general-0,2024,emerson,105,2.0624,14.1113,1,mid
+87682,2024-AZ-general-0,2024,redfield & wilton strategies,94,5.2298,22.4773,1,mid
+87706,2024-AZ-general-0,2024,highground,92,10.0092,22.323,1,mid
+87763,2024-AZ-general-0,2024,benenson strategy group/gs strategy group,95,7.215,24.4873,1,mid
+87784,2024-AZ-general-0,2024,peak insights,92,-2.4625,13.587,1,mid
+87806,2024-AZ-general-0,2024,siena/nyt,82,6.8207,16.0084,2,mid
+87821,2024-AZ-general-0,2024,redfield & wilton strategies,82,3.5616,20.2778,1,mid
+87912,2024-AZ-general-0,2024,noble predictive insights,81,5.5835,11.3857,1,mid
+87930,2024-AZ-general-0,2024,beacon/shaw,71,13.0015,9.9238,1,mid
+87935,2024-AZ-general-0,2024,emerson,69,4.9937,15.1444,1,mid
+87972,2024-AZ-general-0,2024,redfield & wilton strategies,69,3.8667,23.7878,1,mid
+87990,2024-AZ-general-0,2024,insideradvantage,66,2.3095,13.2254,1,mid
+88015,2024-AZ-general-0,2024,cnn/ssrs,68,0.8342,16.0954,1,mid
+88085,2024-AZ-general-0,2024,morning consult,58,6.457,12.2149,1,mid
+88114,2024-AZ-general-0,2024,redfield & wilton strategies,57,4.2042,14.4598,1,mid
+88175,2024-AZ-general-0,2024,trafalgar group,54,2.1939,10.1677,1,mid
+88235,2024-AZ-general-0,2024,emerson,48,4.1747,12.688,1,mid
+88248,2024-AZ-general-0,2024,morning consult,48,12.3378,12.3846,1,mid
+88276,2024-AZ-general-0,2024,siena/nyt,45,5.7435,15.2208,2,mid
+88288,2024-AZ-general-0,2024,redfield & wilton strategies,47,3.2847,14.52,1,mid
+88363,2024-AZ-general-0,2024,marist college,42,7.2788,7.6033,2,mid
+88380,2024-AZ-general-0,2024,beacon/shaw,42,11.3815,11.5208,2,mid
+88390,2024-AZ-general-0,2024,suffolk,42,4.4183,22.8272,1,mid
+88410,2024-AZ-general-0,2024,atlasintel,41,1.8307,11.0485,1,mid
+88450,2024-AZ-general-0,2024,insideradvantage,36,4.5494,13.4181,1,mid
+88461,2024-AZ-general-0,2024,emerson,38,9.7956,11.5121,1,mid
+88469,2024-AZ-general-0,2024,benenson strategy group/gs strategy group,41,11.2218,25.2548,1,mid
+88494,2024-AZ-general-0,2024,highground,37,8.1207,21.3564,1,mid
+88526,2024-AZ-general-0,2024,rmg research,34,8.1758,13.4328,1,mid
+88530,2024-AZ-general-0,2024,redfield & wilton strategies,34,4.2042,19.931,1,mid
+88552,2024-AZ-general-0,2024,socal strategies,29,11.411,14.8097,1,late
+88572,2024-AZ-general-0,2024,fabrizio/impact,35,4.906,17.4486,1,mid
+88580,2024-AZ-general-0,2024,national research,37,4.2042,18.4362,1,mid
+88606,2024-AZ-general-0,2024,emerson,28,4.6039,10.6532,1,late
+88658,2024-AZ-general-0,2024,activote,26,3.1375,24.9216,1,late
+88665,2024-AZ-general-0,2024,siena/nyt,26,6.6425,13.9466,2,late
+88677,2024-AZ-general-0,2024,trafalgar group,23,1.5813,10.0102,1,late
+88725,2024-AZ-general-0,2024,redfield & wilton strategies,22,3.1555,9.8164,1,late
+88746,2024-AZ-general-0,2024,morning consult,21,10.581,16.3624,1,late
+88762,2024-AZ-general-0,2024,yougov,20,6.6285,7.1401,1,late
+88784,2024-AZ-general-0,2024,expedition strategies,120,1.7929,39.6233,1,mid
+88795,2024-AZ-general-0,2024,atlasintel,19,1.1872,7.2317,1,late
+88828,2024-AZ-general-0,2024,redfield & wilton strategies,18,5.4027,16.1598,1,late
+88843,2024-AZ-general-0,2024,insideradvantage,16,1.9217,13.0229,1,late
+88871,2024-AZ-general-0,2024,highground,16,7.5375,26.3298,1,late
+88916,2024-AZ-general-0,2024,marist college,14,5.7008,8.0616,2,late
+88968,2024-AZ-general-0,2024,trafalgar group,10,1.5124,9.5464,1,late
+89023,2024-AZ-general-0,2024,u. arizona/truedot,16,15.1062,13.1627,1,late
+89024,2024-AZ-general-0,2024,u. arizona/truedot,66,9.9621,10.2827,1,mid
+89026,2024-AZ-general-0,2024,cnn/ssrs,10,6.0482,13.5227,1,late
+89040,2024-AZ-general-0,2024,data orbital,8,-3.2428,20.2684,1,late
+89057,2024-AZ-general-0,2024,atlasintel,7,-1.9432,7.122,1,late
+89080,2024-AZ-general-0,2024,raba research,9,15.6098,19.7872,1,late
+89143,2024-AZ-general-0,2024,atlasintel,5,-3.1878,10.3106,1,late
+89152,2024-AZ-general-0,2024,noble predictive insights,6,1.8854,13.9987,1,late
+89177,2024-AZ-general-0,2024,activote,5,6.1375,24.8151,1,late
+89199,2024-AZ-general-0,2024,yougov,5,2.3534,12.2945,2,late
+89209,2024-AZ-general-0,2024,onmessage inc.,5,-2.4625,13.0208,1,late
+89213,2024-AZ-general-0,2024,data for progress,6,2.8007,9.7286,1,late
+89242,2024-AZ-general-0,2024,mitchell,8,1.1672,16.9656,2,late
+89244,2024-AZ-general-0,2024,atlasintel,3,-4.2241,10.713,1,late
+89259,2024-AZ-general-0,2024,morning consult,6,6.2332,16.1973,1,late
+89270,2024-AZ-general-0,2024,siena/nyt,3,4.4245,10.2724,2,late
+89295,2024-AZ-general-0,2024,patriot polling,2,-0.2357,12.6298,1,late
+89302,2024-AZ-general-0,2024,insideradvantage,3,-0.2863,12.9472,1,late
+89333,2024-AZ-general-0,2024,victory insights,2,0.3297,13.7776,1,late
+89336,2024-AZ-general-0,2024,emerson,3,2.6792,11.6283,1,late
+89373,2024-AZ-general-0,2024,atlasintel,1,-3.0862,11.8795,1,late
+89388,2024-AZ-general-0,2024,trafalgar group,2,-1.9496,9.4093,1,late
+88298,2024-CT-general-0,2024,massinc polling group,48,-0.6001,14.0318,1,mid
+88409,2024-DE-general-0,2024,university of delaware,47,6.7093,29.3231,1,mid
+86279,2024-FL-general-0,2024,ppp,249,9.4623,14.8735,1,early
+86634,2024-FL-general-0,2024,emerson,209,4.2492,11.8845,1,early
+86656,2024-FL-general-0,2024,ipsos,212,-3.1373,15.4925,1,early
+86684,2024-FL-general-0,2024,florida atlantic university/mainstreet research,202,-6.1836,13.0988,2,early
+86889,2024-FL-general-0,2024,cherry communications,182,-3.1373,17.197,1,early
+86922,2024-FL-general-0,2024,big data poll,239,-0.6615,8.722,2,early
+86963,2024-FL-general-0,2024,yougov,173,3.2357,10.3861,1,mid
+87147,2024-FL-general-0,2024,the tyson group,149,-3.4639,11.729,1,mid
+87153,2024-FL-general-0,2024,florida atlantic university/mainstreet research,149,9.4744,14.0914,2,mid
+87612,2024-FL-general-0,2024,u. north florida,101,8.5473,14.3271,1,mid
+87748,2024-FL-general-0,2024,mclaughlin,89,2.3535,13.1474,1,mid
+87761,2024-FL-general-0,2024,florida atlantic university/mainstreet research,86,8.5473,10.5869,2,mid
+87911,2024-FL-general-0,2024,ppp,75,9.6935,13.1211,2,mid
+87947,2024-FL-general-0,2024,targoz market research,104,6.3218,10.1902,2,mid
+87964,2024-FL-general-0,2024,cherry communications,71,5.6233,17.4486,1,mid
+87973,2024-FL-general-0,2024,redfield & wilton strategies,69,9.3773,14.1558,1,mid
+88064,2024-FL-general-0,2024,emerson,61,11.888,13.5413,1,mid
+88086,2024-FL-general-0,2024,morning consult,58,6.9538,3.5405,1,mid
+88115,2024-FL-general-0,2024,redfield & wilton strategies,57,9.4623,8.0205,1,mid
+88249,2024-FL-general-0,2024,morning consult,48,8.0478,3.8283,1,mid
+88273,2024-FL-general-0,2024,activote,44,5.1918,24.8479,1,mid
+88289,2024-FL-general-0,2024,redfield & wilton strategies,47,8.3406,7.2427,1,mid
+88331,2024-FL-general-0,2024,bullfinch,43,10.7695,18.5094,1,mid
+88417,2024-FL-general-0,2024,victory insights,41,12.0868,18.8522,1,mid
+88418,2024-FL-general-0,2024,ppp,40,10.7687,13.9046,2,mid
+88485,2024-FL-general-0,2024,mclaughlin,41,5.6233,8.7243,1,mid
+88497,2024-FL-general-0,2024,rmg research,39,6.6088,13.6886,1,mid
+88531,2024-FL-general-0,2024,redfield & wilton strategies,34,9.4623,3.9885,1,mid
+88555,2024-FL-general-0,2024,siena/nyt,30,2.7631,18.0806,2,late
+88613,2024-FL-general-0,2024,marist college,29,10.9509,7.6742,2,late
+88669,2024-FL-general-0,2024,mason-dixon,32,5.1266,17.8663,1,mid
+88726,2024-FL-general-0,2024,redfield & wilton strategies,22,9.5435,11.3782,1,late
+88769,2024-FL-general-0,2024,rmg research,19,4.6584,13.1273,1,late
+88808,2024-FL-general-0,2024,u. north florida,18,9.8339,10.7634,1,late
+88818,2024-FL-general-0,2024,activote,16,9.1918,24.9639,1,late
+88829,2024-FL-general-0,2024,redfield & wilton strategies,18,9.5435,9.0044,1,late
+88876,2024-FL-general-0,2024,emerson,16,7.3918,11.5914,1,late
+88939,2024-FL-general-0,2024,cherry communications,16,7.8371,16.7457,1,late
+88971,2024-FL-general-0,2024,st. pete polls,11,9.6019,8.6235,1,late
+88980,2024-FL-general-0,2024,activote,9,2.5918,24.7296,1,late
+89038,2024-FL-general-0,2024,florida atlantic university/mainstreet research,9,8.8251,11.491,2,late
+89074,2024-FL-general-0,2024,yougov,19,8.7364,9.7066,1,late
+89125,2024-FL-general-0,2024,cygnal,8,8.856,17.6439,1,late
+89221,2024-FL-general-0,2024,stetson university center for public opinion research,4,4.8285,22.425,1,late
+89260,2024-FL-general-0,2024,morning consult,4,9.7659,5.3123,1,late
+89321,2024-FL-general-0,2024,research co.,2,5.4649,23.7595,1,late
+89335,2024-FL-general-0,2024,victory insights,3,8.3858,25.5343,1,late
+84400,2024-IN-general-0,2024,emerson,398,1.8406,39.5821,1,early
+88189,2024-IN-general-0,2024,emerson,53,3.7554,12.1689,1,mid
+88424,2024-IN-general-0,2024,arw strategies,41,3.7346,19.2901,1,mid
+88519,2024-IN-general-0,2024,activote,31,8.2012,24.6279,1,mid
+89020,2024-IN-general-0,2024,activote,8,5.6012,24.4524,1,late
+87105,2024-MA-general-0,2024,umass amherst/yougov,159,12.5468,18.0093,1,mid
+88218,2024-MA-general-0,2024,u. new hampshire,50,9.0413,18.0564,1,mid
+88275,2024-MA-general-0,2024,massinc polling group,48,3.2294,13.0047,1,mid
+88491,2024-MA-general-0,2024,opinion diagnostics,45,4.8583,17.3144,1,mid
+88551,2024-MA-general-0,2024,suffolk,31,5.3661,20.0091,1,mid
+88688,2024-MA-general-0,2024,umass amherst/yougov,26,4.5969,14.9246,1,late
+89077,2024-MA-general-0,2024,emerson,10,2.3263,10.3351,1,late
+89124,2024-MA-general-0,2024,activote,6,6.3524,23.2839,1,late
+89198,2024-MA-general-0,2024,massinc polling group,4,5.1524,18.3048,1,late
+89299,2024-MA-general-0,2024,u. new hampshire,3,3.8638,13.0775,1,late
+85916,2024-MD-general-0,2024,victoria research,358,-19.7988,15.6761,1,early
+85962,2024-MD-general-0,2024,emerson,266,-21.4661,12.2074,1,early
+86139,2024-MD-general-0,2024,ragnar research partners,278,-40.5016,18.9171,1,early
+86499,2024-MD-general-0,2024,university of maryland/washington post,238,-28.3856,11.2747,1,early
+86575,2024-MD-general-0,2024,goucher college,226,-16.8684,14.8472,1,early
+86667,2024-MD-general-0,2024,opinion works,209,-32.1065,8.2559,1,early
+86881,2024-MD-general-0,2024,ppp,182,-1.2631,16.5598,1,early
+86882,2024-MD-general-0,2024,emerson,181,-0.6579,10.34,1,early
+87222,2024-MD-general-0,2024,ppp,138,-3.0156,17.7476,1,mid
+87915,2024-MD-general-0,2024,fabrizio/impact,77,-12.1065,18.1159,1,mid
+88010,2024-MD-general-0,2024,gonzales research & media services,67,-6.1569,13.9038,1,mid
+88087,2024-MD-general-0,2024,morning consult,58,-5.8174,17.0818,1,mid
+88187,2024-MD-general-0,2024,emerson,53,-3.9925,12.239,1,mid
+88230,2024-MD-general-0,2024,ppp,49,8.3754,21.2574,1,mid
+88250,2024-MD-general-0,2024,morning consult,48,0.9546,19.1314,1,mid
+88362,2024-MD-general-0,2024,university of maryland/washington post,43,-1.1175,10.7263,2,mid
+88586,2024-MD-general-0,2024,umbc,38,-1.7617,13.1764,1,mid
+88748,2024-MD-general-0,2024,morning consult,21,2.5002,22.4413,1,late
+88875,2024-MD-general-0,2024,emerson,15,1.0935,11.3593,1,late
+88920,2024-MD-general-0,2024,university of maryland/washington post,14,0.937,10.6846,1,late
+89127,2024-MD-general-0,2024,activote,6,1.0935,24.5644,1,late
+89225,2024-MD-general-0,2024,chism strategies,6,-2.3338,22.0688,1,late
+89282,2024-MD-general-0,2024,morning consult,5,-3.7732,23.2666,1,late
+89365,2024-MD-general-0,2024,university of maryland/yougov,9,13.6328,20.4545,1,late
+89370,2024-MD-general-0,2024,concord public opinion partners,2,3.449,25.8765,1,late
+87159,2024-ME-general-0,2024,digital research,189,12.3853,34.4828,1,early
+87858,2024-ME-general-0,2024,u. new hampshire,78,-4.7576,16.8612,1,mid
+88220,2024-ME-general-0,2024,pan atlantic research,51,3.9982,30.4254,1,mid
+89158,2024-ME-general-0,2024,surveyusa,7,-3.1703,17.7983,1,late
+89298,2024-ME-general-0,2024,u. new hampshire,3,-14.2814,8.9074,1,late
+83253,2024-MI-general-0,2024,mitchell,481,6.9655,18.9825,1,early
+83347,2024-MI-general-0,2024,emerson,461,7.3596,10.8538,1,early
+83918,2024-MI-general-0,2024,epic-mra,452,5.9776,21.0125,1,early
+84709,2024-MI-general-0,2024,epic-mra,355,2.28,21.9146,1,early
+85576,2024-MI-general-0,2024,glengariff group inc.,304,0.9818,22.2183,1,early
+86140,2024-MI-general-0,2024,epic-mra,261,0.9472,21.6414,1,early
+86502,2024-MI-general-0,2024,emerson,232,2.4053,12.5218,1,early
+86511,2024-MI-general-0,2024,mitchell,234,-0.3515,21.5527,1,early
+86750,2024-MI-general-0,2024,emerson,190,1.8598,12.279,1,early
+86968,2024-MI-general-0,2024,glengariff group inc.,194,3.5446,21.6122,1,early
+87048,2024-MI-general-0,2024,mitchell,168,4.9116,18.8256,1,mid
+87097,2024-MI-general-0,2024,florida atlantic university/mainstreet research,158,0.2367,17.6931,2,mid
+87110,2024-MI-general-0,2024,mitchell,155,3.9963,20.3737,1,mid
+87209,2024-MI-general-0,2024,emerson,140,5.5021,12.1533,1,mid
+87277,2024-MI-general-0,2024,epic-mra,132,1.974,19.3694,1,mid
+87327,2024-MI-general-0,2024,remington,127,4.0929,18.9883,1,mid
+87426,2024-MI-general-0,2024,kaconsulting llc,170,7.1485,20.7161,1,mid
+87486,2024-MI-general-0,2024,ppp,110,9.1723,18.1489,1,mid
+87500,2024-MI-general-0,2024,epic-mra,111,3.2629,20.0541,1,mid
+87513,2024-MI-general-0,2024,ppp,116,12.1485,21.6632,1,mid
+87544,2024-MI-general-0,2024,emerson,105,4.455,14.6203,1,mid
+87572,2024-MI-general-0,2024,glengariff group inc.,104,5.0445,19.0794,1,mid
+87585,2024-MI-general-0,2024,beacon/shaw,104,4.8031,10.16,1,mid
+87719,2024-MI-general-0,2024,siena/nyt,89,1.9363,18.7961,2,mid
+87729,2024-MI-general-0,2024,bullfinch,86,11.2764,22.9414,1,mid
+87765,2024-MI-general-0,2024,benenson strategy group/gs strategy group,95,8.3441,26.5699,1,mid
+87785,2024-MI-general-0,2024,fabrizio/impact,86,2.9452,18.2951,1,mid
+87893,2024-MI-general-0,2024,tipp,75,12.6473,13.5298,2,mid
+87936,2024-MI-general-0,2024,emerson,69,6.9047,14.0977,1,mid
+87940,2024-MI-general-0,2024,fabrizio ward,76,-0.3515,29.0698,1,mid
+87970,2024-MI-general-0,2024,epic-mra,71,4.1939,18.9003,1,mid
+87975,2024-MI-general-0,2024,redfield & wilton strategies,69,8.7394,16.9247,1,mid
+88017,2024-MI-general-0,2024,cnn/ssrs,68,6.4666,15.9757,1,mid
+88024,2024-MI-general-0,2024,glengariff group inc.,68,10.4765,20.9825,1,mid
+88041,2024-MI-general-0,2024,activote,61,6.0485,24.8976,1,mid
+88070,2024-MI-general-0,2024,yougov,60,7.5136,10.3681,1,mid
+88088,2024-MI-general-0,2024,morning consult,58,9.3971,8.1601,1,mid
+88117,2024-MI-general-0,2024,redfield & wilton strategies,57,5.6725,21.5908,1,mid
+88125,2024-MI-general-0,2024,co/efficient,60,0.9472,13.9472,1,mid
+88150,2024-MI-general-0,2024,cygnal,65,0.7979,19.1546,1,mid
+88212,2024-MI-general-0,2024,quinnipiac,50,4.8031,11.3612,1,mid
+88234,2024-MI-general-0,2024,marist college,49,6.3817,8.5528,2,mid
+88237,2024-MI-general-0,2024,emerson,48,4.7217,12.8514,1,mid
+88251,2024-MI-general-0,2024,morning consult,48,15.4999,8.5104,1,mid
+88290,2024-MI-general-0,2024,redfield & wilton strategies,47,10.4918,11.9905,1,mid
+88301,2024-MI-general-0,2024,suffolk,48,1.942,22.9237,1,mid
+88335,2024-MI-general-0,2024,tarrance,48,1.7318,17.1535,1,mid
+88404,2024-MI-general-0,2024,siena/nyt,40,4.8384,16.772,2,mid
+88411,2024-MI-general-0,2024,atlasintel,41,-6.4872,11.6816,1,mid
+88440,2024-MI-general-0,2024,rmg research,39,6.1702,13.7178,1,mid
+88441,2024-MI-general-0,2024,remington,46,7.1753,13.3647,1,mid
+88471,2024-MI-general-0,2024,benenson strategy group/gs strategy group,41,3.8151,24.9966,1,mid
+88484,2024-MI-general-0,2024,trafalgar group,36,0.0722,9.7542,1,mid
+88504,2024-MI-general-0,2024,mitchell,36,5.0248,15.1222,1,mid
+88533,2024-MI-general-0,2024,redfield & wilton strategies,34,6.7913,14.1168,1,mid
+88545,2024-MI-general-0,2024,glengariff group inc.,32,3.533,18.4701,1,mid
+88574,2024-MI-general-0,2024,research co.,29,4.699,22.3894,1,late
+88591,2024-MI-general-0,2024,quinnipiac,29,-0.3515,10.3443,1,late
+88608,2024-MI-general-0,2024,emerson,28,5.2884,11.3805,1,late
+88636,2024-MI-general-0,2024,insideradvantage,27,0.7474,13.7346,1,late
+88689,2024-MI-general-0,2024,socal strategies,23,2.8743,15.5224,1,late
+88700,2024-MI-general-0,2024,fabrizio/impact,28,2.8063,17.5264,1,late
+88708,2024-MI-general-0,2024,mrg (marketing resource group),25,5.2613,19.0311,1,late
+88728,2024-MI-general-0,2024,redfield & wilton strategies,22,4.4104,17.4161,1,late
+88744,2024-MI-general-0,2024,mitchell,22,4.0929,18.8271,1,late
+88749,2024-MI-general-0,2024,morning consult,21,7.5136,10.4849,1,late
+88760,2024-MI-general-0,2024,rmg research,20,3.9038,13.4589,1,late
+88779,2024-MI-general-0,2024,bullfinch,19,9.3259,17.7533,1,late
+88785,2024-MI-general-0,2024,expedition strategies,120,6.6252,42.0775,1,mid
+88797,2024-MI-general-0,2024,atlasintel,19,-0.9765,6.8125,1,late
+88830,2024-MI-general-0,2024,redfield & wilton strategies,18,8.0822,11.8676,1,late
+88845,2024-MI-general-0,2024,trafalgar group,16,1.1802,10.0352,1,late
+88890,2024-MI-general-0,2024,rg strategies,43,4.9116,26.2429,1,mid
+88893,2024-MI-general-0,2024,quinnipiac,15,7.9818,9.1059,1,late
+88969,2024-MI-general-0,2024,patriot polling,10,2.6788,12.6781,1,late
+88976,2024-MI-general-0,2024,insideradvantage,9,0.2735,13.0203,1,late
+88994,2024-MI-general-0,2024,glengariff group inc.,12,3.8198,18.7572,1,late
+89003,2024-MI-general-0,2024,emerson,9,2.2126,10.6767,1,late
+89017,2024-MI-general-0,2024,susquehanna,9,0.2814,26.3703,1,late
+89059,2024-MI-general-0,2024,atlasintel,7,1.5235,10.5931,1,late
+89082,2024-MI-general-0,2024,suffolk,9,1.5923,21.5901,1,late
+89099,2024-MI-general-0,2024,cnn/ssrs,8,6.3151,15.2365,1,late
+89110,2024-MI-general-0,2024,beacon/shaw,8,4.2666,9.1875,2,late
+89116,2024-MI-general-0,2024,university of massachusetts lowell/yougov,12,9.9933,18.9521,1,late
+89120,2024-MI-general-0,2024,the washington post,8,1.8108,10.8321,2,late
+89138,2024-MI-general-0,2024,echelon insights,6,1.7761,17.7225,1,late
+89145,2024-MI-general-0,2024,atlasintel,5,2.9887,9.1785,1,late
+89161,2024-MI-general-0,2024,marist college,6,4.7505,7.9432,2,late
+89163,2024-MI-general-0,2024,epic-mra,8,5.2664,18.6675,1,late
+89175,2024-MI-general-0,2024,activote,5,2.0485,24.9856,1,late
+89201,2024-MI-general-0,2024,yougov,5,9.922,11.1063,2,late
+89207,2024-MI-general-0,2024,onmessage inc.,5,0.7237,13.4393,1,late
+89246,2024-MI-general-0,2024,atlasintel,3,1.004,8.7025,1,late
+89274,2024-MI-general-0,2024,siena/nyt,3,0.7123,10.8941,2,late
+89283,2024-MI-general-0,2024,morning consult,4,8.5373,9.9131,1,late
+89285,2024-MI-general-0,2024,tarrance,7,-2.3924,16.4513,1,late
+89291,2024-MI-general-0,2024,patriot polling,2,1.1621,11.7582,1,late
+89303,2024-MI-general-0,2024,insideradvantage,3,0.2722,12.9933,1,late
+89312,2024-MI-general-0,2024,mitchell,3,1.7327,17.8063,2,late
+89315,2024-MI-general-0,2024,trafalgar group,2,-0.4571,9.7865,1,late
+89322,2024-MI-general-0,2024,research co.,2,6.0314,23.5443,1,late
+89337,2024-MI-general-0,2024,emerson,3,3.5804,13.4311,1,late
+89347,2024-MI-general-0,2024,florida atlantic university/mainstreet research,3,4.6797,15.4166,2,late
+89375,2024-MI-general-0,2024,atlasintel,1,0.7931,9.3481,1,late
+87198,2024-MN-general-0,2024,surveyusa,142,0.4311,18.4889,1,mid
+87210,2024-MN-general-0,2024,emerson,140,-2.9258,11.5699,1,mid
+87581,2024-MN-general-0,2024,surveyusa,103,8.7645,16.24,1,mid
+87976,2024-MN-general-0,2024,redfield & wilton strategies,69,-6.9022,31.0263,1,mid
+87988,2024-MN-general-0,2024,surveyusa,68,0.0435,17.8264,1,mid
+88118,2024-MN-general-0,2024,redfield & wilton strategies,57,-8.5432,20.6558,1,mid
+88155,2024-MN-general-0,2024,embold research,58,-4.4076,6.5608,1,mid
+88279,2024-MN-general-0,2024,mason-dixon,48,-4.1476,13.5356,1,mid
+88291,2024-MN-general-0,2024,redfield & wilton strategies,47,-5.7092,18.5094,1,mid
+88534,2024-MN-general-0,2024,redfield & wilton strategies,34,-6.7117,21.4098,1,mid
+88729,2024-MN-general-0,2024,redfield & wilton strategies,22,-7.1446,23.6759,1,late
+88990,2024-MN-general-0,2024,embold research,14,-3.5595,6.1477,1,late
+89178,2024-MN-general-0,2024,activote,5,-3.4355,24.5904,1,late
+89224,2024-MN-general-0,2024,chism strategies,6,3.4892,20.6399,1,late
+89323,2024-MN-general-0,2024,research co.,2,2.044,23.0964,1,late
+89376,2024-MN-general-0,2024,atlasintel,1,-4.082,5.0864,1,late
+84395,2024-MO-general-0,2024,emerson,398,-3.2163,25.5247,1,early
+84609,2024-MO-general-0,2024,show me victories,371,9.5509,27.8628,1,early
+85825,2024-MO-general-0,2024,emerson,282,-2.8435,7.2509,1,early
+86324,2024-MO-general-0,2024,remington,242,-1.121,14.8918,1,early
+87216,2024-MO-general-0,2024,emerson,139,3.1959,11.7076,1,mid
+87934,2024-MO-general-0,2024,yougov,81,2.5174,11.5391,1,mid
+88106,2024-MO-general-0,2024,remington,61,-2.7576,13.3784,1,mid
+88166,2024-MO-general-0,2024,gqr,54,10.013,15.8005,2,mid
+88188,2024-MO-general-0,2024,emerson,53,1.4451,12.7353,1,mid
+88202,2024-MO-general-0,2024,change research,53,8.3492,9.2613,1,mid
+88478,2024-MO-general-0,2024,activote,35,6.0964,24.84,1,mid
+88955,2024-MO-general-0,2024,emerson,13,3.0096,17.4871,1,late
+88984,2024-MO-general-0,2024,activote,9,1.4964,24.6031,1,late
+89021,2024-MO-general-0,2024,gqr,10,10.9385,17.5264,1,late
+89324,2024-MO-general-0,2024,research co.,2,2.7561,22.6149,1,late
+88668,2024-MS-general-0,2024,change research,33,9.9617,20.8011,1,mid
+84067,2024-MT-general-0,2024,j.l. partners,446,2.7327,15.3039,1,early
+84426,2024-MT-general-0,2024,emerson,398,12.3259,30.4425,1,early
+85968,2024-MT-general-0,2024,surveyusa,264,17.3905,20.2569,1,early
+86296,2024-MT-general-0,2024,emerson,248,9.13,11.5701,1,early
+86614,2024-MT-general-0,2024,j.l. partners,221,4.0524,21.3549,1,early
+87243,2024-MT-general-0,2024,fabrizio,153,5.5928,21.6399,2,mid
+87328,2024-MT-general-0,2024,remington,127,2.015,18.4161,1,mid
+87700,2024-MT-general-0,2024,emerson,91,5.1685,10.5438,1,mid
+87758,2024-MT-general-0,2024,american pulse,85,0.8907,19.3838,1,mid
+87792,2024-MT-general-0,2024,rmg research,83,12.6545,19.8548,1,mid
+88036,2024-MT-general-0,2024,fabrizio/david binder research,68,1.0282,17.2933,1,mid
+88297,2024-MT-general-0,2024,rmg research,47,-0.2487,21.7755,1,mid
+88445,2024-MT-general-0,2024,remington,46,-1.0552,12.9304,1,mid
+88617,2024-MT-general-0,2024,siena/nyt,28,-0.5727,15.8639,2,late
+88619,2024-MT-general-0,2024,public opinion strategies,35,1.0282,20.752,1,mid
+88786,2024-MT-general-0,2024,expedition strategies,120,6.2255,41.9329,1,mid
+88963,2024-MT-general-0,2024,emerson,11,4.7453,10.1252,1,late
+89041,2024-MT-general-0,2024,msu - billings,20,7.2782,15.2999,1,late
+89377,2024-MT-general-0,2024,atlasintel,1,-4.6319,14.7295,1,late
+84416,2024-ND-general-0,2024,emerson,398,-7.5918,31.1367,1,early
+87268,2024-ND-general-0,2024,public opinion strategies,139,-6.7517,18.1014,1,mid
+87759,2024-ND-general-0,2024,lake research,95,18.4265,21.9925,1,mid
+88427,2024-ND-general-0,2024,wpai,42,1.1651,18.9501,1,mid
+88460,2024-ND-general-0,2024,lake research,40,22.9208,22.2421,1,mid
+88486,2024-ND-general-0,2024,wpai,36,5.5332,23.1094,1,mid
+88000,2024-NE-general-1,2024,surveyusa,70,4.6731,8.9271,1,mid
+88338,2024-NE-general-1,2024,surveyusa,43,4.7005,19.5129,1,mid
+88692,2024-NE-general-1,2024,surveyusa,24,7.3773,19.1118,1,late
+88973,2024-NE-general-1,2024,siena/nyt,10,5.3655,8.6064,2,late
+86659,2024-NJ-general-0,2024,fairleigh dickinson,211,0.4873,14.0559,1,early
+87270,2024-NJ-general-0,2024,co/efficient,131,-0.5242,16.3175,1,mid
+87927,2024-NJ-general-0,2024,national research,82,-2.8153,23.3578,1,mid
+88787,2024-NJ-general-0,2024,expedition strategies,120,7.7895,41.9056,1,mid
+88960,2024-NJ-general-0,2024,cygnal,12,7.853,17.434,2,late
+89079,2024-NJ-general-0,2024,fairleigh dickinson,9,8.8925,12.4695,1,late
+89084,2024-NJ-general-0,2024,rutgers-eagleton,14,34.0472,25.9716,2,late
+89325,2024-NJ-general-0,2024,research co.,2,9.2914,22.7738,1,late
+87126,2024-NM-general-0,2024,red oak strategic,170,-6.3159,7.0222,1,mid
+87195,2024-NM-general-0,2024,ppp,144,-2.0674,20.5763,1,mid
+87281,2024-NM-general-0,2024,1892 polling,134,-5.5679,18.9003,1,mid
+87688,2024-NM-general-0,2024,redfield & wilton strategies,94,-2.0052,27.2306,1,mid
+87827,2024-NM-general-0,2024,redfield & wilton strategies,82,-2.421,28.1339,1,mid
+87882,2024-NM-general-0,2024,emerson,75,3.6439,11.7533,1,mid
+87978,2024-NM-general-0,2024,redfield & wilton strategies,69,3.0445,26.4961,1,mid
+88120,2024-NM-general-0,2024,redfield & wilton strategies,57,1.7914,22.526,1,mid
+88178,2024-NM-general-0,2024,research & polling,53,3.523,20.963,1,mid
+88280,2024-NM-general-0,2024,surveyusa,48,5.936,19.4308,1,mid
+88821,2024-NM-general-0,2024,research & polling,18,1.9746,10.5747,1,late
+89334,2024-NM-general-0,2024,victory insights,2,-8.391,16.8812,1,late
+84522,2024-NV-general-0,2024,tarrance,376,4.1366,19.54,1,early
+86164,2024-NV-general-0,2024,emerson,260,0.3161,12.8811,1,early
+86468,2024-NV-general-0,2024,noble predictive insights,245,6.149,15.7731,1,early
+86497,2024-NV-general-0,2024,emerson,235,0.2643,12.5577,1,early
+86752,2024-NV-general-0,2024,emerson,190,7.83,12.0101,1,early
+86900,2024-NV-general-0,2024,siena/nyt,180,-0.4637,20.3642,2,mid
+87027,2024-NV-general-0,2024,florida atlantic university/mainstreet research,168,12.4475,23.0004,2,mid
+87034,2024-NV-general-0,2024,the tyson group,164,15.7543,20.1617,1,mid
+87208,2024-NV-general-0,2024,emerson,140,11.9167,11.2667,1,mid
+87238,2024-NV-general-0,2024,fabrizio/impact,140,3.8722,18.6675,1,mid
+87306,2024-NV-general-0,2024,national public affairs,127,9.0651,16.3471,1,mid
+87329,2024-NV-general-0,2024,remington,127,0.3819,17.693,1,mid
+87498,2024-NV-general-0,2024,redfield & wilton strategies,110,3.3825,31.0359,1,mid
+87562,2024-NV-general-0,2024,redfield & wilton strategies,104,4.1366,26.9517,1,mid
+87687,2024-NV-general-0,2024,redfield & wilton strategies,94,2.0517,26.8936,1,mid
+87766,2024-NV-general-0,2024,benenson strategy group/gs strategy group,95,18.2543,26.4682,1,mid
+87807,2024-NV-general-0,2024,siena/nyt,82,9.781,16.7568,2,mid
+87826,2024-NV-general-0,2024,redfield & wilton strategies,82,3.3825,23.856,1,mid
+87922,2024-NV-general-0,2024,strategies 360,83,11.8906,31.8638,1,mid
+87932,2024-NV-general-0,2024,beacon/shaw,71,12.8376,9.9368,1,mid
+87937,2024-NV-general-0,2024,emerson,69,10.3788,9.3835,1,mid
+87977,2024-NV-general-0,2024,redfield & wilton strategies,69,3.1323,24.8288,1,mid
+87989,2024-NV-general-0,2024,insideradvantage,66,8.8345,14.0615,1,mid
+88018,2024-NV-general-0,2024,cnn/ssrs,68,9.3654,17.5303,1,mid
+88089,2024-NV-general-0,2024,morning consult,58,9.1265,21.2244,1,mid
+88119,2024-NV-general-0,2024,redfield & wilton strategies,57,7.5566,16.5147,1,mid
+88180,2024-NV-general-0,2024,trafalgar group,53,7.0579,10.3792,1,mid
+88238,2024-NV-general-0,2024,emerson,48,6.2769,12.5438,1,mid
+88252,2024-NV-general-0,2024,morning consult,48,13.0719,22.732,1,mid
+88292,2024-NV-general-0,2024,redfield & wilton strategies,47,8.8425,17.8417,1,mid
+88313,2024-NV-general-0,2024,noble predictive insights,50,14.6356,15.9033,2,mid
+88412,2024-NV-general-0,2024,atlasintel,41,-0.1415,12.462,1,mid
+88442,2024-NV-general-0,2024,remington,46,5.0724,14.1385,1,mid
+88451,2024-NV-general-0,2024,insideradvantage,36,6.8446,13.6649,1,mid
+88472,2024-NV-general-0,2024,benenson strategy group/gs strategy group,41,13.8098,26.5092,1,mid
+88510,2024-NV-general-0,2024,tarrance,47,6.1194,18.6107,1,mid
+88535,2024-NV-general-0,2024,redfield & wilton strategies,34,6.1194,21.7246,1,mid
+88557,2024-NV-general-0,2024,rmg research,33,14.9209,12.9505,1,mid
+88609,2024-NV-general-0,2024,emerson,28,7.7005,11.9565,1,late
+88706,2024-NV-general-0,2024,trafalgar group,23,3.1108,10.1209,1,late
+88730,2024-NV-general-0,2024,redfield & wilton strategies,22,4.0014,13.671,1,late
+88750,2024-NV-general-0,2024,morning consult,21,15.1082,22.0097,1,late
+88798,2024-NV-general-0,2024,atlasintel,19,2.8048,9.4584,1,late
+88831,2024-NV-general-0,2024,redfield & wilton strategies,18,6.1194,21.1086,1,late
+88842,2024-NV-general-0,2024,insideradvantage,16,2.9231,13.5426,1,late
+88865,2024-NV-general-0,2024,fabrizio/impact,21,3.6306,17.8693,1,late
+88940,2024-NV-general-0,2024,onmessage inc.,14,-1.7457,17.3611,1,late
+89027,2024-NV-general-0,2024,cnn/ssrs,10,8.1444,15.932,1,late
+89039,2024-NV-general-0,2024,trafalgar group,8,0.3308,10.0963,1,late
+89060,2024-NV-general-0,2024,atlasintel,7,3.3026,9.8927,1,late
+89146,2024-NV-general-0,2024,atlasintel,5,0.3039,12.7609,1,late
+89162,2024-NV-general-0,2024,emerson,5,2.2115,15.2549,1,late
+89182,2024-NV-general-0,2024,susquehanna,5,-2.6041,26.8221,1,late
+89202,2024-NV-general-0,2024,yougov,5,5.6227,13.5777,2,late
+89214,2024-NV-general-0,2024,data for progress,6,5.9466,15.1512,1,late
+89215,2024-NV-general-0,2024,noble predictive insights,5,0.3819,17.9317,1,late
+89273,2024-NV-general-0,2024,siena/nyt,3,9.5128,10.4537,2,late
+89296,2024-NV-general-0,2024,patriot polling,2,1.3887,12.7542,1,late
+89338,2024-NV-general-0,2024,emerson,3,4.4376,12.6431,1,late
+89378,2024-NV-general-0,2024,atlasintel,1,4.3049,15.5033,1,late
+87678,2024-NY-general-0,2024,siena,96,7.4346,8.7453,1,mid
+87680,2024-NY-general-0,2024,activote,92,7.9919,23.2576,1,mid
+88229,2024-NY-general-0,2024,siena,50,8.6508,10.8707,1,mid
+88369,2024-NY-general-0,2024,activote,41,0.9919,24.0591,1,mid
+88391,2024-NY-general-0,2024,emerson,41,1.64,11.5223,1,mid
+88841,2024-NY-general-0,2024,siena,19,11.1374,11.8941,1,late
+88982,2024-NY-general-0,2024,activote,8,0.7919,24.0784,1,late
+89022,2024-NY-general-0,2024,cygnal,9,1.6333,16.5261,1,late
+89076,2024-NY-general-0,2024,yougov,19,9.6818,9.5036,1,late
+89326,2024-NY-general-0,2024,research co.,2,11.3792,21.5431,1,late
+83135,2024-OH-general-0,2024,east carolina university,500,7.6201,14.1273,1,early
+83223,2024-OH-general-0,2024,suffolk,482,11.7834,22.1773,1,early
+83308,2024-OH-general-0,2024,ohio northern university institute for civics and public policy,468,26.4253,19.198,1,early
+84367,2024-OH-general-0,2024,emerson,398,7.0021,33.738,1,early
+84526,2024-OH-general-0,2024,ohio northern university institute for civics and public policy,383,33.4774,18.4418,1,early
+84649,2024-OH-general-0,2024,data for progress,369,7.0444,18.387,1,early
+84696,2024-OH-general-0,2024,emerson,358,18.072,13.2362,1,early
+85794,2024-OH-general-0,2024,emerson,285,6.7542,7.0825,1,early
+86461,2024-OH-general-0,2024,emerson,240,10.0663,10.5242,1,early
+86469,2024-OH-general-0,2024,surveyusa,239,11.2477,10.0159,1,early
+86474,2024-OH-general-0,2024,east carolina university,239,8.5655,9.0321,1,early
+86478,2024-OH-general-0,2024,florida atlantic university/mainstreet research,237,17.0093,16.6487,1,early
+87108,2024-OH-general-0,2024,national public affairs,160,11.7477,24.5333,1,mid
+87145,2024-OH-general-0,2024,marist college,152,9.0108,9.2323,1,mid
+87330,2024-OH-general-0,2024,remington,127,10.1306,17.3404,1,mid
+87650,2024-OH-general-0,2024,fabrizio/impact,100,8.2931,18.9003,1,mid
+87745,2024-OH-general-0,2024,activote,85,8.7477,24.9375,1,mid
+88002,2024-OH-general-0,2024,socal strategies,65,9.0108,17.4953,1,mid
+88066,2024-OH-general-0,2024,emerson,61,5.3067,11.7811,1,mid
+88090,2024-OH-general-0,2024,morning consult,58,7.6455,7.1782,1,mid
+88253,2024-OH-general-0,2024,morning consult,48,5.8501,7.5123,1,mid
+88272,2024-OH-general-0,2024,activote,44,1.5477,24.9879,1,mid
+88327,2024-OH-general-0,2024,rmg research,46,1.62,13.6152,1,mid
+88405,2024-OH-general-0,2024,siena/nyt,40,8.8435,16.4086,2,mid
+88508,2024-OH-general-0,2024,bowling green state university/yougov,39,8.003,10.619,1,mid
+88615,2024-OH-general-0,2024,marist college,29,5.2835,7.2542,2,late
+88616,2024-OH-general-0,2024,the washington post,29,4.8003,10.5041,2,late
+88752,2024-OH-general-0,2024,morning consult,21,2.6724,8.6496,1,late
+88819,2024-OH-general-0,2024,activote,16,-0.0523,24.9639,1,late
+88925,2024-OH-general-0,2024,bowling green state university/yougov,15,5.9216,10.8644,1,late
+88941,2024-OH-general-0,2024,onmessage inc.,14,1.6643,17.3536,1,late
+89018,2024-OH-general-0,2024,activote,8,1.7477,24.99,1,late
+89067,2024-OH-general-0,2024,trafalgar group,8,4.588,9.3198,1,late
+89154,2024-OH-general-0,2024,university of akron,12,5.9699,8.9489,1,late
+89239,2024-OH-general-0,2024,miami university (ohio),6,5.8753,12.4078,1,late
+89265,2024-OH-general-0,2024,morning consult,4,2.6724,8.5737,1,late
+89349,2024-OH-general-0,2024,emerson,3,-0.2523,11.0933,1,late
+89363,2024-OH-general-0,2024,j.l. partners,12,-2.3748,10.1964,1,late
+89380,2024-OH-general-0,2024,atlasintel,1,0.5764,10.3329,1,late
+89389,2024-OH-general-0,2024,trafalgar group,1,2.9143,9.5123,1,late
+82601,2024-PA-general-0,2024,franklin and marshall college,578,9.3137,35.8766,1,early
+82788,2024-PA-general-0,2024,susquehanna,547,12.9888,14.9499,1,early
+84317,2024-PA-general-0,2024,quinnipiac,400,6.6058,6.142,1,early
+84377,2024-PA-general-0,2024,emerson,398,10.8268,30.8648,1,early
+84492,2024-PA-general-0,2024,franklin and marshall college,380,8.4581,13.3848,1,early
+85448,2024-PA-general-0,2024,bullfinch,329,21.962,17.2598,1,early
+85584,2024-PA-general-0,2024,quinnipiac,302,10.6395,6.1331,1,early
+85694,2024-PA-general-0,2024,susquehanna,289,4.541,15.2248,1,early
+85797,2024-PA-general-0,2024,franklin and marshall college,282,14.857,11.8628,1,early
+85914,2024-PA-general-0,2024,chism strategies,271,1.5562,26.6619,1,early
+86067,2024-PA-general-0,2024,emerson,263,12.0212,11.2953,1,early
+86186,2024-PA-general-0,2024,public opinion strategies,285,8.2688,14.2748,1,early
+86470,2024-PA-general-0,2024,emerson,237,4.8228,9.9788,1,early
+86534,2024-PA-general-0,2024,susquehanna,244,6.8895,24.5816,1,early
+86604,2024-PA-general-0,2024,franklin and marshall college,219,8.4581,27.1112,1,early
+86624,2024-PA-general-0,2024,bullfinch,224,22.3007,15.4425,1,early
+86739,2024-PA-general-0,2024,yougov,194,8.4581,8.9471,1,early
+86749,2024-PA-general-0,2024,emerson,190,4.8661,11.3006,1,early
+86867,2024-PA-general-0,2024,muhlenberg,194,4.874,27.8243,1,early
+86868,2024-PA-general-0,2024,fabrizio/impact,189,4.5706,18.0817,1,early
+86901,2024-PA-general-0,2024,siena/nyt,180,4.2074,11.0273,2,mid
+87020,2024-PA-general-0,2024,benenson strategy group/gs strategy group,176,9.1117,15.1004,1,mid
+87098,2024-PA-general-0,2024,florida atlantic university/mainstreet research,158,8.6144,11.5078,2,mid
+87152,2024-PA-general-0,2024,marist college,152,6.3453,8.6078,1,mid
+87211,2024-PA-general-0,2024,emerson,140,7.2683,11.3072,1,mid
+87283,2024-PA-general-0,2024,cygnal,130,4.4321,14.1955,1,mid
+87295,2024-PA-general-0,2024,bullfinch,139,14.5085,14.5773,1,mid
+87331,2024-PA-general-0,2024,remington,127,1.2537,15.3168,1,mid
+87403,2024-PA-general-0,2024,siena/nyt,117,10.7505,12.5296,2,mid
+87427,2024-PA-general-0,2024,kaconsulting llc,170,12.1276,19.5601,1,mid
+87485,2024-PA-general-0,2024,ppp,110,12.5824,17.7313,1,mid
+87499,2024-PA-general-0,2024,redfield & wilton strategies,110,8.8648,17.8103,1,mid
+87514,2024-PA-general-0,2024,ppp,116,3.5195,20.4415,1,mid
+87518,2024-PA-general-0,2024,socal research,107,11.3339,21.9479,1,mid
+87540,2024-PA-general-0,2024,north star opinion research,105,9.1117,18.3722,1,mid
+87546,2024-PA-general-0,2024,emerson,105,4.4758,12.8064,1,mid
+87563,2024-PA-general-0,2024,redfield & wilton strategies,104,8.4581,13.7308,1,mid
+87575,2024-PA-general-0,2024,bullfinch,103,11.8018,12.9815,1,mid
+87583,2024-PA-general-0,2024,beacon/shaw,104,13.6249,9.7912,1,mid
+87618,2024-PA-general-0,2024,susquehanna,100,5.8408,18.6675,1,mid
+87690,2024-PA-general-0,2024,redfield & wilton strategies,94,6.1052,15.7793,1,mid
+87721,2024-PA-general-0,2024,siena/nyt,88,16.3169,16.1586,2,mid
+87730,2024-PA-general-0,2024,bullfinch,86,13.5562,21.8272,1,mid
+87768,2024-PA-general-0,2024,benenson strategy group/gs strategy group,95,14.2013,25.6511,1,mid
+87777,2024-PA-general-0,2024,quinnipiac,85,8.5562,5.9519,1,mid
+87782,2024-PA-general-0,2024,franklin and marshall college,86,14.5085,12.6759,1,mid
+87797,2024-PA-general-0,2024,emerson,83,5.2447,10.8895,1,mid
+87800,2024-PA-general-0,2024,cygnal,82,4.9847,14.1402,1,mid
+87829,2024-PA-general-0,2024,redfield & wilton strategies,82,10.2228,15.0,1,mid
+87894,2024-PA-general-0,2024,socal strategies,74,6.5731,15.2593,2,mid
+87896,2024-PA-general-0,2024,activote,74,10.0228,24.7599,1,mid
+87938,2024-PA-general-0,2024,emerson,69,4.9018,11.429,1,mid
+87941,2024-PA-general-0,2024,fabrizio ward,76,3.5936,28.058,1,mid
+87986,2024-PA-general-0,2024,wick,68,2.3505,6.617,1,mid
+88019,2024-PA-general-0,2024,cnn/ssrs,68,0.2228,13.7764,1,mid
+88071,2024-PA-general-0,2024,yougov,60,8.088,10.3585,1,mid
+88091,2024-PA-general-0,2024,morning consult,58,10.2329,5.797,1,mid
+88127,2024-PA-general-0,2024,co/efficient,60,11.3339,13.7157,1,mid
+88184,2024-PA-general-0,2024,suffolk,52,4.8999,22.223,1,mid
+88186,2024-PA-general-0,2024,insideradvantage,51,5.1479,13.3508,1,mid
+88211,2024-PA-general-0,2024,quinnipiac,50,9.6965,7.8376,1,mid
+88227,2024-PA-general-0,2024,franklin and marshall college,51,9.3137,12.6626,1,mid
+88231,2024-PA-general-0,2024,the washington post,50,0.7605,10.5524,2,mid
+88232,2024-PA-general-0,2024,marist college,49,5.8093,6.4695,2,mid
+88239,2024-PA-general-0,2024,emerson,48,5.0706,12.7812,1,mid
+88242,2024-PA-general-0,2024,siena/nyt,50,10.4514,10.3939,2,mid
+88254,2024-PA-general-0,2024,morning consult,48,9.5789,6.3326,1,mid
+88267,2024-PA-general-0,2024,massinc polling group,48,7.9151,13.655,1,mid
+88339,2024-PA-general-0,2024,muhlenberg,47,5.7173,24.3463,1,mid
+88354,2024-PA-general-0,2024,monmouth,43,4.9847,18.1617,1,mid
+88355,2024-PA-general-0,2024,rmg research,46,6.6058,13.5312,1,mid
+88357,2024-PA-general-0,2024,susquehanna,44,9.3137,16.0996,1,mid
+88403,2024-PA-general-0,2024,beacon/shaw,42,9.5012,11.599,2,mid
+88413,2024-PA-general-0,2024,atlasintel,41,2.2769,6.088,1,mid
+88420,2024-PA-general-0,2024,trafalgar group,37,2.1583,9.8612,1,mid
+88425,2024-PA-general-0,2024,patriot polling,37,3.2531,12.3673,1,mid
+88430,2024-PA-general-0,2024,fabrizio/impact,42,4.4781,17.6984,1,mid
+88443,2024-PA-general-0,2024,remington,46,4.4781,13.2738,1,mid
+88465,2024-PA-general-0,2024,emerson,38,2.0607,10.8072,1,mid
+88474,2024-PA-general-0,2024,benenson strategy group/gs strategy group,41,7.4393,21.6363,1,mid
+88499,2024-PA-general-0,2024,onmessage inc.,37,1.3464,14.0432,1,mid
+88560,2024-PA-general-0,2024,activote,29,6.4228,24.9039,1,late
+88570,2024-PA-general-0,2024,bullfinch,37,10.5676,14.2141,1,mid
+88575,2024-PA-general-0,2024,research co.,29,3.2531,22.4261,1,late
+88592,2024-PA-general-0,2024,quinnipiac,29,8.7335,7.4796,1,late
+88611,2024-PA-general-0,2024,emerson,28,2.0371,10.6688,1,late
+88633,2024-PA-general-0,2024,tipp,27,6.9905,12.1271,2,late
+88664,2024-PA-general-0,2024,siena/nyt,26,5.144,12.7216,2,late
+88690,2024-PA-general-0,2024,american pulse,26,3.7598,8.9729,1,late
+88753,2024-PA-general-0,2024,morning consult,21,9.1117,7.902,1,late
+88780,2024-PA-general-0,2024,bullfinch,19,7.7497,17.8196,1,late
+88788,2024-PA-general-0,2024,expedition strategies,120,3.4486,37.8222,1,mid
+88800,2024-PA-general-0,2024,atlasintel,19,-1.035,5.1174,1,late
+88807,2024-PA-general-0,2024,trafalgar group,17,-0.2027,9.8138,1,late
+88892,2024-PA-general-0,2024,rg strategies,43,2.3967,27.1611,1,mid
+88909,2024-PA-general-0,2024,franklin and marshall college,16,4.5844,15.7197,2,late
+88911,2024-PA-general-0,2024,emerson,14,1.738,12.5814,1,late
+88970,2024-PA-general-0,2024,insideradvantage,9,0.2228,13.3547,1,late
+89063,2024-PA-general-0,2024,atlasintel,7,2.431,8.0909,1,late
+89066,2024-PA-general-0,2024,yougov,8,6.8895,8.8565,1,late
+89073,2024-PA-general-0,2024,yougov,19,8.4168,10.3144,2,late
+89098,2024-PA-general-0,2024,monmouth,8,1.3464,13.6341,1,late
+89100,2024-PA-general-0,2024,cnn/ssrs,8,3.4486,13.1154,1,late
+89102,2024-PA-general-0,2024,susquehanna,14,3.1889,21.1678,1,late
+89104,2024-PA-general-0,2024,quinnipiac,8,3.3156,4.7115,1,late
+89109,2024-PA-general-0,2024,beacon/shaw,8,3.8205,8.7493,2,late
+89147,2024-PA-general-0,2024,atlasintel,5,4.0123,6.0479,1,late
+89160,2024-PA-general-0,2024,marist college,6,2.2636,6.9162,2,late
+89174,2024-PA-general-0,2024,activote,5,1.2228,24.9975,1,late
+89197,2024-PA-general-0,2024,the washington post,6,3.9294,8.7769,2,late
+89204,2024-PA-general-0,2024,yougov,5,7.1777,11.0378,2,late
+89206,2024-PA-general-0,2024,onmessage inc.,5,0.2228,13.587,1,late
+89248,2024-PA-general-0,2024,atlasintel,3,2.4264,5.1186,1,late
+89266,2024-PA-general-0,2024,morning consult,5,3.4703,7.2733,1,late
+89269,2024-PA-general-0,2024,muhlenberg,6,3.3807,22.8605,1,late
+89275,2024-PA-general-0,2024,siena/nyt,3,5.486,6.8744,2,late
+89290,2024-PA-general-0,2024,patriot polling,2,1.6313,11.1388,1,late
+89305,2024-PA-general-0,2024,insideradvantage,3,1.3868,13.2257,1,late
+89306,2024-PA-general-0,2024,trafalgar group,2,-1.3849,9.8396,1,late
+89327,2024-PA-general-0,2024,research co.,2,2.3505,23.63,1,late
+89339,2024-PA-general-0,2024,emerson,3,0.4356,10.6382,1,late
+89345,2024-PA-general-0,2024,florida atlantic university/mainstreet research,3,5.6582,14.5338,2,late
+89381,2024-PA-general-0,2024,atlasintel,1,3.0441,5.6745,1,late
+88217,2024-RI-general-0,2024,u. new hampshire,50,1.3297,16.6297,1,mid
+88311,2024-RI-general-0,2024,massinc polling group,48,-3.2449,13.646,1,mid
+88428,2024-RI-general-0,2024,embold research,46,-1.9171,12.5434,1,mid
+88702,2024-RI-general-0,2024,u. rhode island,58,16.7432,22.7438,1,mid
+89300,2024-RI-general-0,2024,u. new hampshire,3,-5.2053,14.6925,1,late
+84428,2024-TN-general-0,2024,emerson,398,-1.0479,29.1788,1,early
+84491,2024-TN-general-0,2024,targoz market research,386,6.0028,13.1999,2,early
+85345,2024-TN-general-0,2024,ssrs,339,11.1508,21.5229,1,early
+86629,2024-TN-general-0,2024,targoz market research,217,7.4693,12.583,2,early
+86998,2024-TN-general-0,2024,ssrs,180,18.164,10.7961,1,mid
+87398,2024-TN-general-0,2024,targoz market research,127,7.8533,11.198,2,mid
+88009,2024-TN-general-0,2024,activote,64,10.6519,24.0396,1,mid
+88695,2024-TN-general-0,2024,targoz market research,28,2.525,10.3438,2,late
+88792,2024-TN-general-0,2024,activote,18,7.6519,23.7231,1,late
+89019,2024-TN-general-0,2024,activote,8,8.6519,23.8336,1,late
+82874,2024-TX-general-0,2024,university of texas at tyler,534,2.3761,8.9225,1,early
+82878,2024-TX-general-0,2024,texas hispanic policy foundation,538,0.6593,11.4198,1,early
+85451,2024-TX-general-0,2024,u. texas,331,-14.1519,11.2828,1,early
+85646,2024-TX-general-0,2024,emerson,295,6.5101,9.2694,1,early
+85736,2024-TX-general-0,2024,u. houston,286,-1.6396,9.9312,1,early
+85964,2024-TX-general-0,2024,national public affairs,271,8.7053,14.0813,1,early
+86065,2024-TX-general-0,2024,u. texas,267,-9.2435,10.3396,1,early
+86238,2024-TX-general-0,2024,university of texas at tyler,253,8.7053,10.45,1,early
+86544,2024-TX-general-0,2024,marist college,229,2.4553,9.2891,1,early
+86668,2024-TX-general-0,2024,texas hispanic policy foundation,209,2.9581,7.1602,1,early
+86775,2024-TX-general-0,2024,u. texas,197,-7.7504,10.2629,1,early
+87011,2024-TX-general-0,2024,texas lyceum,198,-5.1836,14.7095,1,early
+87203,2024-TX-general-0,2024,u. texas,149,-5.2188,10.344,1,mid
+87251,2024-TX-general-0,2024,university of texas at tyler,138,4.5421,11.4831,2,mid
+87307,2024-TX-general-0,2024,manhattan institute,131,5.3345,18.7053,1,mid
+87332,2024-TX-general-0,2024,remington,127,-1.7114,17.4934,1,mid
+87368,2024-TX-general-0,2024,university of houston/texas southern university,127,5.4085,7.3969,1,mid
+87501,2024-TX-general-0,2024,activote,110,0.9053,24.8479,1,mid
+87861,2024-TX-general-0,2024,university of houston/texas southern university,81,6.4001,8.0374,1,mid
+87910,2024-TX-general-0,2024,ppp,75,5.2373,15.6843,2,mid
+87965,2024-TX-general-0,2024,activote,68,-1.6947,24.7296,1,mid
+88065,2024-TX-general-0,2024,emerson,61,4.6966,12.801,1,mid
+88067,2024-TX-general-0,2024,u. texas,66,-1.2947,10.3125,1,mid
+88092,2024-TX-general-0,2024,morning consult,58,3.5644,3.7912,1,mid
+88162,2024-TX-general-0,2024,lake research,68,4.2608,13.8615,1,mid
+88255,2024-TX-general-0,2024,morning consult,48,9.5443,4.1186,1,mid
+88285,2024-TX-general-0,2024,texas hispanic policy foundation,48,5.4794,8.9512,1,mid
+88364,2024-TX-general-0,2024,emerson,42,4.4409,11.2017,1,mid
+88419,2024-TX-general-0,2024,ppp,40,7.0312,14.5647,2,mid
+88446,2024-TX-general-0,2024,activote,36,3.9053,24.9424,1,mid
+88459,2024-TX-general-0,2024,rmg research,39,5.6125,13.2213,1,mid
+88511,2024-TX-general-0,2024,cws research,57,1.7285,22.9589,1,mid
+88556,2024-TX-general-0,2024,siena/nyt,32,5.3949,17.9958,2,mid
+88569,2024-TX-general-0,2024,florida atlantic university/mainstreet research,30,5.3715,14.0013,2,late
+88614,2024-TX-general-0,2024,marist college,29,4.5816,8.1074,2,late
+88686,2024-TX-general-0,2024,u. houston,26,4.5386,7.8244,1,late
+88740,2024-TX-general-0,2024,activote,20,3.1053,24.9216,1,late
+88754,2024-TX-general-0,2024,morning consult,21,7.6064,5.3651,1,late
+88768,2024-TX-general-0,2024,u. texas,26,1.3368,9.5959,1,late
+88877,2024-TX-general-0,2024,emerson,15,7.128,12.8989,1,late
+88972,2024-TX-general-0,2024,siena/nyt,10,5.043,8.862,2,late
+88975,2024-TX-general-0,2024,gbao,13,8.7053,13.587,1,late
+88981,2024-TX-general-0,2024,activote,9,3.9053,24.9424,1,late
+89042,2024-TX-general-0,2024,university of texas at tyler,15,6.5313,11.3645,1,late
+89075,2024-TX-general-0,2024,yougov,19,4.4499,9.584,1,late
+89081,2024-TX-general-0,2024,cygnal,8,4.4499,17.6984,1,late
+89267,2024-TX-general-0,2024,morning consult,5,5.4373,5.1328,1,late
+89382,2024-TX-general-0,2024,atlasintel,1,1.5624,4.1709,1,late
+87876,2024-UT-general-0,2024,harrisx,88,-10.1542,11.6378,2,mid
+88359,2024-UT-general-0,2024,lighthouse research,47,10.9721,20.9951,1,mid
+88718,2024-UT-general-0,2024,noble predictive insights,29,-7.0238,20.9856,2,late
+88954,2024-UT-general-0,2024,harrisx,17,-13.4267,10.8874,1,late
+89111,2024-UT-general-0,2024,noble predictive insights,8,-2.3593,15.7824,1,late
+86912,2024-VA-general-0,2024,fabrizio/impact,191,5.3337,23.3236,1,early
+87404,2024-VA-general-0,2024,siena/nyt,116,11.0636,16.5995,2,mid
+87416,2024-VA-general-0,2024,virginia commonwealth u.,125,3.2655,14.3945,2,mid
+87440,2024-VA-general-0,2024,florida atlantic university/mainstreet research,115,7.5143,21.2792,2,mid
+87468,2024-VA-general-0,2024,emerson,113,2.6438,11.3267,1,mid
+87473,2024-VA-general-0,2024,florida atlantic university/mainstreet research,113,3.4583,45.6215,2,mid
+87845,2024-VA-general-0,2024,roanoke college,81,3.6916,16.3683,1,mid
+88003,2024-VA-general-0,2024,activote,65,1.648,24.7191,1,mid
+88105,2024-VA-general-0,2024,washington post/george mason university,58,3.8139,10.4129,2,mid
+88265,2024-VA-general-0,2024,research america,57,-1.4743,13.1395,2,mid
+88365,2024-VA-general-0,2024,emerson,42,1.7739,12.453,1,mid
+88541,2024-VA-general-0,2024,christopher newport u.,32,13.2702,13.203,1,mid
+88696,2024-VA-general-0,2024,activote,22,2.848,24.6519,1,late
+88959,2024-VA-general-0,2024,washington post/george mason university,13,5.3369,10.3245,2,late
+89012,2024-VA-general-0,2024,activote,8,0.448,24.7791,1,late
+89157,2024-VA-general-0,2024,roanoke college,7,3.1359,12.7244,1,late
+89187,2024-VA-general-0,2024,cygnal,7,1.6589,17.6624,1,late
+89223,2024-VA-general-0,2024,chism strategies,6,-7.3091,21.0576,1,late
+89328,2024-VA-general-0,2024,research co.,2,3.8139,23.2554,1,late
+89383,2024-VA-general-0,2024,atlasintel,1,-0.0493,4.6639,1,late
+84692,2024-WA-general-0,2024,elway,368,11.8014,34.1444,1,early
+84702,2024-WA-general-0,2024,ppp,356,-3.8949,15.7089,1,early
+86605,2024-WA-general-0,2024,echelon insights,229,-8.5017,20.625,1,early
+87033,2024-WA-general-0,2024,elway,173,-5.4582,35.3503,1,mid
+88149,2024-WA-general-0,2024,elway,60,6.4983,26.4353,1,mid
+88722,2024-WA-general-0,2024,surveyusa,22,7.9351,15.2076,1,late
+88766,2024-WA-general-0,2024,ppp,19,-2.0182,18.7223,1,late
+89329,2024-WA-general-0,2024,research co.,2,2.3317,22.1435,1,late
+86194,2024-WI-general-0,2024,emerson,255,8.2232,11.7088,1,early
+86503,2024-WI-general-0,2024,emerson,232,2.7161,11.5458,1,early
+86678,2024-WI-general-0,2024,marquette law school,209,1.6576,13.2609,2,early
+86741,2024-WI-general-0,2024,yougov,194,6.9974,8.969,1,early
+86753,2024-WI-general-0,2024,emerson,190,3.0604,11.206,1,early
+86879,2024-WI-general-0,2024,quinnipiac,183,11.6323,7.0377,1,early
+86902,2024-WI-general-0,2024,siena/nyt,180,8.0346,17.952,2,mid
+87021,2024-WI-general-0,2024,benenson strategy group/gs strategy group,176,13.0857,22.667,1,mid
+87099,2024-WI-general-0,2024,florida atlantic university/mainstreet research,158,6.8698,38.0679,2,mid
+87212,2024-WI-general-0,2024,emerson,140,1.9131,11.1149,1,mid
+87248,2024-WI-general-0,2024,marquette law school,138,4.1828,12.2093,2,mid
+87325,2024-WI-general-0,2024,socal research,126,12.7686,22.7599,1,mid
+87333,2024-WI-general-0,2024,remington,127,-0.8677,17.566,1,mid
+87360,2024-WI-general-0,2024,fabrizio/impact,126,4.3954,17.4953,1,mid
+87380,2024-WI-general-0,2024,north star opinion research,118,8.0211,18.3722,1,mid
+87428,2024-WI-general-0,2024,kaconsulting llc,170,3.6777,18.9003,1,mid
+87515,2024-WI-general-0,2024,ppp,117,7.6429,19.2723,1,mid
+87545,2024-WI-general-0,2024,emerson,105,4.6818,12.8377,1,mid
+87582,2024-WI-general-0,2024,beacon/shaw,104,10.4725,9.7292,1,mid
+87698,2024-WI-general-0,2024,marquette law school,96,5.3208,12.2683,4,mid
+87720,2024-WI-general-0,2024,siena/nyt,89,7.0718,15.908,2,mid
+87731,2024-WI-general-0,2024,bullfinch,86,9.0224,21.763,1,mid
+87769,2024-WI-general-0,2024,benenson strategy group/gs strategy group,95,6.6591,26.4648,1,mid
+87790,2024-WI-general-0,2024,tipp,83,7.2435,10.7913,2,mid
+87939,2024-WI-general-0,2024,emerson,69,0.3745,12.1769,1,mid
+87942,2024-WI-general-0,2024,fabrizio ward,76,4.6268,27.3896,1,mid
+87980,2024-WI-general-0,2024,redfield & wilton strategies,69,4.8794,17.048,1,mid
+88020,2024-WI-general-0,2024,cnn/ssrs,68,5.3823,10.6311,1,mid
+88072,2024-WI-general-0,2024,yougov,60,7.6429,11.1641,1,mid
+88076,2024-WI-general-0,2024,bk strategies,76,4.5086,17.8693,1,mid
+88093,2024-WI-general-0,2024,morning consult,58,6.3274,17.0246,1,mid
+88122,2024-WI-general-0,2024,redfield & wilton strategies,57,7.3676,18.666,1,mid
+88126,2024-WI-general-0,2024,co/efficient,60,5.654,11.803,1,mid
+88135,2024-WI-general-0,2024,marquette law school,61,4.5199,13.1201,4,mid
+88209,2024-WI-general-0,2024,fabrizio/impact,52,2.225,17.1657,1,mid
+88213,2024-WI-general-0,2024,quinnipiac,50,3.2139,9.4764,1,mid
+88233,2024-WI-general-0,2024,marist college,49,3.7086,8.1002,2,mid
+88241,2024-WI-general-0,2024,emerson,48,1.9774,10.5289,1,mid
+88256,2024-WI-general-0,2024,morning consult,48,6.236,17.8211,1,mid
+88286,2024-WI-general-0,2024,massinc polling group,48,7.4656,12.9304,1,mid
+88294,2024-WI-general-0,2024,redfield & wilton strategies,47,4.8794,19.0938,1,mid
+88376,2024-WI-general-0,2024,rmg research,43,5.3823,13.1675,1,mid
+88406,2024-WI-general-0,2024,siena/nyt,40,7.2435,15.7935,2,mid
+88414,2024-WI-general-0,2024,atlasintel,41,0.7129,9.7816,1,mid
+88421,2024-WI-general-0,2024,activote,37,7.3323,24.8319,1,mid
+88444,2024-WI-general-0,2024,remington,46,1.2156,13.0152,1,mid
+88468,2024-WI-general-0,2024,trafalgar group,36,1.5713,9.8222,1,mid
+88475,2024-WI-general-0,2024,benenson strategy group/gs strategy group,41,1.2156,25.3337,1,mid
+88488,2024-WI-general-0,2024,marquette law school,40,5.7927,12.1891,4,mid
+88538,2024-WI-general-0,2024,redfield & wilton strategies,34,4.7502,21.0141,1,mid
+88576,2024-WI-general-0,2024,research co.,29,4.1828,22.3894,1,late
+88593,2024-WI-general-0,2024,quinnipiac,29,3.2989,9.6911,1,late
+88612,2024-WI-general-0,2024,emerson,28,3.5348,10.4619,1,late
+88637,2024-WI-general-0,2024,insideradvantage,27,0.1849,13.1564,1,late
+88691,2024-WI-general-0,2024,patriot polling,22,0.1424,12.5778,1,late
+88755,2024-WI-general-0,2024,morning consult,21,4.5086,20.3446,1,late
+88756,2024-WI-general-0,2024,rmg research,20,2.225,13.0869,1,late
+88781,2024-WI-general-0,2024,bullfinch,18,3.3876,17.6984,1,late
+88801,2024-WI-general-0,2024,atlasintel,19,2.2703,11.2124,1,late
+88832,2024-WI-general-0,2024,redfield & wilton strategies,18,0.2559,18.062,1,late
+88844,2024-WI-general-0,2024,trafalgar group,16,-1.2818,9.5584,1,late
+88891,2024-WI-general-0,2024,rg strategies,43,7.4656,25.8608,1,mid
+88894,2024-WI-general-0,2024,quinnipiac,15,0.1632,9.3034,1,late
+88913,2024-WI-general-0,2024,emerson,14,-0.1393,13.0066,1,late
+88942,2024-WI-general-0,2024,onmessage inc.,14,-1.8987,17.1803,1,late
+88974,2024-WI-general-0,2024,suffolk,13,0.6913,22.2663,1,late
+89025,2024-WI-general-0,2024,insideradvantage,9,-1.8987,12.8852,1,late
+89064,2024-WI-general-0,2024,atlasintel,7,-0.0413,7.0271,1,late
+89083,2024-WI-general-0,2024,socal strategies,7,0.1632,17.1803,1,late
+89101,2024-WI-general-0,2024,cnn/ssrs,8,1.2156,14.1469,1,late
+89103,2024-WI-general-0,2024,marquette law school,12,1.6948,12.8891,4,late
+89137,2024-WI-general-0,2024,echelon insights,6,0.1632,17.1803,1,late
+89148,2024-WI-general-0,2024,atlasintel,5,-0.6632,15.193,1,late
+89150,2024-WI-general-0,2024,tipp,6,2.4183,11.7396,2,late
+89159,2024-WI-general-0,2024,marist college,6,2.1626,7.2883,2,late
+89176,2024-WI-general-0,2024,activote,5,6.3323,24.8704,1,late
+89205,2024-WI-general-0,2024,yougov,5,4.3954,11.9857,2,late
+89208,2024-WI-general-0,2024,onmessage inc.,5,0.1849,13.1564,1,late
+89247,2024-WI-general-0,2024,atlasintel,3,-0.3528,14.1461,1,late
+89276,2024-WI-general-0,2024,siena/nyt,3,3.2989,7.9683,2,late
+89284,2024-WI-general-0,2024,morning consult,4,1.2156,19.2461,1,late
+89292,2024-WI-general-0,2024,patriot polling,2,1.0495,12.0804,1,late
+89304,2024-WI-general-0,2024,insideradvantage,3,-1.3946,13.1714,1,late
+89314,2024-WI-general-0,2024,trafalgar group,2,-1.387,9.5616,1,late
+89330,2024-WI-general-0,2024,research co.,2,0.1849,23.3892,1,late
+89340,2024-WI-general-0,2024,emerson,3,4.4503,12.9975,1,late
+89346,2024-WI-general-0,2024,florida atlantic university/mainstreet research,3,1.3062,13.7185,2,late
+89384,2024-WI-general-0,2024,atlasintel,1,0.063,11.8992,1,late
+87120,2024-WV-general-0,2024,kaplan strategies,154,4.5467,21.208,1,mid
+87984,2024-WV-general-0,2024,research america,70,4.7,23.8134,1,mid
+89216,2024-WY-general-0,2024,cygnal,8,3.352,12.9647,1,late
