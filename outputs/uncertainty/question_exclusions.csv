@@ -1,0 +1,12 @@
+question_id,poll_id,contest_id,reason
+89594,55912,2018-MO-general-0,missing_sample_size
+135120,72073,2020-MI-general-0,missing_sample_size
+136798,56162,2018-AZ-general-0,missing_sample_size
+136809,72925,2018-TX-general-0,missing_sample_size
+137317,73247,2018-TN-general-0,missing_sample_size
+185062,84598,2024-AZ-general-0,missing_sample_size
+189911,85554,2024-PA-general-0,missing_sample_size
+189912,85555,2024-NV-general-0,missing_sample_size
+189913,85556,2024-PA-general-0,missing_sample_size
+215035,89123,2024-MI-general-0,missing_sample_size
+89853,56027,2018-AZ-general-0,shares_exceed_100

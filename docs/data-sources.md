@@ -103,4 +103,4 @@ Coverage and limitations:
 
 ## What this step does not do
 
-No polling margins are calculated here, missing sample sizes are not filled, and election results are not joined to polls. Those are later steps. The raw MIT file and the raw FiveThirtyEight file are stored separately from the Wikipedia extract.
+The download does not calculate polling margins, fill missing sample sizes, or join election results to polls. Cleaning and margins are a separate step, `python3 scripts/preprocess_polls.py`, documented in [preprocessing.md](preprocessing.md). That step reads these raw files and writes `data/processed/` without modifying them. The raw MIT file and the raw FiveThirtyEight file are stored separately from the Wikipedia extract.

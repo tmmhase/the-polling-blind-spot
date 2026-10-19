@@ -1,0 +1,148 @@
+{
+  "error_definition": "error_two_party = poll_margin_two_party - result_margin_two_party, in percentage points. Positive means the poll's two-candidate margin was more Democratic than the official two-candidate margin.",
+  "margin_definition": "poll_margin_two_party and result_margin_two_party are both (Democratic share - Republican share) / (Democratic share + Republican share) * 100 for the same two candidates. Other candidates, undecided responses, and blank ballots are outside that denominator. margin_dem_minus_rep, the unrescaled published poll gap, is retained and is not the primary error.",
+  "inclusion_rules": [
+    "FiveThirtyEight historical Senate questions only. 2026 polls have no result and are not scored.",
+    "Exactly one Democratic-side share (DEM or DFL) and one Republican share.",
+    "Not hypothetical, not a ranked-choice reallocation, and a general or runoff stage.",
+    "Fieldwork end date on or before the poll's election date. A missing election date is not filled in.",
+    "Both candidate names match one official contest of the same state, stage, and election year.",
+    "Two official contests with the same names, such as a same-day special and full-term ballot, are excluded."
+  ],
+  "leakage_controls": [
+    "Result votes are not used to choose which candidate or which contest a poll matches.",
+    "Polls that ended after election day are excluded before a result margin is attached.",
+    "Race averages are computed from poll margins and sample sizes only, then the result is subtracted.",
+    "Result fields are written only to the analysis outputs, not back onto the cleaned poll tables."
+  ],
+  "inputs": {
+    "fte_file": "fivethirtyeight_senate_polls_historical.csv",
+    "fte_sha256": "09ae303a94f76dd761532fce7a356fe3b5beb1e24d4e5ba343c424c372fdfabf",
+    "fte_rows": 9292,
+    "medsl_file": "medsl_us_senate_statewide_returns_1976_2024.csv",
+    "medsl_sha256": "6f745db1b4a0026ad837e74428f9ed6f3f77fa51eb6f858b58ebdbc186fdb3bd",
+    "medsl_rows": 3945,
+    "medsl_version_by_year": {
+      "2018": [
+        "20210114"
+      ],
+      "2020": [
+        "20210114"
+      ],
+      "2021": [
+        "20210114"
+      ],
+      "2022": [
+        "20230920"
+      ],
+      "2024": [
+        "11/20/25",
+        "20241212"
+      ]
+    }
+  },
+  "n_questions": 3926,
+  "n_included_polls": 3212,
+  "n_excluded_questions": 714,
+  "n_races": 119,
+  "exclusions_by_reason": {
+    "hypothetical": 452,
+    "not_two_party_margin": 187,
+    "ambiguous_duplicate_ballot": 27,
+    "unmatched_candidate": 20,
+    "no_result_contest": 18,
+    "ranked_choice": 7,
+    "stage_not_comparable": 2,
+    "missing_election_date": 1
+  },
+  "poll_level": {
+    "n": 3212,
+    "mean_signed_error": 3.6501,
+    "median_signed_error": 3.6426,
+    "std_signed_error": 6.7343,
+    "mae": 5.9706,
+    "rmse": 7.6589,
+    "p10": -4.2055,
+    "p25": -0.4403,
+    "p75": 7.7734,
+    "p90": 11.8854
+  },
+  "race_level_unweighted_mean": {
+    "n": 119,
+    "mean_signed_error": 3.7386,
+    "median_signed_error": 3.9475,
+    "std_signed_error": 5.5817,
+    "mae": 5.3034,
+    "rmse": 6.6986,
+    "p10": -2.717,
+    "p25": 0.2555,
+    "p75": 6.7483,
+    "p90": 10.4734
+  },
+  "variance_decomposition": {
+    "n_polls": 3212,
+    "n_races": 119,
+    "n_races_with_two_polls": 104,
+    "within_race_variance": 31.1953,
+    "within_race_df": 3093,
+    "between_race_variance": 31.1552
+  },
+  "slices": [
+    {
+      "slice": "all_included_polls",
+      "unit": "poll",
+      "n": 3212,
+      "mean_signed_error": 3.6501,
+      "median_signed_error": 3.6426,
+      "std_signed_error": 6.7343,
+      "mae": 5.9706,
+      "rmse": 7.6589,
+      "p10": -4.2055,
+      "p25": -0.4403,
+      "p75": 7.7734,
+      "p90": 11.8854
+    },
+    {
+      "slice": "excluding_flagged_internal",
+      "unit": "poll",
+      "n": 3074,
+      "mean_signed_error": 3.6806,
+      "median_signed_error": 3.6801,
+      "std_signed_error": 6.6045,
+      "mae": 5.9133,
+      "rmse": 7.5599,
+      "p10": -4.1179,
+      "p25": -0.2821,
+      "p75": 7.7478,
+      "p90": 11.7431
+    },
+    {
+      "slice": "excluding_internal_and_partisan",
+      "unit": "poll",
+      "n": 2580,
+      "mean_signed_error": 3.7806,
+      "median_signed_error": 3.8568,
+      "std_signed_error": 6.3953,
+      "mae": 5.8412,
+      "rmse": 7.4281,
+      "p10": -3.9625,
+      "p25": -0.0388,
+      "p75": 7.7335,
+      "p90": 11.3876
+    },
+    {
+      "slice": "all_matched_races",
+      "unit": "race",
+      "n": 119,
+      "mean_signed_error": 3.7386,
+      "median_signed_error": 3.9475,
+      "std_signed_error": 5.5817,
+      "mae": 5.3034,
+      "rmse": 6.6986,
+      "p10": -2.717,
+      "p25": 0.2555,
+      "p75": 6.7483,
+      "p90": 10.4734
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+slice,unit,n,mean_signed_error,median_signed_error,std_signed_error,mae,rmse,p10,p25,p75,p90
+all_included_polls,poll,3212,3.6501,3.6426,6.7343,5.9706,7.6589,-4.2055,-0.4403,7.7734,11.8854
+excluding_flagged_internal,poll,3074,3.6806,3.6801,6.6045,5.9133,7.5599,-4.1179,-0.2821,7.7478,11.7431
+excluding_internal_and_partisan,poll,2580,3.7806,3.8568,6.3953,5.8412,7.4281,-3.9625,-0.0388,7.7335,11.3876
+all_matched_races,race,119,3.7386,3.9475,5.5817,5.3034,6.6986,-2.7170,0.2555,6.7483,10.4734
