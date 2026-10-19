@@ -1,0 +1,32 @@
+@import "@fontsource/newsreader/400.css";
+@import "@fontsource/newsreader/600.css";
+@import "@fontsource/public-sans/400.css";
+@import "@fontsource/public-sans/600.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-paper font-sans text-ink antialiased;
+  font-variant-numeric: tabular-nums;
+}
+
+::selection {
+  background: #e7d3c4;
+}
+
+.state-shape {
+  cursor: pointer;
+  outline: none;
+  transition: stroke-width 80ms linear;
+}
+
+.state-shape:focus-visible {
+  stroke: #8d4e2f;
+  stroke-width: 2.5px;
+}

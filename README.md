@@ -38,3 +38,14 @@ python3 scripts/analyze_polling_error.py
 ```bash
 python3 scripts/run_uncertainty.py
 ```
+
+## Dashboard
+
+The Day 5 dashboard is a Next.js app in `frontend/` backed by a read-only FastAPI service. The API serves the committed tables in `outputs/historical_polling_error/` and `outputs/uncertainty/`. It does not download polls, and it does not score a 2026 contest.
+
+```bash
+python3 scripts/serve_api.py
+cd frontend && npm install && npm run dev
+```
+
+Open http://localhost:3000. The Next.js server proxies `/api/*` to FastAPI on `127.0.0.1:8000`. `API_PROXY_TARGET` overrides that address.
